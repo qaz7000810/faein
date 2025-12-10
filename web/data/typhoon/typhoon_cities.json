@@ -1,0 +1,6554 @@
+[
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "基隆市",
+    "flag": 5.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "基隆市",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "臺北市",
+    "flag": 5.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "臺北市",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "新北市",
+    "flag": 5.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "新北市",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "桃園市",
+    "flag": 5.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "桃園市",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "新竹市",
+    "flag": 5.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "新竹市",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "新竹縣",
+    "flag": 5.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "新竹縣",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MATSA",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "苗栗縣",
+    "flag": 6.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "苗栗縣",
+    "flag": 85.71428571428571
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MATSA",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "臺中市",
+    "flag": 3.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "臺中市",
+    "flag": 42.857142857142854
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "彰化縣",
+    "flag": 2.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "彰化縣",
+    "flag": 28.57142857142857
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MATSA",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "南投縣",
+    "flag": 3.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "南投縣",
+    "flag": 42.857142857142854
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "嘉義縣",
+    "flag": 2.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "嘉義縣",
+    "flag": 28.57142857142857
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "高雄市",
+    "flag": 14.285714285714285
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "屏東縣",
+    "flag": 14.285714285714285
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "宜蘭縣",
+    "flag": 5.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "宜蘭縣",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "花蓮縣",
+    "flag": 14.285714285714285
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "FITOW",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "連江縣",
+    "flag": 5.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "連江縣",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "金門縣",
+    "flag": 2.0
+  },
+  {
+    "path": 1,
+    "typhoon": "機率",
+    "county": "金門縣",
+    "flag": 28.57142857142857
+  },
+  {
+    "path": 1,
+    "typhoon": "AERE",
+    "county": "總數",
+    "flag": 14.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MATSA",
+    "county": "總數",
+    "flag": 3.0
+  },
+  {
+    "path": 1,
+    "typhoon": "WIPHA",
+    "county": "總數",
+    "flag": 8.0
+  },
+  {
+    "path": 1,
+    "typhoon": "TRAMI",
+    "county": "總數",
+    "flag": 17.0
+  },
+  {
+    "path": 1,
+    "typhoon": "FITOW",
+    "county": "總數",
+    "flag": 1.0
+  },
+  {
+    "path": 1,
+    "typhoon": "MARIA",
+    "county": "總數",
+    "flag": 9.0
+  },
+  {
+    "path": 1,
+    "typhoon": "LEKIMA",
+    "county": "總數",
+    "flag": 9.0
+  },
+  {
+    "path": 1,
+    "typhoon": "總計",
+    "county": "總數",
+    "flag": 61.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "基隆市",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "基隆市",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "臺北市",
+    "flag": 8.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "臺北市",
+    "flag": 80.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "新北市",
+    "flag": 8.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "新北市",
+    "flag": 80.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "桃園市",
+    "flag": 8.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "桃園市",
+    "flag": 80.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "新竹市",
+    "flag": 8.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "新竹市",
+    "flag": 80.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "新竹縣",
+    "flag": 8.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "新竹縣",
+    "flag": 80.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "苗栗縣",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "苗栗縣",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "臺中市",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "臺中市",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "彰化縣",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "彰化縣",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "雲林縣",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "雲林縣",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "南投縣",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "南投縣",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "嘉義市",
+    "flag": 8.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "嘉義市",
+    "flag": 80.0
+  },
+  {
+    "path": 2,
+    "typhoon": "BILIS",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "嘉義縣",
+    "flag": 10.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "嘉義縣",
+    "flag": 100.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "臺南市",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "臺南市",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "高雄市",
+    "flag": 8.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "高雄市",
+    "flag": 80.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "屏東縣",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "屏東縣",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "BILIS",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "宜蘭縣",
+    "flag": 10.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "宜蘭縣",
+    "flag": 100.0
+  },
+  {
+    "path": 2,
+    "typhoon": "BILIS",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "花蓮縣",
+    "flag": 9.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "花蓮縣",
+    "flag": 90.0
+  },
+  {
+    "path": 2,
+    "typhoon": "BILIS",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "臺東縣",
+    "flag": 8.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "臺東縣",
+    "flag": 80.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "澎湖縣",
+    "flag": 7.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "澎湖縣",
+    "flag": 70.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "連江縣",
+    "flag": 6.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "連江縣",
+    "flag": 60.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "金門縣",
+    "flag": 4.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "金門縣",
+    "flag": 40.0
+  },
+  {
+    "path": 2,
+    "typhoon": "BILIS",
+    "county": "總計",
+    "flag": 4.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KROSA",
+    "county": "總計",
+    "flag": 20.0
+  },
+  {
+    "path": 2,
+    "typhoon": "KALMAEGI",
+    "county": "總計",
+    "flag": 11.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SINLAKU",
+    "county": "總計",
+    "flag": 19.0
+  },
+  {
+    "path": 2,
+    "typhoon": "JANGMI",
+    "county": "總計",
+    "flag": 21.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SAOLA",
+    "county": "總計",
+    "flag": 20.0
+  },
+  {
+    "path": 2,
+    "typhoon": "SOULIK",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 2,
+    "typhoon": "DUJUAN",
+    "county": "總計",
+    "flag": 21.0
+  },
+  {
+    "path": 2,
+    "typhoon": "NESAT",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 2,
+    "typhoon": "GAEMI",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 2,
+    "typhoon": "總計",
+    "county": "總計",
+    "flag": 182.0
+  },
+  {
+    "path": 2,
+    "typhoon": "機率",
+    "county": "總計",
+    "flag": 1820.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "基隆市",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "基隆市",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "臺北市",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "臺北市",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "新北市",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "新北市",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "桃園市",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "桃園市",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "新竹市",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "新竹市",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "新竹縣",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "新竹縣",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "苗栗縣",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "苗栗縣",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "臺中市",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "臺中市",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "彰化縣",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "彰化縣",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "雲林縣",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "雲林縣",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "南投縣",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "南投縣",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "嘉義市",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "嘉義市",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "嘉義縣",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "嘉義縣",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "臺南市",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "臺南市",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KAEMI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "高雄市",
+    "flag": 10.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "高雄市",
+    "flag": 83.33333333333334
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KAEMI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "屏東縣",
+    "flag": 10.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "屏東縣",
+    "flag": 83.33333333333334
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KAEMI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "宜蘭縣",
+    "flag": 10.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "宜蘭縣",
+    "flag": 83.33333333333334
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KAEMI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "WUTIP",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "花蓮縣",
+    "flag": 11.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "花蓮縣",
+    "flag": 91.66666666666666
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KAEMI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "WUTIP",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "臺東縣",
+    "flag": 11.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "臺東縣",
+    "flag": 91.66666666666666
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KAEMI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "澎湖縣",
+    "flag": 10.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "澎湖縣",
+    "flag": 83.33333333333334
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "連江縣",
+    "flag": 9.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "連江縣",
+    "flag": 75.0
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KAEMI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "金門縣",
+    "flag": 8.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "金門縣",
+    "flag": 66.66666666666666
+  },
+  {
+    "path": 3,
+    "typhoon": "HAITANG",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 3,
+    "typhoon": "TALIM",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KAEMI",
+    "county": "總計",
+    "flag": 7.0
+  },
+  {
+    "path": 3,
+    "typhoon": "WUTIP",
+    "county": "總計",
+    "flag": 2.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SEPAT",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 3,
+    "typhoon": "FUNG-WONG",
+    "county": "總計",
+    "flag": 21.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MORAKOT",
+    "county": "總計",
+    "flag": 21.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MATMO",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 3,
+    "typhoon": "SOUDELOR",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 3,
+    "typhoon": "MEGI",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 3,
+    "typhoon": "KONG-REY",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 3,
+    "typhoon": "總計",
+    "county": "總計",
+    "flag": 205.0
+  },
+  {
+    "path": 3,
+    "typhoon": "機率",
+    "county": "總計",
+    "flag": 1708.3333333333333
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "基隆市",
+    "flag": 2.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "基隆市",
+    "flag": 25.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "臺北市",
+    "flag": 2.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "臺北市",
+    "flag": 25.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "新北市",
+    "flag": 2.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "新北市",
+    "flag": 25.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "桃園市",
+    "flag": 2.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "桃園市",
+    "flag": 25.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "新竹市",
+    "flag": 3.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "新竹市",
+    "flag": 37.5
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "新竹縣",
+    "flag": 3.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "新竹縣",
+    "flag": 37.5
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "苗栗縣",
+    "flag": 3.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "苗栗縣",
+    "flag": 37.5
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "臺中市",
+    "flag": 4.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "臺中市",
+    "flag": 50.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "彰化縣",
+    "flag": 4.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "彰化縣",
+    "flag": 50.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "雲林縣",
+    "flag": 4.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "雲林縣",
+    "flag": 50.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "南投縣",
+    "flag": 5.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "南投縣",
+    "flag": 62.5
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "嘉義市",
+    "flag": 4.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "嘉義市",
+    "flag": 50.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "嘉義縣",
+    "flag": 4.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "嘉義縣",
+    "flag": 50.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BAILU",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "臺南市",
+    "flag": 6.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "臺南市",
+    "flag": 75.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BAILU",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "高雄市",
+    "flag": 6.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "高雄市",
+    "flag": 75.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BOPHA",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "PABUK",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BAILU",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "屏東縣",
+    "flag": 8.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "屏東縣",
+    "flag": 100.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "宜蘭縣",
+    "flag": 5.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "宜蘭縣",
+    "flag": 62.5
+  },
+  {
+    "path": 4,
+    "typhoon": "PABUK",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BAILU",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "花蓮縣",
+    "flag": 7.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "花蓮縣",
+    "flag": 87.5
+  },
+  {
+    "path": 4,
+    "typhoon": "PABUK",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BAILU",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "臺東縣",
+    "flag": 7.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "臺東縣",
+    "flag": 87.5
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BAILU",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "澎湖縣",
+    "flag": 6.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "澎湖縣",
+    "flag": 75.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "連江縣",
+    "flag": 3.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "連江縣",
+    "flag": 37.5
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BAILU",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "金門縣",
+    "flag": 5.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "金門縣",
+    "flag": 62.5
+  },
+  {
+    "path": 4,
+    "typhoon": "BOPHA",
+    "county": "總計",
+    "flag": 1.0
+  },
+  {
+    "path": 4,
+    "typhoon": "PABUK",
+    "county": "總計",
+    "flag": 3.0
+  },
+  {
+    "path": 4,
+    "typhoon": "FANAPI",
+    "county": "總計",
+    "flag": 21.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NANMADOL",
+    "county": "總計",
+    "flag": 8.0
+  },
+  {
+    "path": 4,
+    "typhoon": "NEPARTAK",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 4,
+    "typhoon": "BAILU",
+    "county": "總計",
+    "flag": 7.0
+  },
+  {
+    "path": 4,
+    "typhoon": "HAIKUI",
+    "county": "總計",
+    "flag": 15.0
+  },
+  {
+    "path": 4,
+    "typhoon": "KOINU",
+    "county": "總計",
+    "flag": 18.0
+  },
+  {
+    "path": 4,
+    "typhoon": "總計",
+    "county": "總計",
+    "flag": 95.0
+  },
+  {
+    "path": 4,
+    "typhoon": "機率",
+    "county": "總計",
+    "flag": 1187.5
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "新竹縣",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "臺中市",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "彰化縣",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "雲林縣",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "嘉義縣",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "臺南市",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "高雄市",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "ATSANI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "屏東縣",
+    "flag": 2.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "屏東縣",
+    "flag": 100.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "花蓮縣",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "ATSANI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "臺東縣",
+    "flag": 2.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "臺東縣",
+    "flag": 100.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "澎湖縣",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "金門縣",
+    "flag": 50.0
+  },
+  {
+    "path": 5,
+    "typhoon": "USAGI",
+    "county": "總計",
+    "flag": 12.0
+  },
+  {
+    "path": 5,
+    "typhoon": "ATSANI",
+    "county": "總計",
+    "flag": 2.0
+  },
+  {
+    "path": 5,
+    "typhoon": "總計",
+    "county": "總計",
+    "flag": 14.0
+  },
+  {
+    "path": 5,
+    "typhoon": "機率",
+    "county": "總計",
+    "flag": 700.0
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "基隆市",
+    "flag": 3.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "基隆市",
+    "flag": 42.857142857142854
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "臺北市",
+    "flag": 3.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "臺北市",
+    "flag": 42.857142857142854
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "HINNAMNOR",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "新北市",
+    "flag": 4.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "新北市",
+    "flag": 57.14285714285714
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "HINNAMNOR",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "桃園市",
+    "flag": 3.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "桃園市",
+    "flag": 42.857142857142854
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "新竹市",
+    "flag": 2.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "新竹市",
+    "flag": 28.57142857142857
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "HINNAMNOR",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "新竹縣",
+    "flag": 4.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "新竹縣",
+    "flag": 57.14285714285714
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "苗栗縣",
+    "flag": 14.285714285714285
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "臺中市",
+    "flag": 2.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "臺中市",
+    "flag": 28.57142857142857
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "雲林縣",
+    "flag": 14.285714285714285
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "嘉義市",
+    "flag": 14.285714285714285
+  },
+  {
+    "path": 6,
+    "typhoon": "MINDULLE",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "嘉義縣",
+    "flag": 2.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "嘉義縣",
+    "flag": 28.57142857142857
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "臺南市",
+    "flag": 14.285714285714285
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "高雄市",
+    "flag": 2.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "高雄市",
+    "flag": 28.57142857142857
+  },
+  {
+    "path": 6,
+    "typhoon": "MINDULLE",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "屏東縣",
+    "flag": 3.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "屏東縣",
+    "flag": 42.857142857142854
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "宜蘭縣",
+    "flag": 4.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "宜蘭縣",
+    "flag": 57.14285714285714
+  },
+  {
+    "path": 6,
+    "typhoon": "MINDULLE",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "花蓮縣",
+    "flag": 5.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "花蓮縣",
+    "flag": 71.42857142857143
+  },
+  {
+    "path": 6,
+    "typhoon": "MINDULLE",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "HINNAMNOR",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "臺東縣",
+    "flag": 6.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "臺東縣",
+    "flag": 85.71428571428571
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "連江縣",
+    "flag": 14.285714285714285
+  },
+  {
+    "path": 6,
+    "typhoon": "MINDULLE",
+    "county": "總計",
+    "flag": 4.0
+  },
+  {
+    "path": 6,
+    "typhoon": "NOCK-TEN",
+    "county": "總計",
+    "flag": 10.0
+  },
+  {
+    "path": 6,
+    "typhoon": "KONG-REY",
+    "county": "總計",
+    "flag": 10.0
+  },
+  {
+    "path": 6,
+    "typhoon": "MITAG",
+    "county": "總計",
+    "flag": 11.0
+  },
+  {
+    "path": 6,
+    "typhoon": "CHANTHU",
+    "county": "總計",
+    "flag": 9.0
+  },
+  {
+    "path": 6,
+    "typhoon": "HINNAMNOR",
+    "county": "總計",
+    "flag": 4.0
+  },
+  {
+    "path": 6,
+    "typhoon": "總計",
+    "county": "總計",
+    "flag": 48.0
+  },
+  {
+    "path": 6,
+    "typhoon": "機率",
+    "county": "總計",
+    "flag": 685.7142857142857
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "基隆市",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "基隆市",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "臺北市",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "臺北市",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "新北市",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "新北市",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "桃園市",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "桃園市",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "新竹市",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "新竹市",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "新竹縣",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "新竹縣",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "苗栗縣",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "苗栗縣",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "臺中市",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "臺中市",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "彰化縣",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "彰化縣",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "雲林縣",
+    "flag": 3.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "雲林縣",
+    "flag": 75.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "南投縣",
+    "flag": 3.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "南投縣",
+    "flag": 75.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "嘉義市",
+    "flag": 3.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "嘉義市",
+    "flag": 75.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "嘉義縣",
+    "flag": 3.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "嘉義縣",
+    "flag": 75.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "臺南市",
+    "flag": 4.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "臺南市",
+    "flag": 100.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "高雄市",
+    "flag": 4.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "高雄市",
+    "flag": 100.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "屏東縣",
+    "flag": 4.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "屏東縣",
+    "flag": 100.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "宜蘭縣",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "宜蘭縣",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "花蓮縣",
+    "flag": 4.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "花蓮縣",
+    "flag": 100.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "臺東縣",
+    "flag": 4.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "臺東縣",
+    "flag": 100.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "澎湖縣",
+    "flag": 4.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "澎湖縣",
+    "flag": 100.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "連江縣",
+    "flag": 2.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "連江縣",
+    "flag": 50.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "金門縣",
+    "flag": 4.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "金門縣",
+    "flag": 100.0
+  },
+  {
+    "path": 7,
+    "typhoon": "MERANTI",
+    "county": "總計",
+    "flag": 8.0
+  },
+  {
+    "path": 7,
+    "typhoon": "HAITANG",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 7,
+    "typhoon": "DOKSURI",
+    "county": "總計",
+    "flag": 10.0
+  },
+  {
+    "path": 7,
+    "typhoon": "KRATHON",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 7,
+    "typhoon": "總計",
+    "county": "總計",
+    "flag": 62.0
+  },
+  {
+    "path": 7,
+    "typhoon": "機率",
+    "county": "總計",
+    "flag": 1550.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "基隆市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "基隆市",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "臺北市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "臺北市",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "新北市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "新北市",
+    "flag": 2.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "新北市",
+    "flag": 33.33333333333333
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "桃園市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "桃園市",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "新竹市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "新竹市",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "新竹縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "新竹縣",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "苗栗縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "苗栗縣",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "臺中市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "臺中市",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "彰化縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "彰化縣",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "雲林縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "雲林縣",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "南投縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "南投縣",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "嘉義市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "嘉義市",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "嘉義縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "嘉義縣",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "LIONROCK",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "臺南市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "臺南市",
+    "flag": 3.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "臺南市",
+    "flag": 50.0
+  },
+  {
+    "path": 9,
+    "typhoon": "LIONROCK",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "高雄市",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "高雄市",
+    "flag": 3.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "高雄市",
+    "flag": 50.0
+  },
+  {
+    "path": 9,
+    "typhoon": "NANMADOL",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "LIONROCK",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "屏東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "屏東縣",
+    "flag": 4.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "屏東縣",
+    "flag": 66.66666666666666
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "宜蘭縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "宜蘭縣",
+    "flag": 2.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "宜蘭縣",
+    "flag": 33.33333333333333
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "花蓮縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "花蓮縣",
+    "flag": 16.666666666666664
+  },
+  {
+    "path": 9,
+    "typhoon": "NANMADOL",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "LIONROCK",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "臺東縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "臺東縣",
+    "flag": 4.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "臺東縣",
+    "flag": 66.66666666666666
+  },
+  {
+    "path": 9,
+    "typhoon": "CHANCHU",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "LINFA",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "LIONROCK",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "澎湖縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "澎湖縣",
+    "flag": 5.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "澎湖縣",
+    "flag": 83.33333333333334
+  },
+  {
+    "path": 9,
+    "typhoon": "CHANCHU",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "連江縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "連江縣",
+    "flag": 2.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "連江縣",
+    "flag": 33.33333333333333
+  },
+  {
+    "path": 9,
+    "typhoon": "CHANCHU",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "LINFA",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "金門縣",
+    "flag": 1.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "金門縣",
+    "flag": 4.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "金門縣",
+    "flag": 66.66666666666666
+  },
+  {
+    "path": 9,
+    "typhoon": "NANMADOL",
+    "county": "總計",
+    "flag": 2.0
+  },
+  {
+    "path": 9,
+    "typhoon": "CHANCHU",
+    "county": "總計",
+    "flag": 3.0
+  },
+  {
+    "path": 9,
+    "typhoon": "LINFA",
+    "county": "總計",
+    "flag": 2.0
+  },
+  {
+    "path": 9,
+    "typhoon": "LIONROCK",
+    "county": "總計",
+    "flag": 5.0
+  },
+  {
+    "path": 9,
+    "typhoon": "MEGI",
+    "county": "總計",
+    "flag": 8.0
+  },
+  {
+    "path": 9,
+    "typhoon": "TALIM",
+    "county": "總計",
+    "flag": 22.0
+  },
+  {
+    "path": 9,
+    "typhoon": "總計",
+    "county": "總計",
+    "flag": 42.0
+  },
+  {
+    "path": 9,
+    "typhoon": "機率",
+    "county": "總計",
+    "flag": 700.0
+  }
+]

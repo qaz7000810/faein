@@ -1,0 +1,10703 @@
+[
+  {
+    "id": "12J990",
+    "name": "口湖工作站",
+    "county": "雲林縣",
+    "alt": 10.0,
+    "lon": 120.180394,
+    "lat": 23.589978,
+    "status": "existing"
+  },
+  {
+    "id": "12Q970",
+    "name": "東港工作站",
+    "county": "屏東縣",
+    "alt": 16.0,
+    "lon": 120.466058,
+    "lat": 22.479997,
+    "status": "existing"
+  },
+  {
+    "id": "12Q980",
+    "name": "恆春工作站",
+    "county": "屏東縣",
+    "alt": 16.0,
+    "lon": 120.714425,
+    "lat": 22.079678,
+    "status": "existing"
+  },
+  {
+    "id": "42HA10",
+    "name": "萬大發電廠",
+    "county": "南投縣",
+    "alt": 1000.0,
+    "lon": 121.139639,
+    "lat": 23.978875,
+    "status": "existing"
+  },
+  {
+    "id": "460010",
+    "name": "金六結",
+    "county": "宜蘭縣",
+    "alt": 9.5,
+    "lon": 121.774854,
+    "lat": 24.748182,
+    "status": "revoked"
+  },
+  {
+    "id": "460020",
+    "name": "鹿林山",
+    "county": "嘉義縣",
+    "alt": 2860.0,
+    "lon": 120.874787,
+    "lat": 23.481561,
+    "status": "revoked"
+  },
+  {
+    "id": "466850",
+    "name": "五分山雷達站",
+    "county": "新北市",
+    "alt": 756.0,
+    "lon": 121.781205,
+    "lat": 25.071182,
+    "status": "existing"
+  },
+  {
+    "id": "466880",
+    "name": "板橋",
+    "county": "新北市",
+    "alt": 9.7,
+    "lon": 121.442017,
+    "lat": 24.997647,
+    "status": "revoked"
+  },
+  {
+    "id": "466881",
+    "name": "新北",
+    "county": "新北市",
+    "alt": 24.5,
+    "lon": 121.525196,
+    "lat": 24.959207,
+    "status": "existing"
+  },
+  {
+    "id": "466900",
+    "name": "淡水",
+    "county": "新北市",
+    "alt": 19.0,
+    "lon": 121.448906,
+    "lat": 25.164889,
+    "status": "existing"
+  },
+  {
+    "id": "466910",
+    "name": "鞍部",
+    "county": "臺北市",
+    "alt": 837.6,
+    "lon": 121.529731,
+    "lat": 25.182586,
+    "status": "existing"
+  },
+  {
+    "id": "466920",
+    "name": "臺北",
+    "county": "臺北市",
+    "alt": 6.3,
+    "lon": 121.514853,
+    "lat": 25.037658,
+    "status": "existing"
+  },
+  {
+    "id": "466921",
+    "name": "臺北(師院)",
+    "county": "臺北市",
+    "alt": 6.1,
+    "lon": 121.513225,
+    "lat": 25.036275,
+    "status": "revoked"
+  },
+  {
+    "id": "466930",
+    "name": "竹子湖",
+    "county": "臺北市",
+    "alt": 607.1,
+    "lon": 121.544547,
+    "lat": 25.162078,
+    "status": "existing"
+  },
+  {
+    "id": "466940",
+    "name": "基隆",
+    "county": "基隆市",
+    "alt": 26.7,
+    "lon": 121.740475,
+    "lat": 25.133314,
+    "status": "existing"
+  },
+  {
+    "id": "466950",
+    "name": "彭佳嶼",
+    "county": "基隆市",
+    "alt": 101.7,
+    "lon": 122.079744,
+    "lat": 25.627975,
+    "status": "existing"
+  },
+  {
+    "id": "466990",
+    "name": "花蓮",
+    "county": "花蓮縣",
+    "alt": 16.1,
+    "lon": 121.613275,
+    "lat": 23.975128,
+    "status": "existing"
+  },
+  {
+    "id": "467050",
+    "name": "新屋",
+    "county": "桃園市",
+    "alt": 20.6,
+    "lon": 121.047492,
+    "lat": 25.006725,
+    "status": "existing"
+  },
+  {
+    "id": "467060",
+    "name": "蘇澳",
+    "county": "宜蘭縣",
+    "alt": 24.9,
+    "lon": 121.857372,
+    "lat": 24.596736,
+    "status": "revoked"
+  },
+  {
+    "id": "467080",
+    "name": "宜蘭",
+    "county": "宜蘭縣",
+    "alt": 7.2,
+    "lon": 121.756528,
+    "lat": 24.763975,
+    "status": "existing"
+  },
+  {
+    "id": "467110",
+    "name": "金門",
+    "county": "金門縣",
+    "alt": 47.9,
+    "lon": 118.289281,
+    "lat": 24.407306,
+    "status": "existing"
+  },
+  {
+    "id": "467270",
+    "name": "田中",
+    "county": "彰化縣",
+    "alt": 48.6,
+    "lon": 120.581286,
+    "lat": 23.873803,
+    "status": "existing"
+  },
+  {
+    "id": "467280",
+    "name": "後龍",
+    "county": "苗栗縣",
+    "alt": 30.0,
+    "lon": 120.831834,
+    "lat": 24.648563,
+    "status": "existing"
+  },
+  {
+    "id": "467290",
+    "name": "古坑",
+    "county": "雲林縣",
+    "alt": 90.0,
+    "lon": 120.551889,
+    "lat": 23.633639,
+    "status": "existing"
+  },
+  {
+    "id": "467300",
+    "name": "東吉島",
+    "county": "澎湖縣",
+    "alt": 43.0,
+    "lon": 119.66762,
+    "lat": 23.25727,
+    "status": "existing"
+  },
+  {
+    "id": "467350",
+    "name": "澎湖",
+    "county": "澎湖縣",
+    "alt": 10.7,
+    "lon": 119.563094,
+    "lat": 23.565503,
+    "status": "existing"
+  },
+  {
+    "id": "467410",
+    "name": "臺南",
+    "county": "臺南市",
+    "alt": 40.8,
+    "lon": 120.20492,
+    "lat": 22.99328,
+    "status": "existing"
+  },
+  {
+    "id": "467411",
+    "name": "臺南(永康)",
+    "county": "臺南市",
+    "alt": 8.1,
+    "lon": 120.2367,
+    "lat": 23.038386,
+    "status": "revoked"
+  },
+  {
+    "id": "467420",
+    "name": "永康",
+    "county": "臺南市",
+    "alt": 8.1,
+    "lon": 120.2367,
+    "lat": 23.038386,
+    "status": "existing"
+  },
+  {
+    "id": "467440",
+    "name": "高雄",
+    "county": "高雄市",
+    "alt": 2.3,
+    "lon": 120.315733,
+    "lat": 22.565992,
+    "status": "revoked"
+  },
+  {
+    "id": "467441",
+    "name": "高雄",
+    "county": "高雄市",
+    "alt": 11.8,
+    "lon": 120.312516,
+    "lat": 22.730432,
+    "status": "existing"
+  },
+  {
+    "id": "467480",
+    "name": "嘉義",
+    "county": "嘉義市",
+    "alt": 26.9,
+    "lon": 120.432906,
+    "lat": 23.495925,
+    "status": "existing"
+  },
+  {
+    "id": "467490",
+    "name": "臺中",
+    "county": "臺中市",
+    "alt": 84.0,
+    "lon": 120.684075,
+    "lat": 24.145736,
+    "status": "existing"
+  },
+  {
+    "id": "467530",
+    "name": "阿里山",
+    "county": "嘉義縣",
+    "alt": 2413.4,
+    "lon": 120.813242,
+    "lat": 23.508208,
+    "status": "existing"
+  },
+  {
+    "id": "467540",
+    "name": "大武",
+    "county": "臺東縣",
+    "alt": 8.1,
+    "lon": 120.90374,
+    "lat": 22.35572,
+    "status": "existing"
+  },
+  {
+    "id": "467550",
+    "name": "玉山",
+    "county": "南投縣",
+    "alt": 3844.8,
+    "lon": 120.95943,
+    "lat": 23.48718,
+    "status": "existing"
+  },
+  {
+    "id": "467570",
+    "name": "新竹",
+    "county": "新竹市",
+    "alt": 32.8,
+    "lon": 120.977639,
+    "lat": 24.800446,
+    "status": "revoked"
+  },
+  {
+    "id": "467571",
+    "name": "新竹",
+    "county": "新竹縣",
+    "alt": 26.9,
+    "lon": 121.014219,
+    "lat": 24.827853,
+    "status": "existing"
+  },
+  {
+    "id": "467590",
+    "name": "恆春",
+    "county": "屏東縣",
+    "alt": 22.3,
+    "lon": 120.746339,
+    "lat": 22.003897,
+    "status": "existing"
+  },
+  {
+    "id": "467610",
+    "name": "成功",
+    "county": "臺東縣",
+    "alt": 33.5,
+    "lon": 121.373428,
+    "lat": 23.097486,
+    "status": "existing"
+  },
+  {
+    "id": "467620",
+    "name": "蘭嶼",
+    "county": "臺東縣",
+    "alt": 324.0,
+    "lon": 121.55843,
+    "lat": 22.0369,
+    "status": "existing"
+  },
+  {
+    "id": "467650",
+    "name": "日月潭",
+    "county": "南投縣",
+    "alt": 1017.5,
+    "lon": 120.90805,
+    "lat": 23.881325,
+    "status": "existing"
+  },
+  {
+    "id": "467660",
+    "name": "臺東",
+    "county": "臺東縣",
+    "alt": 9.0,
+    "lon": 121.154586,
+    "lat": 22.752211,
+    "status": "existing"
+  },
+  {
+    "id": "467770",
+    "name": "梧棲",
+    "county": "臺中市",
+    "alt": 31.73,
+    "lon": 120.523381,
+    "lat": 24.256003,
+    "status": "revoked"
+  },
+  {
+    "id": "467780",
+    "name": "七股",
+    "county": "臺南市",
+    "alt": 2.9,
+    "lon": 120.086153,
+    "lat": 23.147006,
+    "status": "revoked"
+  },
+  {
+    "id": "467790",
+    "name": "墾丁雷達站",
+    "county": "屏東縣",
+    "alt": 42.0,
+    "lon": 120.808028,
+    "lat": 21.948235,
+    "status": "existing"
+  },
+  {
+    "id": "467990",
+    "name": "馬祖",
+    "county": "連江縣",
+    "alt": 97.8,
+    "lon": 119.923158,
+    "lat": 26.169467,
+    "status": "existing"
+  },
+  {
+    "id": "72AI40",
+    "name": "桃改樹林分場",
+    "county": "新北市",
+    "alt": 40.0,
+    "lon": 121.386972,
+    "lat": 24.944503,
+    "status": "existing"
+  },
+  {
+    "id": "72C440",
+    "name": "桃園農改場",
+    "county": "桃園市",
+    "alt": 70.0,
+    "lon": 121.030583,
+    "lat": 24.950944,
+    "status": "existing"
+  },
+  {
+    "id": "72D080",
+    "name": "桃改五峰分場",
+    "county": "新竹縣",
+    "alt": 1048.0,
+    "lon": 121.157167,
+    "lat": 24.612194,
+    "status": "existing"
+  },
+  {
+    "id": "72D680",
+    "name": "桃改新埔分場",
+    "county": "新竹縣",
+    "alt": 101.9,
+    "lon": 121.066111,
+    "lat": 24.834444,
+    "status": "existing"
+  },
+  {
+    "id": "72G600",
+    "name": "臺中農改場",
+    "county": "彰化縣",
+    "alt": 19.0,
+    "lon": 120.534389,
+    "lat": 24.003028,
+    "status": "existing"
+  },
+  {
+    "id": "72HA00",
+    "name": "中改埔里分場",
+    "county": "南投縣",
+    "alt": 628.0,
+    "lon": 120.963364,
+    "lat": 23.903208,
+    "status": "existing"
+  },
+  {
+    "id": "72K220",
+    "name": "南改斗南分場",
+    "county": "雲林縣",
+    "alt": 60.0,
+    "lon": 120.477333,
+    "lat": 23.634556,
+    "status": "existing"
+  },
+  {
+    "id": "72L140",
+    "name": "朴子分場",
+    "county": "嘉義縣",
+    "alt": 9.0,
+    "lon": 120.2414,
+    "lat": 23.4982,
+    "status": "revoked"
+  },
+  {
+    "id": "72M360",
+    "name": "南改義竹分場",
+    "county": "嘉義縣",
+    "alt": 6.0,
+    "lon": 120.279361,
+    "lat": 23.360694,
+    "status": "existing"
+  },
+  {
+    "id": "72M700",
+    "name": "南改鹿草分場",
+    "county": "嘉義縣",
+    "alt": 14.0,
+    "lon": 120.283061,
+    "lat": 23.416869,
+    "status": "existing"
+  },
+  {
+    "id": "72N100",
+    "name": "臺南農改場",
+    "county": "臺南市",
+    "alt": 41.0,
+    "lon": 120.342194,
+    "lat": 23.0605,
+    "status": "existing"
+  },
+  {
+    "id": "72N240",
+    "name": "七股研究中心",
+    "county": "臺南市",
+    "alt": 2.0,
+    "lon": 120.062894,
+    "lat": 23.081672,
+    "status": "existing"
+  },
+  {
+    "id": "72Q010",
+    "name": "高雄農改場",
+    "county": "屏東縣",
+    "alt": 45.0,
+    "lon": 120.525889,
+    "lat": 22.709333,
+    "status": "existing"
+  },
+  {
+    "id": "72S200",
+    "name": "東改班鳩分場",
+    "county": "臺東縣",
+    "alt": 240.0,
+    "lon": 121.077694,
+    "lat": 22.829528,
+    "status": "existing"
+  },
+  {
+    "id": "72S590",
+    "name": "東改賓朗果園",
+    "county": "臺東縣",
+    "alt": 290.0,
+    "lon": 121.071278,
+    "lat": 22.813889,
+    "status": "existing"
+  },
+  {
+    "id": "72T250",
+    "name": "花蓮農改場",
+    "county": "花蓮縣",
+    "alt": 36.0,
+    "lon": 121.563889,
+    "lat": 23.975222,
+    "status": "existing"
+  },
+  {
+    "id": "72U480",
+    "name": "花改蘭陽分場",
+    "county": "宜蘭縣",
+    "alt": 27.0,
+    "lon": 121.716583,
+    "lat": 24.686306,
+    "status": "existing"
+  },
+  {
+    "id": "72V140",
+    "name": "高改旗南分場",
+    "county": "高雄市",
+    "alt": 44.0,
+    "lon": 120.516667,
+    "lat": 22.857861,
+    "status": "existing"
+  },
+  {
+    "id": "82A750",
+    "name": "茶改北部分場",
+    "county": "新北市",
+    "alt": 401.0,
+    "lon": 121.631222,
+    "lat": 24.955778,
+    "status": "existing"
+  },
+  {
+    "id": "82C160",
+    "name": "茶改場",
+    "county": "桃園市",
+    "alt": 195.0,
+    "lon": 121.185333,
+    "lat": 24.908472,
+    "status": "existing"
+  },
+  {
+    "id": "82H320",
+    "name": "茶改中部分場",
+    "county": "南投縣",
+    "alt": 850.0,
+    "lon": 120.913583,
+    "lat": 23.875611,
+    "status": "existing"
+  },
+  {
+    "id": "82H840",
+    "name": "茶改南部分場",
+    "county": "南投縣",
+    "alt": 390.0,
+    "lon": 120.7405,
+    "lat": 23.762528,
+    "status": "existing"
+  },
+  {
+    "id": "82S580",
+    "name": "茶改東部分場",
+    "county": "臺東縣",
+    "alt": 175.0,
+    "lon": 121.130139,
+    "lat": 22.907694,
+    "status": "existing"
+  },
+  {
+    "id": "A2C560",
+    "name": "農工中心",
+    "county": "桃園市",
+    "alt": 121.0,
+    "lon": 121.239833,
+    "lat": 24.985917,
+    "status": "existing"
+  },
+  {
+    "id": "A2K360",
+    "name": "水試臺西試驗場",
+    "county": "雲林縣",
+    "alt": 1.0,
+    "lon": 120.190522,
+    "lat": 23.717231,
+    "status": "existing"
+  },
+  {
+    "id": "A2K630",
+    "name": "臺大雲林校區",
+    "county": "雲林縣",
+    "alt": 45.0,
+    "lon": 120.423903,
+    "lat": 23.730628,
+    "status": "existing"
+  },
+  {
+    "id": "A2N290",
+    "name": "臺南蘭花園區",
+    "county": "臺南市",
+    "alt": 23.0,
+    "lon": 120.379661,
+    "lat": 23.340258,
+    "status": "existing"
+  },
+  {
+    "id": "A2Q950",
+    "name": "東港",
+    "county": "屏東縣",
+    "alt": 5.0,
+    "lon": 120.4525,
+    "lat": 22.4704,
+    "status": "revoked"
+  },
+  {
+    "id": "B2E890",
+    "name": "畜試北區分所",
+    "county": "苗栗縣",
+    "alt": 90.0,
+    "lon": 120.770972,
+    "lat": 24.527806,
+    "status": "existing"
+  },
+  {
+    "id": "B2N890",
+    "name": "畜產試驗所",
+    "county": "臺南市",
+    "alt": 31.0,
+    "lon": 120.336406,
+    "lat": 23.058972,
+    "status": "existing"
+  },
+  {
+    "id": "B2Q810",
+    "name": "畜試南區分所",
+    "county": "屏東縣",
+    "alt": 20.0,
+    "lon": 120.802167,
+    "lat": 21.945583,
+    "status": "existing"
+  },
+  {
+    "id": "B2U990",
+    "name": "畜試東區分所",
+    "county": "宜蘭縣",
+    "alt": 10.0,
+    "lon": 121.832561,
+    "lat": 24.669039,
+    "status": "existing"
+  },
+  {
+    "id": "C0A510",
+    "name": "大豹",
+    "county": "新北市",
+    "alt": 590.0,
+    "lon": 121.421547,
+    "lat": 24.887108,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A520",
+    "name": "山佳",
+    "county": "新北市",
+    "alt": 48.0,
+    "lon": 121.402008,
+    "lat": 24.974944,
+    "status": "existing"
+  },
+  {
+    "id": "C0A530",
+    "name": "坪林",
+    "county": "新北市",
+    "alt": 300.0,
+    "lon": 121.70975,
+    "lat": 24.938183,
+    "status": "existing"
+  },
+  {
+    "id": "C0A540",
+    "name": "四堵",
+    "county": "新北市",
+    "alt": 401.0,
+    "lon": 121.745736,
+    "lat": 24.8926,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A550",
+    "name": "泰平",
+    "county": "新北市",
+    "alt": 422.0,
+    "lon": 121.823711,
+    "lat": 24.971197,
+    "status": "existing"
+  },
+  {
+    "id": "C0A560",
+    "name": "福山",
+    "county": "新北市",
+    "alt": 405.0,
+    "lon": 121.502811,
+    "lat": 24.776203,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A570",
+    "name": "桶後",
+    "county": "新北市",
+    "alt": 360.0,
+    "lon": 121.597992,
+    "lat": 24.848222,
+    "status": "existing"
+  },
+  {
+    "id": "C0A580",
+    "name": "屈尺",
+    "county": "新北市",
+    "alt": 70.0,
+    "lon": 121.546333,
+    "lat": 24.922422,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A590",
+    "name": "大尖山",
+    "county": "新北市",
+    "alt": 326.0,
+    "lon": 121.666006,
+    "lat": 25.051544,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A640",
+    "name": "石碇",
+    "county": "新北市",
+    "alt": 241.0,
+    "lon": 121.662917,
+    "lat": 24.993969,
+    "status": "existing"
+  },
+  {
+    "id": "C0A650",
+    "name": "火燒寮",
+    "county": "新北市",
+    "alt": 287.0,
+    "lon": 121.742892,
+    "lat": 25.002719,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A660",
+    "name": "瑞芳",
+    "county": "新北市",
+    "alt": 97.0,
+    "lon": 121.801147,
+    "lat": 25.113169,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A680",
+    "name": "五股",
+    "county": "新北市",
+    "alt": 95.0,
+    "lon": 121.434975,
+    "lat": 25.083353,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A710",
+    "name": "林口",
+    "county": "新北市",
+    "alt": 238.0,
+    "lon": 121.378217,
+    "lat": 25.076364,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A770",
+    "name": "科教館",
+    "county": "臺北市",
+    "alt": 60.0,
+    "lon": 121.516507,
+    "lat": 25.096356,
+    "status": "existing"
+  },
+  {
+    "id": "C0A860",
+    "name": "大坪",
+    "county": "新北市",
+    "alt": 362.0,
+    "lon": 121.632969,
+    "lat": 25.165914,
+    "status": "existing"
+  },
+  {
+    "id": "C0A870",
+    "name": "五指山",
+    "county": "新北市",
+    "alt": 685.0,
+    "lon": 121.608692,
+    "lat": 25.132153,
+    "status": "existing"
+  },
+  {
+    "id": "C0A880",
+    "name": "福隆",
+    "county": "新北市",
+    "alt": 6.0,
+    "lon": 121.942083,
+    "lat": 25.017842,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A890",
+    "name": "雙溪",
+    "county": "新北市",
+    "alt": 40.0,
+    "lon": 121.864242,
+    "lat": 25.036003,
+    "status": "existing"
+  },
+  {
+    "id": "C0A920",
+    "name": "富貴角",
+    "county": "新北市",
+    "alt": 196.0,
+    "lon": 121.565258,
+    "lat": 25.263783,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A930",
+    "name": "三和",
+    "county": "新北市",
+    "alt": 200.0,
+    "lon": 121.59407,
+    "lat": 25.23489,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A931",
+    "name": "三和",
+    "county": "新北市",
+    "alt": 216.0,
+    "lon": 121.595236,
+    "lat": 25.233153,
+    "status": "existing"
+  },
+  {
+    "id": "C0A940",
+    "name": "金山",
+    "county": "新北市",
+    "alt": 49.0,
+    "lon": 121.643967,
+    "lat": 25.223628,
+    "status": "existing"
+  },
+  {
+    "id": "C0A950",
+    "name": "鼻頭角",
+    "county": "新北市",
+    "alt": 60.0,
+    "lon": 121.923372,
+    "lat": 25.129036,
+    "status": "existing"
+  },
+  {
+    "id": "C0A970",
+    "name": "三貂角",
+    "county": "新北市",
+    "alt": 96.0,
+    "lon": 122.002058,
+    "lat": 25.007606,
+    "status": "existing"
+  },
+  {
+    "id": "C0A980",
+    "name": "社子",
+    "county": "臺北市",
+    "alt": 11.0,
+    "lon": 121.469681,
+    "lat": 25.109508,
+    "status": "existing"
+  },
+  {
+    "id": "C0A990",
+    "name": "大崙尾山",
+    "county": "臺北市",
+    "alt": 463.0,
+    "lon": 121.573586,
+    "lat": 25.106275,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A9A0",
+    "name": "大直",
+    "county": "臺北市",
+    "alt": 24.0,
+    "lon": 121.542853,
+    "lat": 25.078047,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A9B0",
+    "name": "石牌",
+    "county": "臺北市",
+    "alt": 7.0,
+    "lon": 121.513817,
+    "lat": 25.116342,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A9C0",
+    "name": "天母",
+    "county": "臺北市",
+    "alt": 35.0,
+    "lon": 121.537169,
+    "lat": 25.117494,
+    "status": "existing"
+  },
+  {
+    "id": "C0A9D0",
+    "name": "永和",
+    "county": "新北市",
+    "alt": 13.0,
+    "lon": 121.50475,
+    "lat": 25.008944,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A9E0",
+    "name": "士林",
+    "county": "臺北市",
+    "alt": 26.0,
+    "lon": 121.503019,
+    "lat": 25.090253,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A9F0",
+    "name": "內湖",
+    "county": "臺北市",
+    "alt": 35.0,
+    "lon": 121.57545,
+    "lat": 25.079422,
+    "status": "existing"
+  },
+  {
+    "id": "C0A9G0",
+    "name": "南港",
+    "county": "臺北市",
+    "alt": 42.0,
+    "lon": 121.602906,
+    "lat": 25.055431,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A9H0",
+    "name": "信義",
+    "county": "臺北市",
+    "alt": 51.0,
+    "lon": 121.564639,
+    "lat": 25.038094,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A9I0",
+    "name": "三重",
+    "county": "新北市",
+    "alt": 18.0,
+    "lon": 121.488489,
+    "lat": 25.064028,
+    "status": "revoked"
+  },
+  {
+    "id": "C0A9I1",
+    "name": "三重",
+    "county": "新北市",
+    "alt": 18.0,
+    "lon": 121.488492,
+    "lat": 25.056667,
+    "status": "revoked"
+  },
+  {
+    "id": "C0AC40",
+    "name": "大屯山",
+    "county": "臺北市",
+    "alt": 1079.0,
+    "lon": 121.522408,
+    "lat": 25.175675,
+    "status": "existing"
+  },
+  {
+    "id": "C0AC60",
+    "name": "三峽",
+    "county": "新北市",
+    "alt": 55.0,
+    "lon": 121.369728,
+    "lat": 24.939025,
+    "status": "existing"
+  },
+  {
+    "id": "C0AC70",
+    "name": "信義",
+    "county": "臺北市",
+    "alt": 71.0,
+    "lon": 121.564597,
+    "lat": 25.037822,
+    "status": "existing"
+  },
+  {
+    "id": "C0AC80",
+    "name": "文山",
+    "county": "臺北市",
+    "alt": 40.0,
+    "lon": 121.575728,
+    "lat": 25.00235,
+    "status": "existing"
+  },
+  {
+    "id": "C0AC90",
+    "name": "中和",
+    "county": "新北市",
+    "alt": 32.0,
+    "lon": 121.516,
+    "lat": 24.99016,
+    "status": "revoked"
+  },
+  {
+    "id": "C0ACA0",
+    "name": "新莊",
+    "county": "新北市",
+    "alt": 25.0,
+    "lon": 121.446756,
+    "lat": 25.051478,
+    "status": "existing"
+  },
+  {
+    "id": "C0AD00",
+    "name": "三芝",
+    "county": "新北市",
+    "alt": 86.0,
+    "lon": 121.501917,
+    "lat": 25.258131,
+    "status": "revoked"
+  },
+  {
+    "id": "C0AD10",
+    "name": "八里",
+    "county": "新北市",
+    "alt": 27.0,
+    "lon": 121.403947,
+    "lat": 25.150211,
+    "status": "existing"
+  },
+  {
+    "id": "C0AD20",
+    "name": "深坑",
+    "county": "新北市",
+    "alt": 57.0,
+    "lon": 121.617556,
+    "lat": 25.001381,
+    "status": "revoked"
+  },
+  {
+    "id": "C0AD30",
+    "name": "蘆洲",
+    "county": "新北市",
+    "alt": 20.0,
+    "lon": 121.472331,
+    "lat": 25.086594,
+    "status": "existing"
+  },
+  {
+    "id": "C0AD40",
+    "name": "土城",
+    "county": "新北市",
+    "alt": 32.0,
+    "lon": 121.445169,
+    "lat": 24.973208,
+    "status": "existing"
+  },
+  {
+    "id": "C0AD50",
+    "name": "鶯歌",
+    "county": "新北市",
+    "alt": 84.0,
+    "lon": 121.346294,
+    "lat": 24.951533,
+    "status": "existing"
+  },
+  {
+    "id": "C0AG80",
+    "name": "中和",
+    "county": "新北市",
+    "alt": 48.0,
+    "lon": 121.491792,
+    "lat": 24.991622,
+    "status": "existing"
+  },
+  {
+    "id": "C0AG90",
+    "name": "中和",
+    "county": "新北市",
+    "alt": 25.0,
+    "lon": 121.490444,
+    "lat": 24.992647,
+    "status": "revoked"
+  },
+  {
+    "id": "C0AH00",
+    "name": "汐止",
+    "county": "新北市",
+    "alt": 38.0,
+    "lon": 121.658778,
+    "lat": 25.066881,
+    "status": "existing"
+  },
+  {
+    "id": "C0AH10",
+    "name": "永和",
+    "county": "新北市",
+    "alt": 30.0,
+    "lon": 121.508111,
+    "lat": 25.01125,
+    "status": "existing"
+  },
+  {
+    "id": "C0AH30",
+    "name": "五分山",
+    "county": "新北市",
+    "alt": 755.0,
+    "lon": 121.780794,
+    "lat": 25.07125,
+    "status": "existing"
+  },
+  {
+    "id": "C0AH40",
+    "name": "平等",
+    "county": "臺北市",
+    "alt": 426.0,
+    "lon": 121.577086,
+    "lat": 25.129142,
+    "status": "existing"
+  },
+  {
+    "id": "C0AH50",
+    "name": "林口",
+    "county": "新北市",
+    "alt": 275.0,
+    "lon": 121.38084,
+    "lat": 25.072181,
+    "status": "existing"
+  },
+  {
+    "id": "C0AH70",
+    "name": "松山",
+    "county": "臺北市",
+    "alt": 34.0,
+    "lon": 121.55042,
+    "lat": 25.04871,
+    "status": "existing"
+  },
+  {
+    "id": "C0AH80",
+    "name": "深坑",
+    "county": "新北市",
+    "alt": 68.0,
+    "lon": 121.628328,
+    "lat": 25.002703,
+    "status": "existing"
+  },
+  {
+    "id": "C0AH90",
+    "name": "福山植物園",
+    "county": "新北市",
+    "alt": 660.0,
+    "lon": 121.58135,
+    "lat": 24.760717,
+    "status": "existing"
+  },
+  {
+    "id": "C0AI00",
+    "name": "五股",
+    "county": "新北市",
+    "alt": 188.0,
+    "lon": 121.42728,
+    "lat": 25.07445,
+    "status": "existing"
+  },
+  {
+    "id": "C0AI10",
+    "name": "屈尺",
+    "county": "新北市",
+    "alt": 76.0,
+    "lon": 121.54475,
+    "lat": 24.92184,
+    "status": "existing"
+  },
+  {
+    "id": "C0AI20",
+    "name": "白沙灣",
+    "county": "新北市",
+    "alt": 25.0,
+    "lon": 121.519058,
+    "lat": 25.283128,
+    "status": "existing"
+  },
+  {
+    "id": "C0AI30",
+    "name": "三重",
+    "county": "新北市",
+    "alt": 26.0,
+    "lon": 121.500629,
+    "lat": 25.057328,
+    "status": "existing"
+  },
+  {
+    "id": "C0AI40",
+    "name": "石牌",
+    "county": "臺北市",
+    "alt": 35.0,
+    "lon": 121.513139,
+    "lat": 25.115597,
+    "status": "existing"
+  },
+  {
+    "id": "C0AJ10",
+    "name": "澳底",
+    "county": "新北市",
+    "alt": 20.0,
+    "lon": 121.927272,
+    "lat": 25.057107,
+    "status": "revoked"
+  },
+  {
+    "id": "C0AJ20",
+    "name": "野柳",
+    "county": "新北市",
+    "alt": 50.0,
+    "lon": 121.690021,
+    "lat": 25.20703,
+    "status": "existing"
+  },
+  {
+    "id": "C0AJ30",
+    "name": "淡水觀海",
+    "county": "新北市",
+    "alt": 22.0,
+    "lon": 121.408616,
+    "lat": 25.184591,
+    "status": "existing"
+  },
+  {
+    "id": "C0AJ40",
+    "name": "石門",
+    "county": "新北市",
+    "alt": 154.0,
+    "lon": 121.601198,
+    "lat": 25.273672,
+    "status": "existing"
+  },
+  {
+    "id": "C0AJ50",
+    "name": "水湳洞",
+    "county": "新北市",
+    "alt": 30.0,
+    "lon": 121.862238,
+    "lat": 25.123695,
+    "status": "existing"
+  },
+  {
+    "id": "C0AJ60",
+    "name": "六塊厝",
+    "county": "新北市",
+    "alt": 13.0,
+    "lon": 121.4481,
+    "lat": 25.24,
+    "status": "existing"
+  },
+  {
+    "id": "C0AJ70",
+    "name": "田寮",
+    "county": "新北市",
+    "alt": 21.0,
+    "lon": 121.4886,
+    "lat": 25.2698,
+    "status": "existing"
+  },
+  {
+    "id": "C0AJ80",
+    "name": "板橋",
+    "county": "新北市",
+    "alt": 38.0,
+    "lon": 121.4489,
+    "lat": 25.0107,
+    "status": "existing"
+  },
+  {
+    "id": "C0AJ90",
+    "name": "澳底",
+    "county": "新北市",
+    "alt": 23.0,
+    "lon": 121.9253,
+    "lat": 25.0552,
+    "status": "existing"
+  },
+  {
+    "id": "C0AK10",
+    "name": "太平里",
+    "county": "新北市",
+    "alt": 18.0,
+    "lon": 121.364899,
+    "lat": 25.134937,
+    "status": "existing"
+  },
+  {
+    "id": "C0AK30",
+    "name": "硬漢嶺",
+    "county": "新北市",
+    "alt": 607.0,
+    "lon": 121.426372,
+    "lat": 25.136097,
+    "status": "existing"
+  },
+  {
+    "id": "C0B010",
+    "name": "七堵",
+    "county": "基隆市",
+    "alt": 38.0,
+    "lon": 121.71713,
+    "lat": 25.094819,
+    "status": "existing"
+  },
+  {
+    "id": "C0B020",
+    "name": "基隆嶼",
+    "county": "基隆市",
+    "alt": 86.0,
+    "lon": 121.78391,
+    "lat": 25.19141,
+    "status": "existing"
+  },
+  {
+    "id": "C0B040",
+    "name": "大武崙",
+    "county": "基隆市",
+    "alt": 15.0,
+    "lon": 121.706993,
+    "lat": 25.166676,
+    "status": "existing"
+  },
+  {
+    "id": "C0B050",
+    "name": "八斗子",
+    "county": "基隆市",
+    "alt": 5.0,
+    "lon": 121.79167,
+    "lat": 25.144754,
+    "status": "existing"
+  },
+  {
+    "id": "C0B060",
+    "name": "暖暖",
+    "county": "基隆市",
+    "alt": 83.0,
+    "lon": 121.7403,
+    "lat": 25.0957,
+    "status": "existing"
+  },
+  {
+    "id": "C0C450",
+    "name": "新屋",
+    "county": "桃園市",
+    "alt": 92.0,
+    "lon": 121.106831,
+    "lat": 24.971294,
+    "status": "revoked"
+  },
+  {
+    "id": "C0C460",
+    "name": "復興",
+    "county": "桃園市",
+    "alt": 482.0,
+    "lon": 121.352281,
+    "lat": 24.820208,
+    "status": "existing"
+  },
+  {
+    "id": "C0C480",
+    "name": "桃園",
+    "county": "桃園市",
+    "alt": 105.0,
+    "lon": 121.323172,
+    "lat": 24.992425,
+    "status": "existing"
+  },
+  {
+    "id": "C0C490",
+    "name": "八德",
+    "county": "桃園市",
+    "alt": 157.0,
+    "lon": 121.283289,
+    "lat": 24.928708,
+    "status": "existing"
+  },
+  {
+    "id": "C0C500",
+    "name": "楊梅",
+    "county": "桃園市",
+    "alt": 181.0,
+    "lon": 121.148272,
+    "lat": 24.920875,
+    "status": "revoked"
+  },
+  {
+    "id": "C0C520",
+    "name": "中壢",
+    "county": "桃園市",
+    "alt": 151.0,
+    "lon": 121.185253,
+    "lat": 24.967564,
+    "status": "revoked"
+  },
+  {
+    "id": "C0C540",
+    "name": "大園",
+    "county": "桃園市",
+    "alt": 46.0,
+    "lon": 121.225958,
+    "lat": 25.04775,
+    "status": "revoked"
+  },
+  {
+    "id": "C0C570",
+    "name": "新屋",
+    "county": "桃園市",
+    "alt": 5.0,
+    "lon": 121.04755,
+    "lat": 25.00756,
+    "status": "revoked"
+  },
+  {
+    "id": "C0C580",
+    "name": "新豐",
+    "county": "新竹縣",
+    "alt": 143.0,
+    "lon": 120.985423,
+    "lat": 24.868786,
+    "status": "revoked"
+  },
+  {
+    "id": "C0C590",
+    "name": "觀音",
+    "county": "桃園市",
+    "alt": 72.0,
+    "lon": 121.153317,
+    "lat": 25.027072,
+    "status": "existing"
+  },
+  {
+    "id": "C0C610",
+    "name": "龍潭",
+    "county": "桃園市",
+    "alt": 234.0,
+    "lon": 121.216486,
+    "lat": 24.856764,
+    "status": "revoked"
+  },
+  {
+    "id": "C0C620",
+    "name": "蘆竹",
+    "county": "桃園市",
+    "alt": 19.0,
+    "lon": 121.265767,
+    "lat": 25.084275,
+    "status": "existing"
+  },
+  {
+    "id": "C0C630",
+    "name": "大溪",
+    "county": "桃園市",
+    "alt": 209.0,
+    "lon": 121.265547,
+    "lat": 24.882853,
+    "status": "existing"
+  },
+  {
+    "id": "C0C640",
+    "name": "龜山",
+    "county": "桃園市",
+    "alt": 177.0,
+    "lon": 121.375719,
+    "lat": 25.030306,
+    "status": "revoked"
+  },
+  {
+    "id": "C0C650",
+    "name": "平鎮",
+    "county": "桃園市",
+    "alt": 208.0,
+    "lon": 121.214636,
+    "lat": 24.897503,
+    "status": "existing"
+  },
+  {
+    "id": "C0C660",
+    "name": "楊梅",
+    "county": "桃園市",
+    "alt": 176.0,
+    "lon": 121.143047,
+    "lat": 24.912375,
+    "status": "existing"
+  },
+  {
+    "id": "C0C670",
+    "name": "龍潭",
+    "county": "桃園市",
+    "alt": 250.0,
+    "lon": 121.221389,
+    "lat": 24.870056,
+    "status": "existing"
+  },
+  {
+    "id": "C0C680",
+    "name": "龜山",
+    "county": "桃園市",
+    "alt": 228.0,
+    "lon": 121.38656,
+    "lat": 25.02846,
+    "status": "existing"
+  },
+  {
+    "id": "C0C700",
+    "name": "中壢",
+    "county": "桃園市",
+    "alt": 151.0,
+    "lon": 121.256375,
+    "lat": 24.977661,
+    "status": "existing"
+  },
+  {
+    "id": "C0C710",
+    "name": "大溪永福",
+    "county": "桃園市",
+    "alt": 143.0,
+    "lon": 121.324975,
+    "lat": 24.892936,
+    "status": "existing"
+  },
+  {
+    "id": "C0C720",
+    "name": "竹圍",
+    "county": "桃園市",
+    "alt": 21.0,
+    "lon": 121.239824,
+    "lat": 25.112692,
+    "status": "existing"
+  },
+  {
+    "id": "C0C730",
+    "name": "中大臨海站",
+    "county": "桃園市",
+    "alt": 5.0,
+    "lon": 121.008581,
+    "lat": 24.966126,
+    "status": "existing"
+  },
+  {
+    "id": "C0C740",
+    "name": "觀音工業區",
+    "county": "桃園市",
+    "alt": 5.3,
+    "lon": 121.114856,
+    "lat": 25.064764,
+    "status": "existing"
+  },
+  {
+    "id": "C0C750",
+    "name": "新興坑尾",
+    "county": "桃園市",
+    "alt": 72.0,
+    "lon": 121.0971,
+    "lat": 25.0061,
+    "status": "existing"
+  },
+  {
+    "id": "C0C790",
+    "name": "東眼山",
+    "county": "桃園市",
+    "alt": 858.0,
+    "lon": 121.40888,
+    "lat": 24.8284,
+    "status": "existing"
+  },
+  {
+    "id": "C0C800",
+    "name": "四稜",
+    "county": "桃園市",
+    "alt": 1167.0,
+    "lon": 121.4293,
+    "lat": 24.64733,
+    "status": "existing"
+  },
+  {
+    "id": "C0D360",
+    "name": "梅花",
+    "county": "新竹縣",
+    "alt": 523.0,
+    "lon": 121.208558,
+    "lat": 24.678347,
+    "status": "existing"
+  },
+  {
+    "id": "C0D370",
+    "name": "湖口",
+    "county": "新竹縣",
+    "alt": 79.0,
+    "lon": 121.043953,
+    "lat": 24.909136,
+    "status": "revoked"
+  },
+  {
+    "id": "C0D390",
+    "name": "關西",
+    "county": "新竹縣",
+    "alt": 146.0,
+    "lon": 121.1739,
+    "lat": 24.7982,
+    "status": "revoked"
+  },
+  {
+    "id": "C0D430",
+    "name": "峨眉",
+    "county": "新竹縣",
+    "alt": 87.0,
+    "lon": 121.017189,
+    "lat": 24.6905,
+    "status": "existing"
+  },
+  {
+    "id": "C0D470",
+    "name": "竹東",
+    "county": "新竹縣",
+    "alt": 229.0,
+    "lon": 121.057881,
+    "lat": 24.767147,
+    "status": "revoked"
+  },
+  {
+    "id": "C0D480",
+    "name": "打鐵坑",
+    "county": "新竹縣",
+    "alt": 223.0,
+    "lon": 121.150789,
+    "lat": 24.849664,
+    "status": "existing"
+  },
+  {
+    "id": "C0D540",
+    "name": "橫山",
+    "county": "新竹縣",
+    "alt": 227.0,
+    "lon": 121.11693,
+    "lat": 24.71116,
+    "status": "existing"
+  },
+  {
+    "id": "C0D550",
+    "name": "雪霸",
+    "county": "新竹縣",
+    "alt": 1956.0,
+    "lon": 121.11605,
+    "lat": 24.526972,
+    "status": "existing"
+  },
+  {
+    "id": "C0D560",
+    "name": "竹東",
+    "county": "新竹縣",
+    "alt": 147.0,
+    "lon": 121.057881,
+    "lat": 24.767147,
+    "status": "existing"
+  },
+  {
+    "id": "C0D570",
+    "name": "香山",
+    "county": "新竹市",
+    "alt": 15.0,
+    "lon": 120.905456,
+    "lat": 24.746892,
+    "status": "revoked"
+  },
+  {
+    "id": "C0D580",
+    "name": "寶山",
+    "county": "新竹縣",
+    "alt": 120.0,
+    "lon": 121.025192,
+    "lat": 24.735006,
+    "status": "existing"
+  },
+  {
+    "id": "C0D590",
+    "name": "新豐",
+    "county": "新竹縣",
+    "alt": 143.0,
+    "lon": 120.97721,
+    "lat": 24.87068,
+    "status": "existing"
+  },
+  {
+    "id": "C0D650",
+    "name": "湖口",
+    "county": "新竹縣",
+    "alt": 97.0,
+    "lon": 121.043628,
+    "lat": 24.904794,
+    "status": "existing"
+  },
+  {
+    "id": "C0D660",
+    "name": "新竹市東區",
+    "county": "新竹市",
+    "alt": 65.0,
+    "lon": 120.986942,
+    "lat": 24.798681,
+    "status": "existing"
+  },
+  {
+    "id": "C0D670",
+    "name": "海天一線",
+    "county": "新竹市",
+    "alt": 23.0,
+    "lon": 120.914438,
+    "lat": 24.831986,
+    "status": "existing"
+  },
+  {
+    "id": "C0D680",
+    "name": "香山濕地",
+    "county": "新竹市",
+    "alt": 24.0,
+    "lon": 120.914988,
+    "lat": 24.783581,
+    "status": "existing"
+  },
+  {
+    "id": "C0D690",
+    "name": "外湖",
+    "county": "新竹縣",
+    "alt": 20.0,
+    "lon": 120.968711,
+    "lat": 24.917735,
+    "status": "existing"
+  },
+  {
+    "id": "C0D700",
+    "name": "關西",
+    "county": "新竹縣",
+    "alt": 155.0,
+    "lon": 121.1732,
+    "lat": 24.7977,
+    "status": "existing"
+  },
+  {
+    "id": "C0D750",
+    "name": "樂山林道6k",
+    "county": "新竹縣",
+    "alt": 2292.0,
+    "lon": 121.08773,
+    "lat": 24.49999,
+    "status": "existing"
+  },
+  {
+    "id": "C0D760",
+    "name": "大坪苗圃",
+    "county": "新竹縣",
+    "alt": 1371.0,
+    "lon": 121.1108,
+    "lat": 24.5362,
+    "status": "existing"
+  },
+  {
+    "id": "C0E410",
+    "name": "觀霧",
+    "county": "新竹縣",
+    "alt": 2087.0,
+    "lon": 121.113183,
+    "lat": 24.506006,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E420",
+    "name": "竹南",
+    "county": "苗栗縣",
+    "alt": 19.0,
+    "lon": 120.888897,
+    "lat": 24.708978,
+    "status": "existing"
+  },
+  {
+    "id": "C0E430",
+    "name": "南庄",
+    "county": "苗栗縣",
+    "alt": 258.0,
+    "lon": 121.000214,
+    "lat": 24.601775,
+    "status": "existing"
+  },
+  {
+    "id": "C0E440",
+    "name": "大河",
+    "county": "苗栗縣",
+    "alt": 122.0,
+    "lon": 120.94685,
+    "lat": 24.617281,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E520",
+    "name": "大湖",
+    "county": "苗栗縣",
+    "alt": 320.0,
+    "lon": 120.87087,
+    "lat": 24.41494,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E530",
+    "name": "三義",
+    "county": "苗栗縣",
+    "alt": 341.0,
+    "lon": 120.765972,
+    "lat": 24.410933,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E540",
+    "name": "後龍",
+    "county": "苗栗縣",
+    "alt": 32.0,
+    "lon": 120.783933,
+    "lat": 24.606489,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E550",
+    "name": "明德",
+    "county": "苗栗縣",
+    "alt": 84.0,
+    "lon": 120.885411,
+    "lat": 24.583486,
+    "status": "existing"
+  },
+  {
+    "id": "C0E570",
+    "name": "白沙屯",
+    "county": "苗栗縣",
+    "alt": 31.0,
+    "lon": 120.696803,
+    "lat": 24.549447,
+    "status": "existing"
+  },
+  {
+    "id": "C0E580",
+    "name": "苑里",
+    "county": "苗栗縣",
+    "alt": 60.0,
+    "lon": 120.680122,
+    "lat": 24.433525,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E590",
+    "name": "通霄",
+    "county": "苗栗縣",
+    "alt": 40.0,
+    "lon": 120.704622,
+    "lat": 24.471892,
+    "status": "existing"
+  },
+  {
+    "id": "C0E610",
+    "name": "馬都安",
+    "county": "苗栗縣",
+    "alt": 850.0,
+    "lon": 120.930192,
+    "lat": 24.451272,
+    "status": "existing"
+  },
+  {
+    "id": "C0E730",
+    "name": "頭份",
+    "county": "苗栗縣",
+    "alt": 26.0,
+    "lon": 120.912206,
+    "lat": 24.688247,
+    "status": "existing"
+  },
+  {
+    "id": "C0E740",
+    "name": "造橋",
+    "county": "苗栗縣",
+    "alt": 27.0,
+    "lon": 120.864778,
+    "lat": 24.637056,
+    "status": "existing"
+  },
+  {
+    "id": "C0E750",
+    "name": "苗栗",
+    "county": "苗栗縣",
+    "alt": 62.0,
+    "lon": 120.824575,
+    "lat": 24.564569,
+    "status": "existing"
+  },
+  {
+    "id": "C0E760",
+    "name": "苑裡",
+    "county": "苗栗縣",
+    "alt": 19.0,
+    "lon": 120.658231,
+    "lat": 24.448539,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E780",
+    "name": "銅鑼",
+    "county": "苗栗縣",
+    "alt": 160.0,
+    "lon": 120.790853,
+    "lat": 24.489681,
+    "status": "existing"
+  },
+  {
+    "id": "C0E790",
+    "name": "卓蘭",
+    "county": "苗栗縣",
+    "alt": 344.0,
+    "lon": 120.824753,
+    "lat": 24.312764,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E791",
+    "name": "卓蘭",
+    "county": "苗栗縣",
+    "alt": 366.0,
+    "lon": 120.8244,
+    "lat": 24.3126,
+    "status": "existing"
+  },
+  {
+    "id": "C0E810",
+    "name": "西湖",
+    "county": "苗栗縣",
+    "alt": 53.0,
+    "lon": 120.7485,
+    "lat": 24.562947,
+    "status": "existing"
+  },
+  {
+    "id": "C0E820",
+    "name": "獅潭",
+    "county": "苗栗縣",
+    "alt": 220.0,
+    "lon": 120.920042,
+    "lat": 24.539133,
+    "status": "existing"
+  },
+  {
+    "id": "C0E830",
+    "name": "苑裡",
+    "county": "苗栗縣",
+    "alt": 37.0,
+    "lon": 120.653053,
+    "lat": 24.439714,
+    "status": "existing"
+  },
+  {
+    "id": "C0E850",
+    "name": "大河",
+    "county": "苗栗縣",
+    "alt": 104.0,
+    "lon": 120.948578,
+    "lat": 24.618069,
+    "status": "existing"
+  },
+  {
+    "id": "C0E870",
+    "name": "高鐵苗栗",
+    "county": "苗栗縣",
+    "alt": 34.0,
+    "lon": 120.826094,
+    "lat": 24.60725,
+    "status": "existing"
+  },
+  {
+    "id": "C0E880",
+    "name": "三義",
+    "county": "苗栗縣",
+    "alt": 507.0,
+    "lon": 120.74982,
+    "lat": 24.40548,
+    "status": "revoked"
+  },
+  {
+    "id": "C0E910",
+    "name": "海埔",
+    "county": "苗栗縣",
+    "alt": 25.0,
+    "lon": 120.772435,
+    "lat": 24.648767,
+    "status": "existing"
+  },
+  {
+    "id": "C0E920",
+    "name": "通霄漁港",
+    "county": "苗栗縣",
+    "alt": 20.0,
+    "lon": 120.673876,
+    "lat": 24.498589,
+    "status": "existing"
+  },
+  {
+    "id": "C0E930",
+    "name": "龍鳳",
+    "county": "苗栗縣",
+    "alt": 26.0,
+    "lon": 120.859125,
+    "lat": 24.700034,
+    "status": "existing"
+  },
+  {
+    "id": "C0E940",
+    "name": "雪見",
+    "county": "苗栗縣",
+    "alt": 1881.0,
+    "lon": 121.01347,
+    "lat": 24.42595,
+    "status": "existing"
+  },
+  {
+    "id": "C0E950",
+    "name": "松安",
+    "county": "苗栗縣",
+    "alt": 1328.0,
+    "lon": 120.98599,
+    "lat": 24.39792,
+    "status": "existing"
+  },
+  {
+    "id": "C0E960",
+    "name": "觀霧分站",
+    "county": "苗栗縣",
+    "alt": 2094.0,
+    "lon": 121.113921,
+    "lat": 24.505781,
+    "status": "existing"
+  },
+  {
+    "id": "C0F000",
+    "name": "大肚",
+    "county": "臺中市",
+    "alt": 273.0,
+    "lon": 120.572117,
+    "lat": 24.15295,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F0A0",
+    "name": "雪山圈谷",
+    "county": "臺中市",
+    "alt": 3587.0,
+    "lon": 121.236339,
+    "lat": 24.388594,
+    "status": "existing"
+  },
+  {
+    "id": "C0F0B0",
+    "name": "石岡",
+    "county": "臺中市",
+    "alt": 311.0,
+    "lon": 120.777644,
+    "lat": 24.276061,
+    "status": "existing"
+  },
+  {
+    "id": "C0F0C0",
+    "name": "中坑",
+    "county": "臺中市",
+    "alt": 983.0,
+    "lon": 120.903319,
+    "lat": 24.248517,
+    "status": "existing"
+  },
+  {
+    "id": "C0F0D0",
+    "name": "審馬陣",
+    "county": "臺中市",
+    "alt": 3171.0,
+    "lon": 121.4203,
+    "lat": 24.381675,
+    "status": "existing"
+  },
+  {
+    "id": "C0F0E0",
+    "name": "南湖圈谷",
+    "county": "臺中市",
+    "alt": 3557.0,
+    "lon": 121.444667,
+    "lat": 24.363714,
+    "status": "existing"
+  },
+  {
+    "id": "C0F850",
+    "name": "東勢",
+    "county": "臺中市",
+    "alt": 379.0,
+    "lon": 120.833047,
+    "lat": 24.246428,
+    "status": "existing"
+  },
+  {
+    "id": "C0F860",
+    "name": "梨山",
+    "county": "臺中市",
+    "alt": 1980.0,
+    "lon": 121.25927,
+    "lat": 24.255151,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F861",
+    "name": "梨山",
+    "county": "臺中市",
+    "alt": 2215.0,
+    "lon": 121.243669,
+    "lat": 24.247522,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F900",
+    "name": "雙崎",
+    "county": "臺中市",
+    "alt": 535.0,
+    "lon": 120.904267,
+    "lat": 24.288581,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F920",
+    "name": "石岡",
+    "county": "臺中市",
+    "alt": 290.0,
+    "lon": 120.770267,
+    "lat": 24.280117,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F930",
+    "name": "大甲",
+    "county": "臺中市",
+    "alt": 100.0,
+    "lon": 120.640403,
+    "lat": 24.347667,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F950",
+    "name": "合歡山",
+    "county": "南投縣",
+    "alt": 3430.0,
+    "lon": 121.272592,
+    "lat": 24.14349,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F970",
+    "name": "大坑",
+    "county": "臺中市",
+    "alt": 145.0,
+    "lon": 120.722289,
+    "lat": 24.173142,
+    "status": "existing"
+  },
+  {
+    "id": "C0F990",
+    "name": "橫山",
+    "county": "臺中市",
+    "alt": 253.0,
+    "lon": 120.607306,
+    "lat": 24.219111,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F9A0",
+    "name": "中竹林",
+    "county": "臺中市",
+    "alt": 425.0,
+    "lon": 120.751061,
+    "lat": 24.103556,
+    "status": "revoked"
+  },
+  {
+    "id": "C0F9I0",
+    "name": "神岡",
+    "county": "臺中市",
+    "alt": 194.0,
+    "lon": 120.658314,
+    "lat": 24.272481,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9K0",
+    "name": "大安",
+    "county": "臺中市",
+    "alt": 30.0,
+    "lon": 120.588025,
+    "lat": 24.345061,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9L0",
+    "name": "后里",
+    "county": "臺中市",
+    "alt": 253.0,
+    "lon": 120.729725,
+    "lat": 24.310436,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9M0",
+    "name": "豐原",
+    "county": "臺中市",
+    "alt": 230.0,
+    "lon": 120.720692,
+    "lat": 24.254322,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9N0",
+    "name": "大里",
+    "county": "臺中市",
+    "alt": 75.0,
+    "lon": 120.701378,
+    "lat": 24.092464,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9O0",
+    "name": "潭子",
+    "county": "臺中市",
+    "alt": 175.0,
+    "lon": 120.703933,
+    "lat": 24.213106,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9P0",
+    "name": "清水",
+    "county": "臺中市",
+    "alt": 26.0,
+    "lon": 120.562242,
+    "lat": 24.312297,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9Q0",
+    "name": "外埔",
+    "county": "臺中市",
+    "alt": 149.0,
+    "lon": 120.705686,
+    "lat": 24.347817,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9R0",
+    "name": "龍井",
+    "county": "臺中市",
+    "alt": 20.0,
+    "lon": 120.528972,
+    "lat": 24.184536,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9S0",
+    "name": "烏日",
+    "county": "臺中市",
+    "alt": 43.0,
+    "lon": 120.624103,
+    "lat": 24.107058,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9T0",
+    "name": "西屯",
+    "county": "臺中市",
+    "alt": 111.0,
+    "lon": 120.641275,
+    "lat": 24.179494,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9U0",
+    "name": "南屯",
+    "county": "臺中市",
+    "alt": 74.0,
+    "lon": 120.637969,
+    "lat": 24.137006,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9V0",
+    "name": "新社",
+    "county": "臺中市",
+    "alt": 525.0,
+    "lon": 120.815806,
+    "lat": 24.200172,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9X0",
+    "name": "大雅(中科園區)",
+    "county": "臺中市",
+    "alt": 166.0,
+    "lon": 120.62445,
+    "lat": 24.21528,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9Y0",
+    "name": "桃山",
+    "county": "臺中市",
+    "alt": 3313.0,
+    "lon": 121.303808,
+    "lat": 24.432739,
+    "status": "existing"
+  },
+  {
+    "id": "C0F9Z0",
+    "name": "雪山東峰",
+    "county": "臺中市",
+    "alt": 3193.0,
+    "lon": 121.268675,
+    "lat": 24.388792,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA00",
+    "name": "烏石坑",
+    "county": "臺中市",
+    "alt": 983.0,
+    "lon": 120.94762,
+    "lat": 24.2735,
+    "status": "revoked"
+  },
+  {
+    "id": "C0FA10",
+    "name": "松柏",
+    "county": "臺中市",
+    "alt": 22.0,
+    "lon": 120.617482,
+    "lat": 24.429115,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA20",
+    "name": "溫寮",
+    "county": "臺中市",
+    "alt": 26.0,
+    "lon": 120.583125,
+    "lat": 24.372177,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA30",
+    "name": "梧棲",
+    "county": "臺中市",
+    "alt": 31.73,
+    "lon": 120.523381,
+    "lat": 24.256003,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA40",
+    "name": "臺中電廠",
+    "county": "臺中市",
+    "alt": 25.0,
+    "lon": 120.4907,
+    "lat": 24.2146,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA50",
+    "name": "霧峰",
+    "county": "臺中市",
+    "alt": 58.0,
+    "lon": 120.6995,
+    "lat": 24.0419,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA60",
+    "name": "鞍馬山工作站",
+    "county": "臺中市",
+    "alt": 2137.0,
+    "lon": 121.000793,
+    "lat": 24.267064,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA70",
+    "name": "大雪山埡口",
+    "county": "臺中市",
+    "alt": 2591.0,
+    "lon": 121.03062,
+    "lat": 24.26867,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA80",
+    "name": "小雪山天池",
+    "county": "臺中市",
+    "alt": 2629.0,
+    "lon": 121.02627,
+    "lat": 24.28025,
+    "status": "existing"
+  },
+  {
+    "id": "C0FA90",
+    "name": "小雪山林道",
+    "county": "臺中市",
+    "alt": 2940.0,
+    "lon": 121.03651,
+    "lat": 24.29515,
+    "status": "existing"
+  },
+  {
+    "id": "C0FB00",
+    "name": "大雪山",
+    "county": "臺中市",
+    "alt": 2275.0,
+    "lon": 121.007374,
+    "lat": 24.254668,
+    "status": "existing"
+  },
+  {
+    "id": "C0FB10",
+    "name": "出雲山苗圃",
+    "county": "臺中市",
+    "alt": 1034.0,
+    "lon": 120.90475,
+    "lat": 24.23105,
+    "status": "existing"
+  },
+  {
+    "id": "C0FB20",
+    "name": "雪山橋",
+    "county": "臺中市",
+    "alt": 2006.0,
+    "lon": 120.9786,
+    "lat": 24.23192,
+    "status": "existing"
+  },
+  {
+    "id": "C0FB30",
+    "name": "八仙山苗圃",
+    "county": "臺中市",
+    "alt": 961.0,
+    "lon": 121.001366,
+    "lat": 24.192719,
+    "status": "existing"
+  },
+  {
+    "id": "C0FB40",
+    "name": "中橫21.6k",
+    "county": "臺中市",
+    "alt": 1341.0,
+    "lon": 121.1455,
+    "lat": 24.2499,
+    "status": "existing"
+  },
+  {
+    "id": "C0FB70",
+    "name": "大甲溪埔",
+    "county": "臺中市",
+    "alt": 41.0,
+    "lon": 120.620067,
+    "lat": 24.370625,
+    "status": "existing"
+  },
+  {
+    "id": "C0G620",
+    "name": "芬園",
+    "county": "彰化縣",
+    "alt": 110.0,
+    "lon": 120.6213,
+    "lat": 24.015678,
+    "status": "existing"
+  },
+  {
+    "id": "C0G640",
+    "name": "鹿港",
+    "county": "彰化縣",
+    "alt": 17.0,
+    "lon": 120.430481,
+    "lat": 24.0753,
+    "status": "revoked"
+  },
+  {
+    "id": "C0G650",
+    "name": "員林",
+    "county": "彰化縣",
+    "alt": 34.0,
+    "lon": 120.585597,
+    "lat": 23.946503,
+    "status": "existing"
+  },
+  {
+    "id": "C0G660",
+    "name": "溪湖",
+    "county": "彰化縣",
+    "alt": 27.0,
+    "lon": 120.479122,
+    "lat": 23.94835,
+    "status": "existing"
+  },
+  {
+    "id": "C0G710",
+    "name": "台西",
+    "county": "彰化縣",
+    "alt": 64.0,
+    "lon": 120.2798,
+    "lat": 23.848489,
+    "status": "revoked"
+  },
+  {
+    "id": "C0G720",
+    "name": "溪州",
+    "county": "彰化縣",
+    "alt": 50.0,
+    "lon": 120.499093,
+    "lat": 23.851589,
+    "status": "existing"
+  },
+  {
+    "id": "C0G730",
+    "name": "二林",
+    "county": "彰化縣",
+    "alt": 27.0,
+    "lon": 120.376081,
+    "lat": 23.903325,
+    "status": "existing"
+  },
+  {
+    "id": "C0G740",
+    "name": "大城",
+    "county": "彰化縣",
+    "alt": 24.0,
+    "lon": 120.320935,
+    "lat": 23.852487,
+    "status": "existing"
+  },
+  {
+    "id": "C0G750",
+    "name": "竹塘",
+    "county": "彰化縣",
+    "alt": 31.0,
+    "lon": 120.382486,
+    "lat": 23.846617,
+    "status": "revoked"
+  },
+  {
+    "id": "C0G760",
+    "name": "高鐵彰化",
+    "county": "彰化縣",
+    "alt": 53.0,
+    "lon": 120.574608,
+    "lat": 23.875247,
+    "status": "revoked"
+  },
+  {
+    "id": "C0G770",
+    "name": "福興",
+    "county": "彰化縣",
+    "alt": 15.0,
+    "lon": 120.437669,
+    "lat": 24.041289,
+    "status": "existing"
+  },
+  {
+    "id": "C0G780",
+    "name": "秀水",
+    "county": "彰化縣",
+    "alt": 27.0,
+    "lon": 120.503869,
+    "lat": 24.03405,
+    "status": "existing"
+  },
+  {
+    "id": "C0G790",
+    "name": "花壇",
+    "county": "彰化縣",
+    "alt": 27.0,
+    "lon": 120.552328,
+    "lat": 24.016069,
+    "status": "revoked"
+  },
+  {
+    "id": "C0G800",
+    "name": "埔鹽",
+    "county": "彰化縣",
+    "alt": 15.0,
+    "lon": 120.431683,
+    "lat": 24.000394,
+    "status": "existing"
+  },
+  {
+    "id": "C0G810",
+    "name": "埔心",
+    "county": "彰化縣",
+    "alt": 26.0,
+    "lon": 120.525456,
+    "lat": 23.947633,
+    "status": "existing"
+  },
+  {
+    "id": "C0G820",
+    "name": "田尾",
+    "county": "彰化縣",
+    "alt": 29.0,
+    "lon": 120.509389,
+    "lat": 23.901669,
+    "status": "existing"
+  },
+  {
+    "id": "C0G830",
+    "name": "埤頭",
+    "county": "彰化縣",
+    "alt": 27.0,
+    "lon": 120.452806,
+    "lat": 23.866003,
+    "status": "existing"
+  },
+  {
+    "id": "C0G840",
+    "name": "北斗",
+    "county": "彰化縣",
+    "alt": 32.0,
+    "lon": 120.514222,
+    "lat": 23.877586,
+    "status": "revoked"
+  },
+  {
+    "id": "C0G850",
+    "name": "田中",
+    "county": "彰化縣",
+    "alt": 62.0,
+    "lon": 120.588261,
+    "lat": 23.856778,
+    "status": "revoked"
+  },
+  {
+    "id": "C0G860",
+    "name": "社頭",
+    "county": "彰化縣",
+    "alt": 45.0,
+    "lon": 120.5862,
+    "lat": 23.897647,
+    "status": "existing"
+  },
+  {
+    "id": "C0G870",
+    "name": "芳苑",
+    "county": "彰化縣",
+    "alt": 12.0,
+    "lon": 120.320025,
+    "lat": 23.922303,
+    "status": "revoked"
+  },
+  {
+    "id": "C0G880",
+    "name": "二水",
+    "county": "彰化縣",
+    "alt": 92.0,
+    "lon": 120.6173,
+    "lat": 23.810742,
+    "status": "existing"
+  },
+  {
+    "id": "C0G890",
+    "name": "伸港",
+    "county": "彰化縣",
+    "alt": 24.0,
+    "lon": 120.484403,
+    "lat": 24.148933,
+    "status": "existing"
+  },
+  {
+    "id": "C0G900",
+    "name": "線西",
+    "county": "彰化縣",
+    "alt": 20.0,
+    "lon": 120.443536,
+    "lat": 24.143358,
+    "status": "existing"
+  },
+  {
+    "id": "C0G910",
+    "name": "花壇",
+    "county": "彰化縣",
+    "alt": 42.0,
+    "lon": 120.549461,
+    "lat": 24.032076,
+    "status": "existing"
+  },
+  {
+    "id": "C0G920",
+    "name": "永靖",
+    "county": "彰化縣",
+    "alt": 42.0,
+    "lon": 120.547533,
+    "lat": 23.924703,
+    "status": "existing"
+  },
+  {
+    "id": "C0G940",
+    "name": "竹塘",
+    "county": "彰化縣",
+    "alt": 21.0,
+    "lon": 120.386764,
+    "lat": 23.848253,
+    "status": "existing"
+  },
+  {
+    "id": "C0G950",
+    "name": "防潮門",
+    "county": "彰化縣",
+    "alt": 23.0,
+    "lon": 120.4871,
+    "lat": 24.1835,
+    "status": "existing"
+  },
+  {
+    "id": "C0G960",
+    "name": "福寶",
+    "county": "彰化縣",
+    "alt": 5.0,
+    "lon": 120.3814,
+    "lat": 24.0443,
+    "status": "existing"
+  },
+  {
+    "id": "C0G970",
+    "name": "三豐",
+    "county": "彰化縣",
+    "alt": 19.0,
+    "lon": 120.2895,
+    "lat": 23.882,
+    "status": "existing"
+  },
+  {
+    "id": "C0G9B0",
+    "name": "和美",
+    "county": "彰化縣",
+    "alt": 26.0,
+    "lon": 120.492131,
+    "lat": 24.105169,
+    "status": "existing"
+  },
+  {
+    "id": "C0H890",
+    "name": "埔里",
+    "county": "南投縣",
+    "alt": 440.0,
+    "lon": 120.952425,
+    "lat": 23.972169,
+    "status": "existing"
+  },
+  {
+    "id": "C0H950",
+    "name": "中寮",
+    "county": "南投縣",
+    "alt": 192.0,
+    "lon": 120.766406,
+    "lat": 23.884447,
+    "status": "revoked"
+  },
+  {
+    "id": "C0H960",
+    "name": "草屯",
+    "county": "南投縣",
+    "alt": 120.0,
+    "lon": 120.68085,
+    "lat": 23.973672,
+    "status": "existing"
+  },
+  {
+    "id": "C0H980",
+    "name": "中興新村",
+    "county": "南投縣",
+    "alt": 83.0,
+    "lon": 120.995089,
+    "lat": 23.936278,
+    "status": "revoked"
+  },
+  {
+    "id": "C0H990",
+    "name": "昆陽",
+    "county": "南投縣",
+    "alt": 3076.0,
+    "lon": 121.273642,
+    "lat": 24.121322,
+    "status": "existing"
+  },
+  {
+    "id": "C0H9A0",
+    "name": "神木村",
+    "county": "南投縣",
+    "alt": 1595.0,
+    "lon": 120.843667,
+    "lat": 23.532742,
+    "status": "existing"
+  },
+  {
+    "id": "C0H9C0",
+    "name": "合歡山",
+    "county": "南投縣",
+    "alt": 3402.0,
+    "lon": 121.272547,
+    "lat": 24.143442,
+    "status": "existing"
+  },
+  {
+    "id": "C0I010",
+    "name": "廬山",
+    "county": "南投縣",
+    "alt": 1562.0,
+    "lon": 121.181808,
+    "lat": 24.033311,
+    "status": "existing"
+  },
+  {
+    "id": "C0I080",
+    "name": "信義",
+    "county": "南投縣",
+    "alt": 536.0,
+    "lon": 120.851036,
+    "lat": 23.689694,
+    "status": "existing"
+  },
+  {
+    "id": "C0I090",
+    "name": "鳳凰",
+    "county": "南投縣",
+    "alt": 910.0,
+    "lon": 120.787347,
+    "lat": 23.728081,
+    "status": "revoked"
+  },
+  {
+    "id": "C0I110",
+    "name": "竹山",
+    "county": "南投縣",
+    "alt": 161.0,
+    "lon": 120.688156,
+    "lat": 23.761225,
+    "status": "existing"
+  },
+  {
+    "id": "C0I360",
+    "name": "水里",
+    "county": "南投縣",
+    "alt": 300.0,
+    "lon": 120.849792,
+    "lat": 23.812553,
+    "status": "existing"
+  },
+  {
+    "id": "C0I370",
+    "name": "魚池",
+    "county": "南投縣",
+    "alt": 671.0,
+    "lon": 120.94135,
+    "lat": 23.895703,
+    "status": "existing"
+  },
+  {
+    "id": "C0I380",
+    "name": "集集",
+    "county": "南投縣",
+    "alt": 258.0,
+    "lon": 120.801467,
+    "lat": 23.828206,
+    "status": "existing"
+  },
+  {
+    "id": "C0I390",
+    "name": "仁愛",
+    "county": "南投縣",
+    "alt": 1184.0,
+    "lon": 121.132206,
+    "lat": 24.022122,
+    "status": "existing"
+  },
+  {
+    "id": "C0I410",
+    "name": "名間",
+    "county": "南投縣",
+    "alt": 180.0,
+    "lon": 120.701447,
+    "lat": 23.837053,
+    "status": "existing"
+  },
+  {
+    "id": "C0I420",
+    "name": "國姓",
+    "county": "南投縣",
+    "alt": 305.0,
+    "lon": 120.855072,
+    "lat": 24.037803,
+    "status": "existing"
+  },
+  {
+    "id": "C0I460",
+    "name": "南投",
+    "county": "南投縣",
+    "alt": 110.0,
+    "lon": 120.687331,
+    "lat": 23.911469,
+    "status": "existing"
+  },
+  {
+    "id": "C0I480",
+    "name": "梅峰",
+    "county": "南投縣",
+    "alt": 2165.0,
+    "lon": 121.173572,
+    "lat": 24.085272,
+    "status": "existing"
+  },
+  {
+    "id": "C0I490",
+    "name": "萬大林道",
+    "county": "南投縣",
+    "alt": 1601.0,
+    "lon": 121.091411,
+    "lat": 23.928228,
+    "status": "existing"
+  },
+  {
+    "id": "C0I520",
+    "name": "玉山風口",
+    "county": "南投縣",
+    "alt": 3860.0,
+    "lon": 120.955994,
+    "lat": 23.470489,
+    "status": "existing"
+  },
+  {
+    "id": "C0I530",
+    "name": "小奇萊",
+    "county": "南投縣",
+    "alt": 3014.0,
+    "lon": 121.295717,
+    "lat": 24.131764,
+    "status": "existing"
+  },
+  {
+    "id": "C0I540",
+    "name": "奇萊稜線",
+    "county": "南投縣",
+    "alt": 3344.0,
+    "lon": 121.326456,
+    "lat": 24.109231,
+    "status": "existing"
+  },
+  {
+    "id": "C0K240",
+    "name": "草嶺",
+    "county": "雲林縣",
+    "alt": 1132.0,
+    "lon": 120.693461,
+    "lat": 23.59555,
+    "status": "revoked"
+  },
+  {
+    "id": "C0K250",
+    "name": "崙背",
+    "county": "雲林縣",
+    "alt": 12.0,
+    "lon": 120.318925,
+    "lat": 23.75555,
+    "status": "revoked"
+  },
+  {
+    "id": "C0K280",
+    "name": "四湖",
+    "county": "雲林縣",
+    "alt": 23.0,
+    "lon": 120.227125,
+    "lat": 23.630414,
+    "status": "revoked"
+  },
+  {
+    "id": "C0K290",
+    "name": "宜梧",
+    "county": "雲林縣",
+    "alt": 3.0,
+    "lon": 120.172569,
+    "lat": 23.542158,
+    "status": "revoked"
+  },
+  {
+    "id": "C0K291",
+    "name": "宜梧",
+    "county": "雲林縣",
+    "alt": 8.0,
+    "lon": 120.169329,
+    "lat": 23.536281,
+    "status": "existing"
+  },
+  {
+    "id": "C0K300",
+    "name": "大埔",
+    "county": "雲林縣",
+    "alt": 369.0,
+    "lon": 120.605289,
+    "lat": 23.641325,
+    "status": "revoked"
+  },
+  {
+    "id": "C0K330",
+    "name": "虎尾",
+    "county": "雲林縣",
+    "alt": 38.0,
+    "lon": 120.442036,
+    "lat": 23.719183,
+    "status": "existing"
+  },
+  {
+    "id": "C0K390",
+    "name": "土庫",
+    "county": "雲林縣",
+    "alt": 31.0,
+    "lon": 120.395574,
+    "lat": 23.679029,
+    "status": "existing"
+  },
+  {
+    "id": "C0K400",
+    "name": "斗六",
+    "county": "雲林縣",
+    "alt": 65.0,
+    "lon": 120.541127,
+    "lat": 23.720583,
+    "status": "existing"
+  },
+  {
+    "id": "C0K410",
+    "name": "北港",
+    "county": "雲林縣",
+    "alt": 20.0,
+    "lon": 120.292802,
+    "lat": 23.573957,
+    "status": "existing"
+  },
+  {
+    "id": "C0K420",
+    "name": "西螺",
+    "county": "雲林縣",
+    "alt": 42.0,
+    "lon": 120.467394,
+    "lat": 23.800407,
+    "status": "existing"
+  },
+  {
+    "id": "C0K430",
+    "name": "褒忠",
+    "county": "雲林縣",
+    "alt": 30.0,
+    "lon": 120.303634,
+    "lat": 23.690938,
+    "status": "existing"
+  },
+  {
+    "id": "C0K440",
+    "name": "二崙",
+    "county": "雲林縣",
+    "alt": 35.0,
+    "lon": 120.408944,
+    "lat": 23.772797,
+    "status": "existing"
+  },
+  {
+    "id": "C0K450",
+    "name": "大埤",
+    "county": "雲林縣",
+    "alt": 35.0,
+    "lon": 120.431537,
+    "lat": 23.646074,
+    "status": "existing"
+  },
+  {
+    "id": "C0K460",
+    "name": "斗南",
+    "county": "雲林縣",
+    "alt": 60.0,
+    "lon": 120.478359,
+    "lat": 23.678734,
+    "status": "existing"
+  },
+  {
+    "id": "C0K470",
+    "name": "林內",
+    "county": "雲林縣",
+    "alt": 97.0,
+    "lon": 120.609642,
+    "lat": 23.748675,
+    "status": "existing"
+  },
+  {
+    "id": "C0K480",
+    "name": "莿桐",
+    "county": "雲林縣",
+    "alt": 56.0,
+    "lon": 120.502372,
+    "lat": 23.761192,
+    "status": "existing"
+  },
+  {
+    "id": "C0K490",
+    "name": "古坑",
+    "county": "雲林縣",
+    "alt": 91.0,
+    "lon": 120.559754,
+    "lat": 23.654301,
+    "status": "revoked"
+  },
+  {
+    "id": "C0K500",
+    "name": "元長",
+    "county": "雲林縣",
+    "alt": 12.0,
+    "lon": 120.315024,
+    "lat": 23.64981,
+    "status": "existing"
+  },
+  {
+    "id": "C0K510",
+    "name": "水林",
+    "county": "雲林縣",
+    "alt": 10.0,
+    "lon": 120.24597,
+    "lat": 23.572924,
+    "status": "existing"
+  },
+  {
+    "id": "C0K520",
+    "name": "雲林東勢",
+    "county": "雲林縣",
+    "alt": 10.0,
+    "lon": 120.2528,
+    "lat": 23.67495,
+    "status": "revoked"
+  },
+  {
+    "id": "C0K530",
+    "name": "臺西",
+    "county": "雲林縣",
+    "alt": 12.0,
+    "lon": 120.197559,
+    "lat": 23.701547,
+    "status": "existing"
+  },
+  {
+    "id": "C0K550",
+    "name": "蔦松",
+    "county": "雲林縣",
+    "alt": 15.0,
+    "lon": 120.229736,
+    "lat": 23.514319,
+    "status": "existing"
+  },
+  {
+    "id": "C0K560",
+    "name": "棋山",
+    "county": "雲林縣",
+    "alt": 117.0,
+    "lon": 120.603417,
+    "lat": 23.68645,
+    "status": "existing"
+  },
+  {
+    "id": "C0K580",
+    "name": "高鐵雲林",
+    "county": "雲林縣",
+    "alt": 26.0,
+    "lon": 120.417944,
+    "lat": 23.737456,
+    "status": "existing"
+  },
+  {
+    "id": "C0K590",
+    "name": "雲林東勢",
+    "county": "雲林縣",
+    "alt": 18.0,
+    "lon": 120.255721,
+    "lat": 23.674192,
+    "status": "existing"
+  },
+  {
+    "id": "C0K600",
+    "name": "箔子寮",
+    "county": "雲林縣",
+    "alt": 14.0,
+    "lon": 120.14,
+    "lat": 23.6197,
+    "status": "existing"
+  },
+  {
+    "id": "C0M410",
+    "name": "馬頭山",
+    "county": "嘉義縣",
+    "alt": 245.0,
+    "lon": 120.582017,
+    "lat": 23.324361,
+    "status": "revoked"
+  },
+  {
+    "id": "C0M520",
+    "name": "東後寮",
+    "county": "嘉義縣",
+    "alt": 15.0,
+    "lon": 120.248065,
+    "lat": 23.369908,
+    "status": "existing"
+  },
+  {
+    "id": "C0M530",
+    "name": "奮起湖",
+    "county": "嘉義縣",
+    "alt": 1385.0,
+    "lon": 120.699253,
+    "lat": 23.493903,
+    "status": "existing"
+  },
+  {
+    "id": "C0M640",
+    "name": "中埔",
+    "county": "嘉義縣",
+    "alt": 155.0,
+    "lon": 120.5229,
+    "lat": 23.42538,
+    "status": "existing"
+  },
+  {
+    "id": "C0M650",
+    "name": "朴子",
+    "county": "嘉義縣",
+    "alt": 20.0,
+    "lon": 120.23902,
+    "lat": 23.43463,
+    "status": "existing"
+  },
+  {
+    "id": "C0M660",
+    "name": "溪口",
+    "county": "嘉義縣",
+    "alt": 40.0,
+    "lon": 120.403569,
+    "lat": 23.604131,
+    "status": "existing"
+  },
+  {
+    "id": "C0M670",
+    "name": "大林",
+    "county": "嘉義縣",
+    "alt": 43.0,
+    "lon": 120.45841,
+    "lat": 23.600616,
+    "status": "existing"
+  },
+  {
+    "id": "C0M680",
+    "name": "太保",
+    "county": "嘉義縣",
+    "alt": 37.0,
+    "lon": 120.331455,
+    "lat": 23.455062,
+    "status": "existing"
+  },
+  {
+    "id": "C0M690",
+    "name": "水上",
+    "county": "嘉義縣",
+    "alt": 33.0,
+    "lon": 120.388909,
+    "lat": 23.419734,
+    "status": "existing"
+  },
+  {
+    "id": "C0M700",
+    "name": "竹崎",
+    "county": "嘉義縣",
+    "alt": 150.0,
+    "lon": 120.555508,
+    "lat": 23.526178,
+    "status": "existing"
+  },
+  {
+    "id": "C0M710",
+    "name": "東石",
+    "county": "嘉義縣",
+    "alt": 15.0,
+    "lon": 120.15385,
+    "lat": 23.458927,
+    "status": "existing"
+  },
+  {
+    "id": "C0M720",
+    "name": "番路",
+    "county": "嘉義縣",
+    "alt": 225.0,
+    "lon": 120.554156,
+    "lat": 23.464657,
+    "status": "existing"
+  },
+  {
+    "id": "C0M730",
+    "name": "嘉義市東區",
+    "county": "嘉義市",
+    "alt": 40.0,
+    "lon": 120.460531,
+    "lat": 23.457673,
+    "status": "existing"
+  },
+  {
+    "id": "C0M740",
+    "name": "六腳",
+    "county": "嘉義縣",
+    "alt": 15.0,
+    "lon": 120.290625,
+    "lat": 23.492871,
+    "status": "existing"
+  },
+  {
+    "id": "C0M750",
+    "name": "布袋",
+    "county": "嘉義縣",
+    "alt": 10.0,
+    "lon": 120.167789,
+    "lat": 23.380878,
+    "status": "existing"
+  },
+  {
+    "id": "C0M760",
+    "name": "民雄",
+    "county": "嘉義縣",
+    "alt": 40.0,
+    "lon": 120.428457,
+    "lat": 23.551754,
+    "status": "existing"
+  },
+  {
+    "id": "C0M770",
+    "name": "嘉義梅山",
+    "county": "嘉義縣",
+    "alt": 164.0,
+    "lon": 120.555587,
+    "lat": 23.585398,
+    "status": "existing"
+  },
+  {
+    "id": "C0M780",
+    "name": "鹿草",
+    "county": "嘉義縣",
+    "alt": 30.0,
+    "lon": 120.30835,
+    "lat": 23.41134,
+    "status": "existing"
+  },
+  {
+    "id": "C0M790",
+    "name": "新港",
+    "county": "嘉義縣",
+    "alt": 15.0,
+    "lon": 120.345728,
+    "lat": 23.553269,
+    "status": "existing"
+  },
+  {
+    "id": "C0M800",
+    "name": "茶山",
+    "county": "嘉義縣",
+    "alt": 440.0,
+    "lon": 120.664767,
+    "lat": 23.299075,
+    "status": "existing"
+  },
+  {
+    "id": "C0M810",
+    "name": "里佳",
+    "county": "嘉義縣",
+    "alt": 1354.0,
+    "lon": 120.716647,
+    "lat": 23.389125,
+    "status": "existing"
+  },
+  {
+    "id": "C0M820",
+    "name": "達邦",
+    "county": "嘉義縣",
+    "alt": 980.0,
+    "lon": 120.749517,
+    "lat": 23.453994,
+    "status": "existing"
+  },
+  {
+    "id": "C0M830",
+    "name": "山美",
+    "county": "嘉義縣",
+    "alt": 540.0,
+    "lon": 120.668217,
+    "lat": 23.383803,
+    "status": "revoked"
+  },
+  {
+    "id": "C0M850",
+    "name": "表湖",
+    "county": "嘉義縣",
+    "alt": 695.0,
+    "lon": 120.64166,
+    "lat": 23.24186,
+    "status": "existing"
+  },
+  {
+    "id": "C0M860",
+    "name": "新美",
+    "county": "嘉義縣",
+    "alt": 578.0,
+    "lon": 120.683169,
+    "lat": 23.338017,
+    "status": "existing"
+  },
+  {
+    "id": "C0M880",
+    "name": "好美里",
+    "county": "嘉義縣",
+    "alt": 27.0,
+    "lon": 120.138,
+    "lat": 23.3364,
+    "status": "existing"
+  },
+  {
+    "id": "C0N010",
+    "name": "鯤鯓國小",
+    "county": "臺南市",
+    "alt": 19.0,
+    "lon": 120.0889,
+    "lat": 23.1879,
+    "status": "existing"
+  },
+  {
+    "id": "C0N020",
+    "name": "城西",
+    "county": "臺南市",
+    "alt": 27.0,
+    "lon": 120.0956,
+    "lat": 23.0568,
+    "status": "existing"
+  },
+  {
+    "id": "C0N030",
+    "name": "四草",
+    "county": "臺南市",
+    "alt": 2.0,
+    "lon": 120.1116,
+    "lat": 23.0235,
+    "status": "existing"
+  },
+  {
+    "id": "C0N040",
+    "name": "蘆竹溝",
+    "county": "臺南市",
+    "alt": 22.0,
+    "lon": 120.0961,
+    "lat": 23.2344,
+    "status": "existing"
+  },
+  {
+    "id": "C0N050",
+    "name": "蚵寮",
+    "county": "臺南市",
+    "alt": 37.0,
+    "lon": 120.1104,
+    "lat": 23.301,
+    "status": "existing"
+  },
+  {
+    "id": "C0O810",
+    "name": "曾文",
+    "county": "臺南市",
+    "alt": 161.0,
+    "lon": 120.497328,
+    "lat": 23.219681,
+    "status": "revoked"
+  },
+  {
+    "id": "C0O830",
+    "name": "北寮",
+    "county": "臺南市",
+    "alt": 127.0,
+    "lon": 120.495008,
+    "lat": 23.079561,
+    "status": "existing"
+  },
+  {
+    "id": "C0O840",
+    "name": "王爺宮",
+    "county": "臺南市",
+    "alt": 134.0,
+    "lon": 120.40085,
+    "lat": 23.222064,
+    "status": "existing"
+  },
+  {
+    "id": "C0O860",
+    "name": "大內",
+    "county": "臺南市",
+    "alt": 38.0,
+    "lon": 120.36083,
+    "lat": 23.11885,
+    "status": "existing"
+  },
+  {
+    "id": "C0O890",
+    "name": "南化",
+    "county": "臺南市",
+    "alt": 167.0,
+    "lon": 120.488636,
+    "lat": 23.042672,
+    "status": "revoked"
+  },
+  {
+    "id": "C0O900",
+    "name": "善化",
+    "county": "臺南市",
+    "alt": 9.0,
+    "lon": 120.297219,
+    "lat": 23.112883,
+    "status": "existing"
+  },
+  {
+    "id": "C0O910",
+    "name": "新營",
+    "county": "臺南市",
+    "alt": 16.0,
+    "lon": 120.321508,
+    "lat": 23.292275,
+    "status": "revoked"
+  },
+  {
+    "id": "C0O930",
+    "name": "玉井",
+    "county": "臺南市",
+    "alt": 69.0,
+    "lon": 120.46055,
+    "lat": 23.126042,
+    "status": "revoked"
+  },
+  {
+    "id": "C0O950",
+    "name": "安南",
+    "county": "臺南市",
+    "alt": 4.0,
+    "lon": 120.144861,
+    "lat": 23.076694,
+    "status": "revoked"
+  },
+  {
+    "id": "C0O960",
+    "name": "崎頂",
+    "county": "臺南市",
+    "alt": 112.0,
+    "lon": 120.369317,
+    "lat": 22.959547,
+    "status": "existing"
+  },
+  {
+    "id": "C0O970",
+    "name": "虎頭埤",
+    "county": "臺南市",
+    "alt": 71.0,
+    "lon": 120.347878,
+    "lat": 23.021375,
+    "status": "existing"
+  },
+  {
+    "id": "C0O980",
+    "name": "新市",
+    "county": "臺南市",
+    "alt": 18.0,
+    "lon": 120.298197,
+    "lat": 23.061614,
+    "status": "existing"
+  },
+  {
+    "id": "C0O990",
+    "name": "媽廟",
+    "county": "臺南市",
+    "alt": 18.0,
+    "lon": 120.293525,
+    "lat": 22.99175,
+    "status": "existing"
+  },
+  {
+    "id": "C0R100",
+    "name": "尾寮山",
+    "county": "屏東縣",
+    "alt": 1006.0,
+    "lon": 120.683889,
+    "lat": 22.833111,
+    "status": "existing"
+  },
+  {
+    "id": "C0R130",
+    "name": "阿禮",
+    "county": "屏東縣",
+    "alt": 1040.0,
+    "lon": 120.743678,
+    "lat": 22.742908,
+    "status": "existing"
+  },
+  {
+    "id": "C0R140",
+    "name": "瑪家",
+    "county": "屏東縣",
+    "alt": 740.0,
+    "lon": 120.686639,
+    "lat": 22.682903,
+    "status": "existing"
+  },
+  {
+    "id": "C0R150",
+    "name": "三地門",
+    "county": "屏東縣",
+    "alt": 105.0,
+    "lon": 120.639944,
+    "lat": 22.709889,
+    "status": "existing"
+  },
+  {
+    "id": "C0R160",
+    "name": "鹽埔",
+    "county": "屏東縣",
+    "alt": 45.0,
+    "lon": 120.530778,
+    "lat": 22.739558,
+    "status": "existing"
+  },
+  {
+    "id": "C0R170",
+    "name": "屏東",
+    "county": "屏東縣",
+    "alt": 26.0,
+    "lon": 120.494072,
+    "lat": 22.660269,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R190",
+    "name": "赤山",
+    "county": "屏東縣",
+    "alt": 32.0,
+    "lon": 120.614306,
+    "lat": 22.592333,
+    "status": "existing"
+  },
+  {
+    "id": "C0R220",
+    "name": "潮州",
+    "county": "屏東縣",
+    "alt": 23.0,
+    "lon": 120.54,
+    "lat": 22.534361,
+    "status": "existing"
+  },
+  {
+    "id": "C0R240",
+    "name": "來義",
+    "county": "屏東縣",
+    "alt": 87.0,
+    "lon": 120.625111,
+    "lat": 22.527306,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R260",
+    "name": "春日",
+    "county": "屏東縣",
+    "alt": 76.0,
+    "lon": 120.628306,
+    "lat": 22.370361,
+    "status": "existing"
+  },
+  {
+    "id": "C0R270",
+    "name": "琉球嶼",
+    "county": "屏東縣",
+    "alt": 51.0,
+    "lon": 120.362236,
+    "lat": 22.332244,
+    "status": "existing"
+  },
+  {
+    "id": "C0R280",
+    "name": "檳榔",
+    "county": "屏東縣",
+    "alt": 242.0,
+    "lon": 120.836777,
+    "lat": 22.076078,
+    "status": "existing"
+  },
+  {
+    "id": "C0R320",
+    "name": "車城",
+    "county": "屏東縣",
+    "alt": 7.0,
+    "lon": 120.716247,
+    "lat": 22.0744,
+    "status": "existing"
+  },
+  {
+    "id": "C0R340",
+    "name": "牡丹",
+    "county": "屏東縣",
+    "alt": 285.0,
+    "lon": 120.837761,
+    "lat": 22.192403,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R341",
+    "name": "牡丹",
+    "county": "屏東縣",
+    "alt": 230.0,
+    "lon": 120.792639,
+    "lat": 22.130036,
+    "status": "existing"
+  },
+  {
+    "id": "C0R350",
+    "name": "貓鼻頭",
+    "county": "屏東縣",
+    "alt": 35.0,
+    "lon": 120.7358,
+    "lat": 21.921774,
+    "status": "existing"
+  },
+  {
+    "id": "C0R360",
+    "name": "墾丁",
+    "county": "屏東縣",
+    "alt": 20.0,
+    "lon": 120.802239,
+    "lat": 21.945631,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R370",
+    "name": "佳樂水",
+    "county": "屏東縣",
+    "alt": 55.0,
+    "lon": 120.844567,
+    "lat": 21.991953,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R380",
+    "name": "枋寮",
+    "county": "屏東縣",
+    "alt": 2.0,
+    "lon": 120.589639,
+    "lat": 22.369425,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R400",
+    "name": "楓港",
+    "county": "屏東縣",
+    "alt": 15.0,
+    "lon": 120.692725,
+    "lat": 22.190197,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R420",
+    "name": "牡丹池山",
+    "county": "屏東縣",
+    "alt": 504.0,
+    "lon": 120.840556,
+    "lat": 22.167792,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R430",
+    "name": "東港",
+    "county": "屏東縣",
+    "alt": 31.0,
+    "lon": 120.441692,
+    "lat": 22.464914,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R440",
+    "name": "大漢山",
+    "county": "屏東縣",
+    "alt": 1654.0,
+    "lon": 120.753181,
+    "lat": 22.405264,
+    "status": "existing"
+  },
+  {
+    "id": "C0R470",
+    "name": "高樹",
+    "county": "屏東縣",
+    "alt": 103.0,
+    "lon": 120.600806,
+    "lat": 22.826389,
+    "status": "existing"
+  },
+  {
+    "id": "C0R480",
+    "name": "長治",
+    "county": "屏東縣",
+    "alt": 57.0,
+    "lon": 120.542622,
+    "lat": 22.693128,
+    "status": "existing"
+  },
+  {
+    "id": "C0R490",
+    "name": "九如",
+    "county": "屏東縣",
+    "alt": 49.0,
+    "lon": 120.490503,
+    "lat": 22.7405,
+    "status": "existing"
+  },
+  {
+    "id": "C0R500",
+    "name": "竹田",
+    "county": "屏東縣",
+    "alt": 32.0,
+    "lon": 120.544008,
+    "lat": 22.584917,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R510",
+    "name": "萬丹",
+    "county": "屏東縣",
+    "alt": 31.0,
+    "lon": 120.490394,
+    "lat": 22.587775,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R520",
+    "name": "崁頂",
+    "county": "屏東縣",
+    "alt": 18.0,
+    "lon": 120.506914,
+    "lat": 22.514781,
+    "status": "existing"
+  },
+  {
+    "id": "C0R530",
+    "name": "林邊",
+    "county": "屏東縣",
+    "alt": 16.0,
+    "lon": 120.509983,
+    "lat": 22.430836,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R540",
+    "name": "佳冬",
+    "county": "屏東縣",
+    "alt": 17.0,
+    "lon": 120.552375,
+    "lat": 22.419456,
+    "status": "existing"
+  },
+  {
+    "id": "C0R550",
+    "name": "新埤",
+    "county": "屏東縣",
+    "alt": 38.0,
+    "lon": 120.582894,
+    "lat": 22.467947,
+    "status": "existing"
+  },
+  {
+    "id": "C0R560",
+    "name": "新園",
+    "county": "屏東縣",
+    "alt": 22.0,
+    "lon": 120.461558,
+    "lat": 22.5434,
+    "status": "existing"
+  },
+  {
+    "id": "C0R570",
+    "name": "麟洛",
+    "county": "屏東縣",
+    "alt": 37.0,
+    "lon": 120.52719,
+    "lat": 22.65078,
+    "status": "existing"
+  },
+  {
+    "id": "C0R580",
+    "name": "南州",
+    "county": "屏東縣",
+    "alt": 10.0,
+    "lon": 120.50274,
+    "lat": 22.48591,
+    "status": "existing"
+  },
+  {
+    "id": "C0R590",
+    "name": "里港",
+    "county": "屏東縣",
+    "alt": 72.0,
+    "lon": 120.49459,
+    "lat": 22.77919,
+    "status": "existing"
+  },
+  {
+    "id": "C0R600",
+    "name": "舊泰武",
+    "county": "屏東縣",
+    "alt": 766.0,
+    "lon": 120.664944,
+    "lat": 22.588194,
+    "status": "existing"
+  },
+  {
+    "id": "C0R620",
+    "name": "墾雷",
+    "county": "屏東縣",
+    "alt": 34.0,
+    "lon": 120.855269,
+    "lat": 21.900836,
+    "status": "existing"
+  },
+  {
+    "id": "C0R640",
+    "name": "東港",
+    "county": "屏東縣",
+    "alt": 21.0,
+    "lon": 120.44074,
+    "lat": 22.46247,
+    "status": "existing"
+  },
+  {
+    "id": "C0R650",
+    "name": "竹田",
+    "county": "屏東縣",
+    "alt": 29.0,
+    "lon": 120.54344,
+    "lat": 22.58486,
+    "status": "existing"
+  },
+  {
+    "id": "C0R660",
+    "name": "枋寮",
+    "county": "屏東縣",
+    "alt": 20.0,
+    "lon": 120.590647,
+    "lat": 22.367722,
+    "status": "existing"
+  },
+  {
+    "id": "C0R670",
+    "name": "楓港",
+    "county": "屏東縣",
+    "alt": 26.0,
+    "lon": 120.692156,
+    "lat": 22.190131,
+    "status": "existing"
+  },
+  {
+    "id": "C0R680",
+    "name": "佳樂水",
+    "county": "屏東縣",
+    "alt": 13.0,
+    "lon": 120.861633,
+    "lat": 21.993578,
+    "status": "existing"
+  },
+  {
+    "id": "C0R690",
+    "name": "墾丁",
+    "county": "屏東縣",
+    "alt": 348.0,
+    "lon": 120.810269,
+    "lat": 21.966756,
+    "status": "existing"
+  },
+  {
+    "id": "C0R700",
+    "name": "枋山",
+    "county": "屏東縣",
+    "alt": 19.0,
+    "lon": 120.661086,
+    "lat": 22.246844,
+    "status": "existing"
+  },
+  {
+    "id": "C0R710",
+    "name": "龍磐",
+    "county": "屏東縣",
+    "alt": 117.0,
+    "lon": 120.838942,
+    "lat": 21.931672,
+    "status": "existing"
+  },
+  {
+    "id": "C0R720",
+    "name": "旭海",
+    "county": "屏東縣",
+    "alt": 214.0,
+    "lon": 120.887614,
+    "lat": 22.205403,
+    "status": "existing"
+  },
+  {
+    "id": "C0R730",
+    "name": "大坪頂",
+    "county": "屏東縣",
+    "alt": 163.0,
+    "lon": 120.69355,
+    "lat": 22.024633,
+    "status": "existing"
+  },
+  {
+    "id": "C0R740",
+    "name": "獅子",
+    "county": "屏東縣",
+    "alt": 58.0,
+    "lon": 120.70525,
+    "lat": 22.201569,
+    "status": "revoked"
+  },
+  {
+    "id": "C0R741",
+    "name": "獅子",
+    "county": "屏東縣",
+    "alt": 72.0,
+    "lon": 120.705236,
+    "lat": 22.202308,
+    "status": "existing"
+  },
+  {
+    "id": "C0R750",
+    "name": "四林格山",
+    "county": "屏東縣",
+    "alt": 551.0,
+    "lon": 120.802439,
+    "lat": 22.076989,
+    "status": "existing"
+  },
+  {
+    "id": "C0R760",
+    "name": "南仁湖",
+    "county": "屏東縣",
+    "alt": 336.0,
+    "lon": 120.863353,
+    "lat": 22.084681,
+    "status": "existing"
+  },
+  {
+    "id": "C0R770",
+    "name": "保力",
+    "county": "屏東縣",
+    "alt": 93.0,
+    "lon": 120.764111,
+    "lat": 22.071122,
+    "status": "existing"
+  },
+  {
+    "id": "C0R780",
+    "name": "滿州",
+    "county": "屏東縣",
+    "alt": 72.0,
+    "lon": 120.839892,
+    "lat": 22.024403,
+    "status": "existing"
+  },
+  {
+    "id": "C0R790",
+    "name": "九棚",
+    "county": "屏東縣",
+    "alt": 111.0,
+    "lon": 120.889281,
+    "lat": 22.14195,
+    "status": "existing"
+  },
+  {
+    "id": "C0R800",
+    "name": "丹路",
+    "county": "屏東縣",
+    "alt": 131.0,
+    "lon": 120.750989,
+    "lat": 22.204481,
+    "status": "existing"
+  },
+  {
+    "id": "C0R810",
+    "name": "內獅",
+    "county": "屏東縣",
+    "alt": 25.0,
+    "lon": 120.642986,
+    "lat": 22.305064,
+    "status": "existing"
+  },
+  {
+    "id": "C0R820",
+    "name": "白鷺",
+    "county": "屏東縣",
+    "alt": 588.0,
+    "lon": 120.666219,
+    "lat": 22.454275,
+    "status": "existing"
+  },
+  {
+    "id": "C0R830",
+    "name": "高士",
+    "county": "屏東縣",
+    "alt": 383.0,
+    "lon": 120.836781,
+    "lat": 22.121825,
+    "status": "existing"
+  },
+  {
+    "id": "C0R840",
+    "name": "牡丹池山",
+    "county": "屏東縣",
+    "alt": 536.0,
+    "lon": 120.841225,
+    "lat": 22.168389,
+    "status": "existing"
+  },
+  {
+    "id": "C0R850",
+    "name": "林邊",
+    "county": "屏東縣",
+    "alt": 16.0,
+    "lon": 120.5339,
+    "lat": 22.4634,
+    "status": "existing"
+  },
+  {
+    "id": "C0R860",
+    "name": "鼻頭",
+    "county": "屏東縣",
+    "alt": 31.0,
+    "lon": 120.8979,
+    "lat": 22.1043,
+    "status": "existing"
+  },
+  {
+    "id": "C0R870",
+    "name": "興海",
+    "county": "屏東縣",
+    "alt": 13.0,
+    "lon": 120.8439,
+    "lat": 21.9752,
+    "status": "existing"
+  },
+  {
+    "id": "C0R880",
+    "name": "後壁湖",
+    "county": "屏東縣",
+    "alt": 13.0,
+    "lon": 120.7457,
+    "lat": 21.9457,
+    "status": "existing"
+  },
+  {
+    "id": "C0R890",
+    "name": "山海",
+    "county": "屏東縣",
+    "alt": 33.0,
+    "lon": 120.7091,
+    "lat": 21.9878,
+    "status": "existing"
+  },
+  {
+    "id": "C0R900",
+    "name": "竹坑",
+    "county": "屏東縣",
+    "alt": 30.0,
+    "lon": 120.7022,
+    "lat": 22.1385,
+    "status": "existing"
+  },
+  {
+    "id": "C0R910",
+    "name": "下寮",
+    "county": "屏東縣",
+    "alt": 8.0,
+    "lon": 120.5548,
+    "lat": 22.3929,
+    "status": "existing"
+  },
+  {
+    "id": "C0R920",
+    "name": "塭仔",
+    "county": "屏東縣",
+    "alt": 19.0,
+    "lon": 120.5197,
+    "lat": 22.4169,
+    "status": "existing"
+  },
+  {
+    "id": "C0R930",
+    "name": "萬丹",
+    "county": "屏東縣",
+    "alt": 18.0,
+    "lon": 120.4851,
+    "lat": 22.5885,
+    "status": "existing"
+  },
+  {
+    "id": "C0R940",
+    "name": "加祿堂",
+    "county": "屏東縣",
+    "alt": 24.0,
+    "lon": 120.6217,
+    "lat": 22.3363,
+    "status": "existing"
+  },
+  {
+    "id": "C0R950",
+    "name": "萬隆國小",
+    "county": "屏東縣",
+    "alt": 51.0,
+    "lon": 120.587817,
+    "lat": 22.507667,
+    "status": "existing"
+  },
+  {
+    "id": "C0R960",
+    "name": "內埔",
+    "county": "屏東縣",
+    "alt": 58.0,
+    "lon": 120.570714,
+    "lat": 22.608483,
+    "status": "existing"
+  },
+  {
+    "id": "C0S660",
+    "name": "下馬",
+    "county": "臺東縣",
+    "alt": 794.0,
+    "lon": 121.070312,
+    "lat": 23.150427,
+    "status": "existing"
+  },
+  {
+    "id": "C0S680",
+    "name": "紅葉山",
+    "county": "臺東縣",
+    "alt": 1659.0,
+    "lon": 121.039208,
+    "lat": 22.919814,
+    "status": "revoked"
+  },
+  {
+    "id": "C0S690",
+    "name": "太麻里",
+    "county": "臺東縣",
+    "alt": 522.0,
+    "lon": 120.98533,
+    "lat": 22.60902,
+    "status": "existing"
+  },
+  {
+    "id": "C0S700",
+    "name": "知本",
+    "county": "臺東縣",
+    "alt": 507.0,
+    "lon": 121.005642,
+    "lat": 22.684866,
+    "status": "existing"
+  },
+  {
+    "id": "C0S710",
+    "name": "鹿野",
+    "county": "臺東縣",
+    "alt": 382.0,
+    "lon": 121.122994,
+    "lat": 22.917711,
+    "status": "existing"
+  },
+  {
+    "id": "C0S720",
+    "name": "靜浦",
+    "county": "花蓮縣",
+    "alt": 92.0,
+    "lon": 121.494776,
+    "lat": 23.455139,
+    "status": "revoked"
+  },
+  {
+    "id": "C0S730",
+    "name": "綠島",
+    "county": "臺東縣",
+    "alt": 110.0,
+    "lon": 121.47533,
+    "lat": 22.6672,
+    "status": "existing"
+  },
+  {
+    "id": "C0S740",
+    "name": "池上",
+    "county": "臺東縣",
+    "alt": 289.0,
+    "lon": 121.209469,
+    "lat": 23.119628,
+    "status": "existing"
+  },
+  {
+    "id": "C0S750",
+    "name": "向陽",
+    "county": "臺東縣",
+    "alt": 2280.0,
+    "lon": 120.986133,
+    "lat": 23.248397,
+    "status": "existing"
+  },
+  {
+    "id": "C0S760",
+    "name": "紅石",
+    "county": "臺東縣",
+    "alt": 1621.0,
+    "lon": 121.126219,
+    "lat": 23.069131,
+    "status": "existing"
+  },
+  {
+    "id": "C0S770",
+    "name": "大溪山",
+    "county": "臺東縣",
+    "alt": 375.0,
+    "lon": 120.943325,
+    "lat": 22.478475,
+    "status": "existing"
+  },
+  {
+    "id": "C0S790",
+    "name": "金崙",
+    "county": "臺東縣",
+    "alt": 236.0,
+    "lon": 120.966875,
+    "lat": 22.538122,
+    "status": "existing"
+  },
+  {
+    "id": "C0S810",
+    "name": "東河",
+    "county": "臺東縣",
+    "alt": 65.0,
+    "lon": 121.303986,
+    "lat": 22.972672,
+    "status": "existing"
+  },
+  {
+    "id": "C0S830",
+    "name": "長濱",
+    "county": "臺東縣",
+    "alt": 288.0,
+    "lon": 121.411975,
+    "lat": 23.286817,
+    "status": "existing"
+  },
+  {
+    "id": "C0S840",
+    "name": "南田",
+    "county": "臺東縣",
+    "alt": 22.0,
+    "lon": 120.889208,
+    "lat": 22.279725,
+    "status": "existing"
+  },
+  {
+    "id": "C0S890",
+    "name": "關山",
+    "county": "臺東縣",
+    "alt": 238.0,
+    "lon": 121.175017,
+    "lat": 23.0395,
+    "status": "existing"
+  },
+  {
+    "id": "C0S900",
+    "name": "蘭嶼高中",
+    "county": "臺東縣",
+    "alt": 27.0,
+    "lon": 121.51214,
+    "lat": 22.04909,
+    "status": "existing"
+  },
+  {
+    "id": "C0S910",
+    "name": "蘭嶼燈塔",
+    "county": "臺東縣",
+    "alt": 212.0,
+    "lon": 121.503117,
+    "lat": 22.081197,
+    "status": "existing"
+  },
+  {
+    "id": "C0S920",
+    "name": "金峰嘉蘭",
+    "county": "臺東縣",
+    "alt": 133.0,
+    "lon": 120.960825,
+    "lat": 22.594789,
+    "status": "existing"
+  },
+  {
+    "id": "C0S930",
+    "name": "延平",
+    "county": "臺東縣",
+    "alt": 248.0,
+    "lon": 121.084058,
+    "lat": 22.902581,
+    "status": "existing"
+  },
+  {
+    "id": "C0S940",
+    "name": "石寧山",
+    "county": "臺東縣",
+    "alt": 150.0,
+    "lon": 121.406639,
+    "lat": 23.223772,
+    "status": "existing"
+  },
+  {
+    "id": "C0S950",
+    "name": "七塊厝",
+    "county": "臺東縣",
+    "alt": 415.0,
+    "lon": 121.229922,
+    "lat": 22.954453,
+    "status": "existing"
+  },
+  {
+    "id": "C0S960",
+    "name": "香蘭",
+    "county": "臺東縣",
+    "alt": 32.0,
+    "lon": 120.993375,
+    "lat": 22.587569,
+    "status": "existing"
+  },
+  {
+    "id": "C0S970",
+    "name": "加津林",
+    "county": "臺東縣",
+    "alt": 19.0,
+    "lon": 120.926942,
+    "lat": 22.416211,
+    "status": "existing"
+  },
+  {
+    "id": "C0S980",
+    "name": "勝林山",
+    "county": "臺東縣",
+    "alt": 903.0,
+    "lon": 120.8938,
+    "lat": 22.430439,
+    "status": "existing"
+  },
+  {
+    "id": "C0S990",
+    "name": "山豬窟",
+    "county": "臺東縣",
+    "alt": 409.0,
+    "lon": 120.857372,
+    "lat": 22.318619,
+    "status": "existing"
+  },
+  {
+    "id": "C0SA00",
+    "name": "歷坵",
+    "county": "臺東縣",
+    "alt": 466.0,
+    "lon": 120.89185,
+    "lat": 22.520969,
+    "status": "existing"
+  },
+  {
+    "id": "C0SA10",
+    "name": "檳榔四格山",
+    "county": "臺東縣",
+    "alt": 411.0,
+    "lon": 121.109308,
+    "lat": 22.810031,
+    "status": "existing"
+  },
+  {
+    "id": "C0SA20",
+    "name": "金崙山",
+    "county": "臺東縣",
+    "alt": 857.0,
+    "lon": 120.959667,
+    "lat": 22.567419,
+    "status": "existing"
+  },
+  {
+    "id": "C0SA30",
+    "name": "都歷",
+    "county": "臺東縣",
+    "alt": 93.0,
+    "lon": 121.323642,
+    "lat": 23.020333,
+    "status": "existing"
+  },
+  {
+    "id": "C0SA40",
+    "name": "瑞和",
+    "county": "臺東縣",
+    "alt": 200.0,
+    "lon": 121.156697,
+    "lat": 22.974361,
+    "status": "existing"
+  },
+  {
+    "id": "C0SA60",
+    "name": "知本（水試所）",
+    "county": "臺東縣",
+    "alt": 11.0,
+    "lon": 121.082761,
+    "lat": 22.702394,
+    "status": "existing"
+  },
+  {
+    "id": "C0SA80",
+    "name": "土坂",
+    "county": "臺東縣",
+    "alt": 136.0,
+    "lon": 120.887572,
+    "lat": 22.453108,
+    "status": "existing"
+  },
+  {
+    "id": "C0SA90",
+    "name": "達仁林場",
+    "county": "臺東縣",
+    "alt": 497.0,
+    "lon": 120.823972,
+    "lat": 22.264347,
+    "status": "existing"
+  },
+  {
+    "id": "C0SB10",
+    "name": "美和",
+    "county": "臺東縣",
+    "alt": 28.0,
+    "lon": 121.060236,
+    "lat": 22.682078,
+    "status": "existing"
+  },
+  {
+    "id": "C0SB20",
+    "name": "富岡",
+    "county": "臺東縣",
+    "alt": 29.0,
+    "lon": 121.192669,
+    "lat": 22.792467,
+    "status": "existing"
+  },
+  {
+    "id": "C0SB30",
+    "name": "新蘭",
+    "county": "臺東縣",
+    "alt": 60.0,
+    "lon": 121.223228,
+    "lat": 22.869214,
+    "status": "existing"
+  },
+  {
+    "id": "C0SB40",
+    "name": "興隆",
+    "county": "臺東縣",
+    "alt": 65.0,
+    "lon": 121.257469,
+    "lat": 22.913661,
+    "status": "existing"
+  },
+  {
+    "id": "C0SB50",
+    "name": "叭嗡嗡",
+    "county": "臺東縣",
+    "alt": 7.0,
+    "lon": 121.343223,
+    "lat": 23.047062,
+    "status": "existing"
+  },
+  {
+    "id": "C0SB60",
+    "name": "白守蓮",
+    "county": "臺東縣",
+    "alt": 20.0,
+    "lon": 121.401914,
+    "lat": 23.126769,
+    "status": "existing"
+  },
+  {
+    "id": "C0SB70",
+    "name": "小港漁港",
+    "county": "臺東縣",
+    "alt": 28.0,
+    "lon": 121.400431,
+    "lat": 23.158558,
+    "status": "existing"
+  },
+  {
+    "id": "C0SB80",
+    "name": "長濱漁港",
+    "county": "臺東縣",
+    "alt": 53.0,
+    "lon": 121.459994,
+    "lat": 23.313644,
+    "status": "existing"
+  },
+  {
+    "id": "C0SD20",
+    "name": "富山",
+    "county": "臺東縣",
+    "alt": 21.0,
+    "lon": 121.190825,
+    "lat": 22.822383,
+    "status": "existing"
+  },
+  {
+    "id": "C0SD30",
+    "name": "東清國小",
+    "county": "臺東縣",
+    "alt": 18.0,
+    "lon": 121.564922,
+    "lat": 22.057128,
+    "status": "existing"
+  },
+  {
+    "id": "C0SD40",
+    "name": "牛頭山",
+    "county": "臺東縣",
+    "alt": 76.0,
+    "lon": 121.506944,
+    "lat": 22.676661,
+    "status": "existing"
+  },
+  {
+    "id": "C0T790",
+    "name": "大禹嶺",
+    "county": "花蓮縣",
+    "alt": 2830.0,
+    "lon": 121.316086,
+    "lat": 24.186117,
+    "status": "existing"
+  },
+  {
+    "id": "C0T820",
+    "name": "天祥",
+    "county": "花蓮縣",
+    "alt": 550.0,
+    "lon": 121.495639,
+    "lat": 24.179597,
+    "status": "existing"
+  },
+  {
+    "id": "C0T840",
+    "name": "新城",
+    "county": "花蓮縣",
+    "alt": 32.0,
+    "lon": 121.605638,
+    "lat": 23.998752,
+    "status": "revoked"
+  },
+  {
+    "id": "C0T841",
+    "name": "新城",
+    "county": "花蓮縣",
+    "alt": 23.0,
+    "lon": 121.609461,
+    "lat": 24.037928,
+    "status": "revoked"
+  },
+  {
+    "id": "C0T870",
+    "name": "鯉魚潭",
+    "county": "花蓮縣",
+    "alt": 135.0,
+    "lon": 121.508944,
+    "lat": 23.935639,
+    "status": "existing"
+  },
+  {
+    "id": "C0T900",
+    "name": "西林",
+    "county": "花蓮縣",
+    "alt": 160.0,
+    "lon": 121.441458,
+    "lat": 23.8119,
+    "status": "existing"
+  },
+  {
+    "id": "C0T960",
+    "name": "光復",
+    "county": "花蓮縣",
+    "alt": 120.0,
+    "lon": 121.424964,
+    "lat": 23.660694,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9A0",
+    "name": "月眉山",
+    "county": "花蓮縣",
+    "alt": 498.0,
+    "lon": 121.539828,
+    "lat": 23.809928,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9B0",
+    "name": "水源",
+    "county": "花蓮縣",
+    "alt": 558.0,
+    "lon": 121.537169,
+    "lat": 23.991861,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9C0",
+    "name": "富世",
+    "county": "花蓮縣",
+    "alt": 109.0,
+    "lon": 121.629633,
+    "lat": 24.148153,
+    "status": "revoked"
+  },
+  {
+    "id": "C0T9D0",
+    "name": "和中",
+    "county": "花蓮縣",
+    "alt": 8.0,
+    "lon": 121.74103,
+    "lat": 24.26676,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9E0",
+    "name": "大坑",
+    "county": "花蓮縣",
+    "alt": 415.0,
+    "lon": 121.581981,
+    "lat": 23.880628,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9F0",
+    "name": "水璉",
+    "county": "花蓮縣",
+    "alt": 251.0,
+    "lon": 121.542514,
+    "lat": 23.797131,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9G0",
+    "name": "鳳林山",
+    "county": "花蓮縣",
+    "alt": 605.0,
+    "lon": 121.420131,
+    "lat": 23.735269,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9H0",
+    "name": "加路蘭山",
+    "county": "花蓮縣",
+    "alt": 725.0,
+    "lon": 121.5274,
+    "lat": 23.682947,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9I0",
+    "name": "豐濱",
+    "county": "花蓮縣",
+    "alt": 152.0,
+    "lon": 121.514806,
+    "lat": 23.583897,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9M0",
+    "name": "靜浦",
+    "county": "花蓮縣",
+    "alt": 92.0,
+    "lon": 121.495028,
+    "lat": 23.455167,
+    "status": "existing"
+  },
+  {
+    "id": "C0T9N0",
+    "name": "富里",
+    "county": "花蓮縣",
+    "alt": 261.0,
+    "lon": 121.249378,
+    "lat": 23.171639,
+    "status": "existing"
+  },
+  {
+    "id": "C0TA10",
+    "name": "花蓮漁港",
+    "county": "花蓮縣",
+    "alt": 17.0,
+    "lon": 121.638331,
+    "lat": 23.995322,
+    "status": "existing"
+  },
+  {
+    "id": "C0TA20",
+    "name": "加灣",
+    "county": "花蓮縣",
+    "alt": 45.0,
+    "lon": 121.608944,
+    "lat": 24.082025,
+    "status": "existing"
+  },
+  {
+    "id": "C0TA30",
+    "name": "鹽寮",
+    "county": "花蓮縣",
+    "alt": 11.0,
+    "lon": 121.592664,
+    "lat": 23.845606,
+    "status": "existing"
+  },
+  {
+    "id": "C0TA40",
+    "name": "秀林",
+    "county": "花蓮縣",
+    "alt": 930.0,
+    "lon": 121.731144,
+    "lat": 24.302864,
+    "status": "existing"
+  },
+  {
+    "id": "C0TA50",
+    "name": "和仁",
+    "county": "花蓮縣",
+    "alt": 3.0,
+    "lon": 121.712472,
+    "lat": 24.241394,
+    "status": "existing"
+  },
+  {
+    "id": "C0TA80",
+    "name": "立霧山",
+    "county": "花蓮縣",
+    "alt": 1108.0,
+    "lon": 121.641899,
+    "lat": 24.183258,
+    "status": "existing"
+  },
+  {
+    "id": "C0TB40",
+    "name": "崇德",
+    "county": "花蓮縣",
+    "alt": 8.0,
+    "lon": 121.657414,
+    "lat": 24.166144,
+    "status": "existing"
+  },
+  {
+    "id": "C0U520",
+    "name": "雙連埤",
+    "county": "宜蘭縣",
+    "alt": 517.0,
+    "lon": 121.641303,
+    "lat": 24.753033,
+    "status": "existing"
+  },
+  {
+    "id": "C0U600",
+    "name": "礁溪",
+    "county": "宜蘭縣",
+    "alt": 10.0,
+    "lon": 121.765608,
+    "lat": 24.817539,
+    "status": "existing"
+  },
+  {
+    "id": "C0U620",
+    "name": "壯圍",
+    "county": "宜蘭縣",
+    "alt": 17.0,
+    "lon": 121.78965,
+    "lat": 24.743703,
+    "status": "revoked"
+  },
+  {
+    "id": "C0U640",
+    "name": "羅東",
+    "county": "宜蘭縣",
+    "alt": 24.0,
+    "lon": 121.747817,
+    "lat": 24.683783,
+    "status": "revoked"
+  },
+  {
+    "id": "C0U650",
+    "name": "玉蘭",
+    "county": "宜蘭縣",
+    "alt": 442.0,
+    "lon": 121.587061,
+    "lat": 24.675286,
+    "status": "existing"
+  },
+  {
+    "id": "C0U680",
+    "name": "冬山",
+    "county": "宜蘭縣",
+    "alt": 22.0,
+    "lon": 121.793544,
+    "lat": 24.632419,
+    "status": "revoked"
+  },
+  {
+    "id": "C0U710",
+    "name": "太平山",
+    "county": "宜蘭縣",
+    "alt": 1942.0,
+    "lon": 121.525656,
+    "lat": 24.505486,
+    "status": "existing"
+  },
+  {
+    "id": "C0U720",
+    "name": "南山",
+    "county": "宜蘭縣",
+    "alt": 1260.0,
+    "lon": 121.38167,
+    "lat": 24.43742,
+    "status": "existing"
+  },
+  {
+    "id": "C0U730",
+    "name": "思源",
+    "county": "宜蘭縣",
+    "alt": 1984.0,
+    "lon": 121.356664,
+    "lat": 24.397208,
+    "status": "revoked"
+  },
+  {
+    "id": "C0U750",
+    "name": "龜山島",
+    "county": "宜蘭縣",
+    "alt": 398.0,
+    "lon": 121.953133,
+    "lat": 24.841667,
+    "status": "existing"
+  },
+  {
+    "id": "C0U760",
+    "name": "東澳",
+    "county": "宜蘭縣",
+    "alt": 22.0,
+    "lon": 121.83318,
+    "lat": 24.52196,
+    "status": "existing"
+  },
+  {
+    "id": "C0U770",
+    "name": "南澳",
+    "county": "宜蘭縣",
+    "alt": 5.0,
+    "lon": 121.81022,
+    "lat": 24.44935,
+    "status": "existing"
+  },
+  {
+    "id": "C0U780",
+    "name": "五結",
+    "county": "宜蘭縣",
+    "alt": 15.0,
+    "lon": 121.79794,
+    "lat": 24.68637,
+    "status": "existing"
+  },
+  {
+    "id": "C0U860",
+    "name": "頭城",
+    "county": "宜蘭縣",
+    "alt": 5.0,
+    "lon": 121.8308,
+    "lat": 24.85323,
+    "status": "existing"
+  },
+  {
+    "id": "C0U870",
+    "name": "大礁溪",
+    "county": "宜蘭縣",
+    "alt": 474.0,
+    "lon": 121.675047,
+    "lat": 24.791042,
+    "status": "existing"
+  },
+  {
+    "id": "C0U880",
+    "name": "北關",
+    "county": "宜蘭縣",
+    "alt": 2.0,
+    "lon": 121.8734,
+    "lat": 24.9072,
+    "status": "existing"
+  },
+  {
+    "id": "C0U890",
+    "name": "三星",
+    "county": "宜蘭縣",
+    "alt": 116.0,
+    "lon": 121.65302,
+    "lat": 24.66812,
+    "status": "existing"
+  },
+  {
+    "id": "C0U900",
+    "name": "內城",
+    "county": "宜蘭縣",
+    "alt": 63.0,
+    "lon": 121.68766,
+    "lat": 24.71813,
+    "status": "existing"
+  },
+  {
+    "id": "C0U910",
+    "name": "冬山",
+    "county": "宜蘭縣",
+    "alt": 17.0,
+    "lon": 121.7937,
+    "lat": 24.63373,
+    "status": "existing"
+  },
+  {
+    "id": "C0U940",
+    "name": "羅東",
+    "county": "宜蘭縣",
+    "alt": 25.0,
+    "lon": 121.74934,
+    "lat": 24.68184,
+    "status": "existing"
+  },
+  {
+    "id": "C0U950",
+    "name": "鶯子嶺",
+    "county": "宜蘭縣",
+    "alt": 1012.0,
+    "lon": 121.79244,
+    "lat": 24.89754,
+    "status": "existing"
+  },
+  {
+    "id": "C0U960",
+    "name": "翠峰湖",
+    "county": "宜蘭縣",
+    "alt": 1885.0,
+    "lon": 121.608044,
+    "lat": 24.510856,
+    "status": "existing"
+  },
+  {
+    "id": "C0U970",
+    "name": "大福",
+    "county": "宜蘭縣",
+    "alt": 7.0,
+    "lon": 121.81389,
+    "lat": 24.80064,
+    "status": "existing"
+  },
+  {
+    "id": "C0U980",
+    "name": "坪林石牌",
+    "county": "宜蘭縣",
+    "alt": 573.0,
+    "lon": 121.77396,
+    "lat": 24.86478,
+    "status": "existing"
+  },
+  {
+    "id": "C0U990",
+    "name": "員山",
+    "county": "宜蘭縣",
+    "alt": 31.0,
+    "lon": 121.72247,
+    "lat": 24.74435,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA00",
+    "name": "土場",
+    "county": "宜蘭縣",
+    "alt": 392.0,
+    "lon": 121.495333,
+    "lat": 24.576533,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA10",
+    "name": "鴛鴦湖",
+    "county": "宜蘭縣",
+    "alt": 1711.0,
+    "lon": 121.412228,
+    "lat": 24.590269,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA20",
+    "name": "多加屯",
+    "county": "宜蘭縣",
+    "alt": 2619.0,
+    "lon": 121.373189,
+    "lat": 24.368614,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA30",
+    "name": "白嶺",
+    "county": "宜蘭縣",
+    "alt": 1397.0,
+    "lon": 121.519031,
+    "lat": 24.527819,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA40",
+    "name": "西德山",
+    "county": "宜蘭縣",
+    "alt": 1121.0,
+    "lon": 121.752608,
+    "lat": 24.560647,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA50",
+    "name": "西帽山",
+    "county": "宜蘭縣",
+    "alt": 808.0,
+    "lon": 121.802628,
+    "lat": 24.555361,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA60",
+    "name": "樟樹山",
+    "county": "宜蘭縣",
+    "alt": 566.0,
+    "lon": 121.78325,
+    "lat": 24.41393,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA70",
+    "name": "桃源谷",
+    "county": "宜蘭縣",
+    "alt": 547.0,
+    "lon": 121.888875,
+    "lat": 24.962606,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA80",
+    "name": "大溪漁港",
+    "county": "宜蘭縣",
+    "alt": 10.0,
+    "lon": 121.902955,
+    "lat": 24.941801,
+    "status": "existing"
+  },
+  {
+    "id": "C0UA90",
+    "name": "石城",
+    "county": "宜蘭縣",
+    "alt": 5.0,
+    "lon": 121.951214,
+    "lat": 24.980444,
+    "status": "existing"
+  },
+  {
+    "id": "C0UB00",
+    "name": "淡江大學蘭陽校園",
+    "county": "宜蘭縣",
+    "alt": 379.0,
+    "lon": 121.730383,
+    "lat": 24.823239,
+    "status": "existing"
+  },
+  {
+    "id": "C0UB10",
+    "name": "蘇澳",
+    "county": "宜蘭縣",
+    "alt": 28.0,
+    "lon": 121.8571,
+    "lat": 24.5969,
+    "status": "existing"
+  },
+  {
+    "id": "C0UB20",
+    "name": "壯圍",
+    "county": "宜蘭縣",
+    "alt": 30.0,
+    "lon": 121.8163,
+    "lat": 24.7359,
+    "status": "existing"
+  },
+  {
+    "id": "C0UB60",
+    "name": "明池",
+    "county": "宜蘭縣",
+    "alt": 1163.0,
+    "lon": 121.475277,
+    "lat": 24.650688,
+    "status": "existing"
+  },
+  {
+    "id": "C0UB70",
+    "name": "太平山中間站",
+    "county": "宜蘭縣",
+    "alt": 890.0,
+    "lon": 121.513453,
+    "lat": 24.542003,
+    "status": "existing"
+  },
+  {
+    "id": "C0UB80",
+    "name": "翠峰林道6K",
+    "county": "宜蘭縣",
+    "alt": 1981.0,
+    "lon": 121.568625,
+    "lat": 24.49773,
+    "status": "existing"
+  },
+  {
+    "id": "C0UB90",
+    "name": "太平山莊",
+    "county": "宜蘭縣",
+    "alt": 1925.0,
+    "lon": 121.536209,
+    "lat": 24.494171,
+    "status": "existing"
+  },
+  {
+    "id": "C0V150",
+    "name": "表湖",
+    "county": "高雄市",
+    "alt": 1163.0,
+    "lon": 120.664664,
+    "lat": 23.26021,
+    "status": "revoked"
+  },
+  {
+    "id": "C0V210",
+    "name": "復興",
+    "county": "高雄市",
+    "alt": 734.0,
+    "lon": 120.806089,
+    "lat": 23.222403,
+    "status": "existing"
+  },
+  {
+    "id": "C0V250",
+    "name": "甲仙",
+    "county": "高雄市",
+    "alt": 298.0,
+    "lon": 120.591758,
+    "lat": 23.080106,
+    "status": "revoked"
+  },
+  {
+    "id": "C0V260",
+    "name": "月眉",
+    "county": "高雄市",
+    "alt": 126.0,
+    "lon": 120.539853,
+    "lat": 22.971003,
+    "status": "revoked"
+  },
+  {
+    "id": "C0V310",
+    "name": "美濃",
+    "county": "高雄市",
+    "alt": 46.0,
+    "lon": 120.519153,
+    "lat": 22.898742,
+    "status": "revoked"
+  },
+  {
+    "id": "C0V350",
+    "name": "溪埔",
+    "county": "高雄市",
+    "alt": 36.0,
+    "lon": 120.446797,
+    "lat": 22.738578,
+    "status": "existing"
+  },
+  {
+    "id": "C0V360",
+    "name": "內門",
+    "county": "高雄市",
+    "alt": 94.0,
+    "lon": 120.466769,
+    "lat": 22.975481,
+    "status": "existing"
+  },
+  {
+    "id": "C0V370",
+    "name": "古亭坑",
+    "county": "高雄市",
+    "alt": 74.0,
+    "lon": 120.401947,
+    "lat": 22.893178,
+    "status": "existing"
+  },
+  {
+    "id": "C0V400",
+    "name": "阿公店",
+    "county": "高雄市",
+    "alt": 56.0,
+    "lon": 120.355528,
+    "lat": 22.804194,
+    "status": "existing"
+  },
+  {
+    "id": "C0V430",
+    "name": "左營",
+    "county": "高雄市",
+    "alt": 26.0,
+    "lon": 120.293739,
+    "lat": 22.677914,
+    "status": "revoked"
+  },
+  {
+    "id": "C0V440",
+    "name": "鳳山",
+    "county": "高雄市",
+    "alt": 27.0,
+    "lon": 120.356122,
+    "lat": 22.646653,
+    "status": "existing"
+  },
+  {
+    "id": "C0V450",
+    "name": "鳳森",
+    "county": "高雄市",
+    "alt": 51.0,
+    "lon": 120.392592,
+    "lat": 22.545064,
+    "status": "existing"
+  },
+  {
+    "id": "C0V490",
+    "name": "新興",
+    "county": "高雄市",
+    "alt": 20.0,
+    "lon": 120.298803,
+    "lat": 22.627422,
+    "status": "existing"
+  },
+  {
+    "id": "C0V500",
+    "name": "旗津",
+    "county": "高雄市",
+    "alt": 6.0,
+    "lon": 120.285944,
+    "lat": 22.5886,
+    "status": "revoked"
+  },
+  {
+    "id": "C0V530",
+    "name": "阿蓮",
+    "county": "高雄市",
+    "alt": 34.0,
+    "lon": 120.327508,
+    "lat": 22.883208,
+    "status": "existing"
+  },
+  {
+    "id": "C0V610",
+    "name": "梓官",
+    "county": "高雄市",
+    "alt": 22.0,
+    "lon": 120.267211,
+    "lat": 22.760558,
+    "status": "existing"
+  },
+  {
+    "id": "C0V620",
+    "name": "永安",
+    "county": "高雄市",
+    "alt": 18.0,
+    "lon": 120.236856,
+    "lat": 22.82315,
+    "status": "existing"
+  },
+  {
+    "id": "C0V630",
+    "name": "茄萣",
+    "county": "高雄市",
+    "alt": 19.0,
+    "lon": 120.182608,
+    "lat": 22.906642,
+    "status": "existing"
+  },
+  {
+    "id": "C0V640",
+    "name": "湖內",
+    "county": "高雄市",
+    "alt": 35.0,
+    "lon": 120.2445,
+    "lat": 22.887139,
+    "status": "existing"
+  },
+  {
+    "id": "C0V650",
+    "name": "彌陀",
+    "county": "高雄市",
+    "alt": 28.0,
+    "lon": 120.246361,
+    "lat": 22.783806,
+    "status": "existing"
+  },
+  {
+    "id": "C0V660",
+    "name": "岡山",
+    "county": "高雄市",
+    "alt": 25.0,
+    "lon": 120.294958,
+    "lat": 22.797078,
+    "status": "existing"
+  },
+  {
+    "id": "C0V670",
+    "name": "楠梓",
+    "county": "高雄市",
+    "alt": 20.0,
+    "lon": 120.286,
+    "lat": 22.71975,
+    "status": "revoked"
+  },
+  {
+    "id": "C0V680",
+    "name": "仁武",
+    "county": "高雄市",
+    "alt": 40.0,
+    "lon": 120.347722,
+    "lat": 22.701083,
+    "status": "existing"
+  },
+  {
+    "id": "C0V690",
+    "name": "鼓山",
+    "county": "高雄市",
+    "alt": 30.0,
+    "lon": 120.275575,
+    "lat": 22.623325,
+    "status": "existing"
+  },
+  {
+    "id": "C0V700",
+    "name": "三民",
+    "county": "高雄市",
+    "alt": 24.0,
+    "lon": 120.311233,
+    "lat": 22.645017,
+    "status": "existing"
+  },
+  {
+    "id": "C0V710",
+    "name": "苓雅",
+    "county": "高雄市",
+    "alt": 34.0,
+    "lon": 120.330669,
+    "lat": 22.622742,
+    "status": "existing"
+  },
+  {
+    "id": "C0V720",
+    "name": "林園",
+    "county": "高雄市",
+    "alt": 15.0,
+    "lon": 120.394511,
+    "lat": 22.507747,
+    "status": "existing"
+  },
+  {
+    "id": "C0V730",
+    "name": "大寮",
+    "county": "高雄市",
+    "alt": 33.0,
+    "lon": 120.395717,
+    "lat": 22.605614,
+    "status": "existing"
+  },
+  {
+    "id": "C0V740",
+    "name": "旗山",
+    "county": "高雄市",
+    "alt": 60.0,
+    "lon": 120.483597,
+    "lat": 22.888614,
+    "status": "existing"
+  },
+  {
+    "id": "C0V750",
+    "name": "路竹",
+    "county": "高雄市",
+    "alt": 50.0,
+    "lon": 120.259439,
+    "lat": 22.854997,
+    "status": "existing"
+  },
+  {
+    "id": "C0V760",
+    "name": "橋頭",
+    "county": "高雄市",
+    "alt": 30.0,
+    "lon": 120.30575,
+    "lat": 22.757806,
+    "status": "existing"
+  },
+  {
+    "id": "C0V770",
+    "name": "大社",
+    "county": "高雄市",
+    "alt": 26.0,
+    "lon": 120.346639,
+    "lat": 22.730306,
+    "status": "existing"
+  },
+  {
+    "id": "C0V790",
+    "name": "萬山",
+    "county": "高雄市",
+    "alt": 410.0,
+    "lon": 120.688056,
+    "lat": 22.905944,
+    "status": "existing"
+  },
+  {
+    "id": "C0V800",
+    "name": "六龜",
+    "county": "高雄市",
+    "alt": 256.0,
+    "lon": 120.633583,
+    "lat": 22.997889,
+    "status": "existing"
+  },
+  {
+    "id": "C0V810",
+    "name": "左營",
+    "county": "高雄市",
+    "alt": 32.0,
+    "lon": 120.28491,
+    "lat": 22.67491,
+    "status": "existing"
+  },
+  {
+    "id": "C0V820",
+    "name": "小林",
+    "county": "高雄市",
+    "alt": 441.0,
+    "lon": 120.63325,
+    "lat": 23.148408,
+    "status": "existing"
+  },
+  {
+    "id": "C0V840",
+    "name": "鳳鼻頭",
+    "county": "高雄市",
+    "alt": 35.0,
+    "lon": 120.3591,
+    "lat": 22.5083,
+    "status": "existing"
+  },
+  {
+    "id": "C0V850",
+    "name": "蚵仔寮",
+    "county": "高雄市",
+    "alt": 22.0,
+    "lon": 120.2527,
+    "lat": 22.7256,
+    "status": "existing"
+  },
+  {
+    "id": "C0V860",
+    "name": "南寮",
+    "county": "高雄市",
+    "alt": 10.0,
+    "lon": 120.2339,
+    "lat": 22.7616,
+    "status": "existing"
+  },
+  {
+    "id": "C0V870",
+    "name": "文安",
+    "county": "高雄市",
+    "alt": 23.0,
+    "lon": 120.2164,
+    "lat": 22.8025,
+    "status": "existing"
+  },
+  {
+    "id": "C0V880",
+    "name": "興達",
+    "county": "高雄市",
+    "alt": 19.0,
+    "lon": 120.2127,
+    "lat": 22.8778,
+    "status": "existing"
+  },
+  {
+    "id": "C0V890",
+    "name": "前鎮",
+    "county": "高雄市",
+    "alt": 25.0,
+    "lon": 120.3117,
+    "lat": 22.5718,
+    "status": "existing"
+  },
+  {
+    "id": "C0V900",
+    "name": "汕尾",
+    "county": "高雄市",
+    "alt": 6.0,
+    "lon": 120.4151,
+    "lat": 22.4782,
+    "status": "existing"
+  },
+  {
+    "id": "C0V910",
+    "name": "大樹",
+    "county": "高雄市",
+    "alt": 50.0,
+    "lon": 120.432803,
+    "lat": 22.684645,
+    "status": "existing"
+  },
+  {
+    "id": "C0W110",
+    "name": "東莒",
+    "county": "連江縣",
+    "alt": 16.0,
+    "lon": 119.98069,
+    "lat": 25.9652,
+    "status": "existing"
+  },
+  {
+    "id": "C0W120",
+    "name": "西嶼",
+    "county": "澎湖縣",
+    "alt": 58.0,
+    "lon": 119.468436,
+    "lat": 23.5626,
+    "status": "existing"
+  },
+  {
+    "id": "C0W130",
+    "name": "花嶼",
+    "county": "澎湖縣",
+    "alt": 18.0,
+    "lon": 119.32276,
+    "lat": 23.40007,
+    "status": "existing"
+  },
+  {
+    "id": "C0W140",
+    "name": "金沙",
+    "county": "金門縣",
+    "alt": 21.0,
+    "lon": 118.408778,
+    "lat": 24.488292,
+    "status": "existing"
+  },
+  {
+    "id": "C0W150",
+    "name": "金寧",
+    "county": "金門縣",
+    "alt": 42.0,
+    "lon": 118.328989,
+    "lat": 24.457703,
+    "status": "existing"
+  },
+  {
+    "id": "C0W160",
+    "name": "烏坵",
+    "county": "金門縣",
+    "alt": 49.0,
+    "lon": 119.44956,
+    "lat": 24.9944,
+    "status": "existing"
+  },
+  {
+    "id": "C0W170",
+    "name": "東引",
+    "county": "連江縣",
+    "alt": 42.0,
+    "lon": 120.483631,
+    "lat": 26.358836,
+    "status": "revoked"
+  },
+  {
+    "id": "C0W180",
+    "name": "七美",
+    "county": "澎湖縣",
+    "alt": 29.0,
+    "lon": 119.444892,
+    "lat": 23.219333,
+    "status": "existing"
+  },
+  {
+    "id": "C0W190",
+    "name": "望安",
+    "county": "澎湖縣",
+    "alt": 52.0,
+    "lon": 119.494075,
+    "lat": 23.380564,
+    "status": "existing"
+  },
+  {
+    "id": "C0W200",
+    "name": "湖西",
+    "county": "澎湖縣",
+    "alt": 18.0,
+    "lon": 119.67275,
+    "lat": 23.596314,
+    "status": "existing"
+  },
+  {
+    "id": "C0W220",
+    "name": "北竿",
+    "county": "連江縣",
+    "alt": 40.0,
+    "lon": 119.974881,
+    "lat": 26.220358,
+    "status": "existing"
+  },
+  {
+    "id": "C0W240",
+    "name": "九宮",
+    "county": "金門縣",
+    "alt": 52.0,
+    "lon": 118.240186,
+    "lat": 24.423753,
+    "status": "existing"
+  },
+  {
+    "id": "C0X020",
+    "name": "關子嶺",
+    "county": "臺南市",
+    "alt": 403.0,
+    "lon": 120.511558,
+    "lat": 23.327006,
+    "status": "revoked"
+  },
+  {
+    "id": "C0X050",
+    "name": "東河",
+    "county": "臺南市",
+    "alt": 25.0,
+    "lon": 120.385608,
+    "lat": 23.296598,
+    "status": "existing"
+  },
+  {
+    "id": "C0X060",
+    "name": "下營",
+    "county": "臺南市",
+    "alt": 19.0,
+    "lon": 120.256261,
+    "lat": 23.22695,
+    "status": "revoked"
+  },
+  {
+    "id": "C0X080",
+    "name": "佳里",
+    "county": "臺南市",
+    "alt": 2.0,
+    "lon": 120.145086,
+    "lat": 23.173039,
+    "status": "existing"
+  },
+  {
+    "id": "C0X100",
+    "name": "臺南市北區",
+    "county": "臺南市",
+    "alt": 10.0,
+    "lon": 120.194228,
+    "lat": 23.010394,
+    "status": "existing"
+  },
+  {
+    "id": "C0X110",
+    "name": "臺南市南區",
+    "county": "臺南市",
+    "alt": 20.0,
+    "lon": 120.188378,
+    "lat": 22.961189,
+    "status": "existing"
+  },
+  {
+    "id": "C0X120",
+    "name": "麻豆",
+    "county": "臺南市",
+    "alt": 28.0,
+    "lon": 120.248611,
+    "lat": 23.183289,
+    "status": "existing"
+  },
+  {
+    "id": "C0X130",
+    "name": "官田",
+    "county": "臺南市",
+    "alt": 27.0,
+    "lon": 120.315422,
+    "lat": 23.193217,
+    "status": "existing"
+  },
+  {
+    "id": "C0X140",
+    "name": "西港",
+    "county": "臺南市",
+    "alt": 17.0,
+    "lon": 120.203108,
+    "lat": 23.125608,
+    "status": "existing"
+  },
+  {
+    "id": "C0X150",
+    "name": "安定",
+    "county": "臺南市",
+    "alt": 18.0,
+    "lon": 120.227839,
+    "lat": 23.102614,
+    "status": "existing"
+  },
+  {
+    "id": "C0X160",
+    "name": "仁德",
+    "county": "臺南市",
+    "alt": 26.0,
+    "lon": 120.257689,
+    "lat": 22.968258,
+    "status": "existing"
+  },
+  {
+    "id": "C0X170",
+    "name": "關廟",
+    "county": "臺南市",
+    "alt": 50.0,
+    "lon": 120.327797,
+    "lat": 22.963017,
+    "status": "existing"
+  },
+  {
+    "id": "C0X180",
+    "name": "山上",
+    "county": "臺南市",
+    "alt": 62.0,
+    "lon": 120.363253,
+    "lat": 23.0757,
+    "status": "existing"
+  },
+  {
+    "id": "C0X190",
+    "name": "安平",
+    "county": "臺南市",
+    "alt": 10.0,
+    "lon": 120.152181,
+    "lat": 22.993161,
+    "status": "existing"
+  },
+  {
+    "id": "C0X200",
+    "name": "左鎮",
+    "county": "臺南市",
+    "alt": 61.0,
+    "lon": 120.408522,
+    "lat": 23.056758,
+    "status": "existing"
+  },
+  {
+    "id": "C0X210",
+    "name": "白河",
+    "county": "臺南市",
+    "alt": 38.0,
+    "lon": 120.414427,
+    "lat": 23.347466,
+    "status": "existing"
+  },
+  {
+    "id": "C0X220",
+    "name": "學甲",
+    "county": "臺南市",
+    "alt": 26.0,
+    "lon": 120.182187,
+    "lat": 23.230367,
+    "status": "existing"
+  },
+  {
+    "id": "C0X230",
+    "name": "鹽水",
+    "county": "臺南市",
+    "alt": 29.0,
+    "lon": 120.247641,
+    "lat": 23.272621,
+    "status": "existing"
+  },
+  {
+    "id": "C0X240",
+    "name": "關子嶺",
+    "county": "臺南市",
+    "alt": 394.0,
+    "lon": 120.508025,
+    "lat": 23.331169,
+    "status": "existing"
+  },
+  {
+    "id": "C0X250",
+    "name": "新營",
+    "county": "臺南市",
+    "alt": 33.0,
+    "lon": 120.316681,
+    "lat": 23.310689,
+    "status": "existing"
+  },
+  {
+    "id": "C0X260",
+    "name": "後壁",
+    "county": "臺南市",
+    "alt": 39.0,
+    "lon": 120.362326,
+    "lat": 23.366358,
+    "status": "existing"
+  },
+  {
+    "id": "C0X270",
+    "name": "柳營",
+    "county": "臺南市",
+    "alt": 33.0,
+    "lon": 120.373569,
+    "lat": 23.257237,
+    "status": "revoked"
+  },
+  {
+    "id": "C0X280",
+    "name": "將軍",
+    "county": "臺南市",
+    "alt": 22.0,
+    "lon": 120.13577,
+    "lat": 23.214999,
+    "status": "existing"
+  },
+  {
+    "id": "C0X290",
+    "name": "北門",
+    "county": "臺南市",
+    "alt": 10.0,
+    "lon": 120.125481,
+    "lat": 23.267772,
+    "status": "existing"
+  },
+  {
+    "id": "C0X300",
+    "name": "鹿寮",
+    "county": "臺南市",
+    "alt": 70.0,
+    "lon": 120.477331,
+    "lat": 23.386047,
+    "status": "existing"
+  },
+  {
+    "id": "C0X310",
+    "name": "七股",
+    "county": "臺南市",
+    "alt": 9.0,
+    "lon": 120.086253,
+    "lat": 23.147289,
+    "status": "revoked"
+  },
+  {
+    "id": "C0X320",
+    "name": "柳營",
+    "county": "臺南市",
+    "alt": 30.0,
+    "lon": 120.375253,
+    "lat": 23.253328,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z020",
+    "name": "明里",
+    "county": "花蓮縣",
+    "alt": 211.0,
+    "lon": 121.262342,
+    "lat": 23.208717,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z050",
+    "name": "佳心",
+    "county": "花蓮縣",
+    "alt": 824.0,
+    "lon": 121.21316,
+    "lat": 23.34567,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z060",
+    "name": "玉里",
+    "county": "花蓮縣",
+    "alt": 130.0,
+    "lon": 121.317822,
+    "lat": 23.344598,
+    "status": "revoked"
+  },
+  {
+    "id": "C0Z061",
+    "name": "玉里",
+    "county": "花蓮縣",
+    "alt": 174.0,
+    "lon": 121.339656,
+    "lat": 23.3215,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z070",
+    "name": "舞鶴",
+    "county": "花蓮縣",
+    "alt": 247.0,
+    "lon": 121.37407,
+    "lat": 23.46811,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z080",
+    "name": "富源",
+    "county": "花蓮縣",
+    "alt": 298.0,
+    "lon": 121.378225,
+    "lat": 23.587642,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z100",
+    "name": "東華",
+    "county": "花蓮縣",
+    "alt": 36.0,
+    "lon": 121.549833,
+    "lat": 23.89525,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z150",
+    "name": "吉安光華",
+    "county": "花蓮縣",
+    "alt": 27.0,
+    "lon": 121.595153,
+    "lat": 23.930925,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z160",
+    "name": "鳳林",
+    "county": "花蓮縣",
+    "alt": 124.0,
+    "lon": 121.453411,
+    "lat": 23.746114,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z170",
+    "name": "卓溪",
+    "county": "花蓮縣",
+    "alt": 194.0,
+    "lon": 121.3029,
+    "lat": 23.3443,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z180",
+    "name": "新城",
+    "county": "花蓮縣",
+    "alt": 37.0,
+    "lon": 121.604878,
+    "lat": 24.040486,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z190",
+    "name": "富世",
+    "county": "花蓮縣",
+    "alt": 62.0,
+    "lon": 121.6297,
+    "lat": 24.14743,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z200",
+    "name": "萬榮",
+    "county": "花蓮縣",
+    "alt": 153.0,
+    "lon": 121.420106,
+    "lat": 23.709219,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z210",
+    "name": "瑞穗",
+    "county": "花蓮縣",
+    "alt": 126.0,
+    "lon": 121.39021,
+    "lat": 23.5239,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z220",
+    "name": "和平林道",
+    "county": "花蓮縣",
+    "alt": 589.0,
+    "lon": 121.656317,
+    "lat": 24.343922,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z230",
+    "name": "和平",
+    "county": "花蓮縣",
+    "alt": 31.0,
+    "lon": 121.77007,
+    "lat": 24.30717,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z250",
+    "name": "瑞穗林道",
+    "county": "花蓮縣",
+    "alt": 1124.0,
+    "lon": 121.30688,
+    "lat": 23.49284,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z260",
+    "name": "豐裡",
+    "county": "花蓮縣",
+    "alt": 64.0,
+    "lon": 121.507636,
+    "lat": 23.842133,
+    "status": "revoked"
+  },
+  {
+    "id": "C0Z270",
+    "name": "蕃薯寮",
+    "county": "花蓮縣",
+    "alt": 343.0,
+    "lon": 121.540108,
+    "lat": 23.73835,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z280",
+    "name": "德武",
+    "county": "花蓮縣",
+    "alt": 224.0,
+    "lon": 121.41071,
+    "lat": 23.47426,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z290",
+    "name": "赤柯山",
+    "county": "花蓮縣",
+    "alt": 946.0,
+    "lon": 121.38293,
+    "lat": 23.36893,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z300",
+    "name": "東里",
+    "county": "花蓮縣",
+    "alt": 182.0,
+    "lon": 121.30547,
+    "lat": 23.26853,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z310",
+    "name": "清水斷崖",
+    "county": "花蓮縣",
+    "alt": 59.0,
+    "lon": 121.689142,
+    "lat": 24.218294,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z320",
+    "name": "清水林道",
+    "county": "花蓮縣",
+    "alt": 646.0,
+    "lon": 121.188272,
+    "lat": 23.27125,
+    "status": "existing"
+  },
+  {
+    "id": "C0Z330",
+    "name": "安通山",
+    "county": "花蓮縣",
+    "alt": 488.0,
+    "lon": 121.348528,
+    "lat": 23.290728,
+    "status": "existing"
+  },
+  {
+    "id": "C1A630",
+    "name": "下盆",
+    "county": "新北市",
+    "alt": 527.0,
+    "lon": 121.538622,
+    "lat": 24.771003,
+    "status": "existing"
+  },
+  {
+    "id": "C1A640",
+    "name": "石碇",
+    "county": "新北市",
+    "alt": 140.0,
+    "lon": 121.662922,
+    "lat": 24.993748,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A650",
+    "name": "火燒寮",
+    "county": "新北市",
+    "alt": 380.0,
+    "lon": 121.742641,
+    "lat": 25.002354,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A660",
+    "name": "瑞芳",
+    "county": "新北市",
+    "alt": 101.0,
+    "lon": 121.801267,
+    "lat": 25.113181,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A670",
+    "name": "新莊",
+    "county": "新北市",
+    "alt": 9.0,
+    "lon": 121.446756,
+    "lat": 25.051478,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A680",
+    "name": "五股",
+    "county": "新北市",
+    "alt": 95.0,
+    "lon": 121.435431,
+    "lat": 25.083481,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A690",
+    "name": "木柵",
+    "county": "臺北市",
+    "alt": 260.0,
+    "lon": 121.586278,
+    "lat": 24.980992,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A700",
+    "name": "南勢角",
+    "county": "新北市",
+    "alt": 197.0,
+    "lon": 121.489886,
+    "lat": 24.981275,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A710",
+    "name": "林口",
+    "county": "新北市",
+    "alt": 238.0,
+    "lon": 121.378212,
+    "lat": 25.076264,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A720",
+    "name": "松山",
+    "county": "臺北市",
+    "alt": 10.0,
+    "lon": 121.565429,
+    "lat": 25.074864,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A730",
+    "name": "公館",
+    "county": "臺北市",
+    "alt": 22.0,
+    "lon": 121.539539,
+    "lat": 25.014372,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A740",
+    "name": "淡水",
+    "county": "新北市",
+    "alt": 40.0,
+    "lon": 121.456826,
+    "lat": 25.16264,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A750",
+    "name": "石碇服務區",
+    "county": "新北市",
+    "alt": 92.0,
+    "lon": 121.646242,
+    "lat": 25.00872,
+    "status": "existing"
+  },
+  {
+    "id": "C1A760",
+    "name": "坪林交控",
+    "county": "新北市",
+    "alt": 217.0,
+    "lon": 121.713442,
+    "lat": 24.94284,
+    "status": "existing"
+  },
+  {
+    "id": "C1A970",
+    "name": "關渡",
+    "county": "臺北市",
+    "alt": 45.0,
+    "lon": 121.467384,
+    "lat": 25.132919,
+    "status": "revoked"
+  },
+  {
+    "id": "C1A9N0",
+    "name": "四十份",
+    "county": "新北市",
+    "alt": 435.0,
+    "lon": 121.593283,
+    "lat": 24.934158,
+    "status": "existing"
+  },
+  {
+    "id": "C1AC50",
+    "name": "關渡",
+    "county": "臺北市",
+    "alt": 111.0,
+    "lon": 121.469331,
+    "lat": 25.133486,
+    "status": "existing"
+  },
+  {
+    "id": "C1AC80",
+    "name": "文山",
+    "county": "臺北市",
+    "alt": 45.0,
+    "lon": 121.575704,
+    "lat": 25.002083,
+    "status": "revoked"
+  },
+  {
+    "id": "C1AC90",
+    "name": "中和",
+    "county": "新北市",
+    "alt": 49.0,
+    "lon": 121.516264,
+    "lat": 24.989586,
+    "status": "revoked"
+  },
+  {
+    "id": "C1ACA0",
+    "name": "新莊",
+    "county": "新北市",
+    "alt": 25.0,
+    "lon": 121.447649,
+    "lat": 25.05181,
+    "status": "revoked"
+  },
+  {
+    "id": "C1AI50",
+    "name": "國三N016K",
+    "county": "臺北市",
+    "alt": 64.0,
+    "lon": 121.619664,
+    "lat": 25.034164,
+    "status": "existing"
+  },
+  {
+    "id": "C1AI60",
+    "name": "國一39K邊坡",
+    "county": "新北市",
+    "alt": 181.0,
+    "lon": 121.383836,
+    "lat": 25.064361,
+    "status": "existing"
+  },
+  {
+    "id": "C1C460",
+    "name": "大溪",
+    "county": "桃園市",
+    "alt": 350.0,
+    "lon": 121.351255,
+    "lat": 24.819596,
+    "status": "revoked"
+  },
+  {
+    "id": "C1C470",
+    "name": "五權",
+    "county": "桃園市",
+    "alt": 94.0,
+    "lon": 121.072389,
+    "lat": 25.017686,
+    "status": "revoked"
+  },
+  {
+    "id": "C1C480",
+    "name": "桃園",
+    "county": "桃園市",
+    "alt": 105.0,
+    "lon": 121.323207,
+    "lat": 24.992377,
+    "status": "revoked"
+  },
+  {
+    "id": "C1C490",
+    "name": "八德",
+    "county": "桃園市",
+    "alt": 180.0,
+    "lon": 121.291533,
+    "lat": 24.927099,
+    "status": "revoked"
+  },
+  {
+    "id": "C1C500",
+    "name": "楊梅",
+    "county": "桃園市",
+    "alt": 187.0,
+    "lon": 121.148205,
+    "lat": 24.920997,
+    "status": "revoked"
+  },
+  {
+    "id": "C1C510",
+    "name": "水尾",
+    "county": "桃園市",
+    "alt": 106.0,
+    "lon": 121.087161,
+    "lat": 24.940081,
+    "status": "existing"
+  },
+  {
+    "id": "C1C520",
+    "name": "中壢",
+    "county": "桃園市",
+    "alt": 151.0,
+    "lon": 121.185267,
+    "lat": 24.967715,
+    "status": "revoked"
+  },
+  {
+    "id": "C1C540",
+    "name": "埔心",
+    "county": "桃園市",
+    "alt": 70.0,
+    "lon": 121.225992,
+    "lat": 25.047652,
+    "status": "revoked"
+  },
+  {
+    "id": "C1C570",
+    "name": "新屋-衛星中心",
+    "county": "桃園市",
+    "alt": 5.0,
+    "lon": 121.051542,
+    "lat": 25.014052,
+    "status": "revoked"
+  },
+  {
+    "id": "C1C620",
+    "name": "蘆竹",
+    "county": "桃園市",
+    "alt": 24.0,
+    "lon": 121.270714,
+    "lat": 25.08599,
+    "status": "revoked"
+  },
+  {
+    "id": "C1D370",
+    "name": "湖口",
+    "county": "新竹縣",
+    "alt": 104.0,
+    "lon": 121.044035,
+    "lat": 24.909332,
+    "status": "revoked"
+  },
+  {
+    "id": "C1D380",
+    "name": "新埔",
+    "county": "新竹縣",
+    "alt": 65.0,
+    "lon": 121.03834,
+    "lat": 24.84745,
+    "status": "existing"
+  },
+  {
+    "id": "C1D390",
+    "name": "關西",
+    "county": "新竹縣",
+    "alt": 146.0,
+    "lon": 121.173886,
+    "lat": 24.798325,
+    "status": "revoked"
+  },
+  {
+    "id": "C1D400",
+    "name": "鳥嘴山",
+    "county": "新竹縣",
+    "alt": 839.0,
+    "lon": 121.28387,
+    "lat": 24.71909,
+    "status": "existing"
+  },
+  {
+    "id": "C1D410",
+    "name": "白蘭",
+    "county": "新竹縣",
+    "alt": 1290.0,
+    "lon": 121.079947,
+    "lat": 24.579364,
+    "status": "existing"
+  },
+  {
+    "id": "C1D420",
+    "name": "太閣南",
+    "county": "新竹縣",
+    "alt": 1279.0,
+    "lon": 121.160575,
+    "lat": 24.632808,
+    "status": "existing"
+  },
+  {
+    "id": "C1D430",
+    "name": "峨眉",
+    "county": "新竹縣",
+    "alt": 100.0,
+    "lon": 121.017081,
+    "lat": 24.690444,
+    "status": "revoked"
+  },
+  {
+    "id": "C1D440",
+    "name": "新竹",
+    "county": "新竹市",
+    "alt": 36.0,
+    "lon": 120.977639,
+    "lat": 24.800446,
+    "status": "revoked"
+  },
+  {
+    "id": "C1D480",
+    "name": "打鐵坑",
+    "county": "新竹縣",
+    "alt": 223.0,
+    "lon": 121.150979,
+    "lat": 24.833216,
+    "status": "revoked"
+  },
+  {
+    "id": "C1D560",
+    "name": "竹東",
+    "county": "新竹縣",
+    "alt": 147.0,
+    "lon": 121.058056,
+    "lat": 24.767472,
+    "status": "revoked"
+  },
+  {
+    "id": "C1D630",
+    "name": "飛鳳山",
+    "county": "新竹縣",
+    "alt": 462.0,
+    "lon": 121.119178,
+    "lat": 24.766464,
+    "status": "existing"
+  },
+  {
+    "id": "C1D640",
+    "name": "外坪(五指山)",
+    "county": "新竹縣",
+    "alt": 718.0,
+    "lon": 121.090961,
+    "lat": 24.644447,
+    "status": "existing"
+  },
+  {
+    "id": "C1E440",
+    "name": "大河",
+    "county": "苗栗縣",
+    "alt": 122.0,
+    "lon": 120.955127,
+    "lat": 24.615447,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E450",
+    "name": "象鼻",
+    "county": "苗栗縣",
+    "alt": 968.0,
+    "lon": 120.940391,
+    "lat": 24.368508,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E451",
+    "name": "象鼻",
+    "county": "苗栗縣",
+    "alt": 950.0,
+    "lon": 120.940228,
+    "lat": 24.368617,
+    "status": "existing"
+  },
+  {
+    "id": "C1E460",
+    "name": "松安",
+    "county": "苗栗縣",
+    "alt": 1400.0,
+    "lon": 120.985953,
+    "lat": 24.397665,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E461",
+    "name": "松安",
+    "county": "苗栗縣",
+    "alt": 1325.0,
+    "lon": 120.986022,
+    "lat": 24.397972,
+    "status": "existing"
+  },
+  {
+    "id": "C1E470",
+    "name": "馬達拉",
+    "county": "苗栗縣",
+    "alt": 1800.0,
+    "lon": 121.190406,
+    "lat": 24.492392,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E480",
+    "name": "鳳美",
+    "county": "苗栗縣",
+    "alt": 576.0,
+    "lon": 121.034747,
+    "lat": 24.554803,
+    "status": "existing"
+  },
+  {
+    "id": "C1E490",
+    "name": "合流山",
+    "county": "苗栗縣",
+    "alt": 2533.0,
+    "lon": 121.059561,
+    "lat": 24.352672,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E500",
+    "name": "卓蘭",
+    "county": "苗栗縣",
+    "alt": 345.0,
+    "lon": 120.811225,
+    "lat": 24.307128,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E510",
+    "name": "新開",
+    "county": "苗栗縣",
+    "alt": 350.0,
+    "lon": 120.827062,
+    "lat": 24.347674,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E511",
+    "name": "新開",
+    "county": "苗栗縣",
+    "alt": 326.0,
+    "lon": 120.827019,
+    "lat": 24.347703,
+    "status": "existing"
+  },
+  {
+    "id": "C1E520",
+    "name": "大湖",
+    "county": "苗栗縣",
+    "alt": 350.0,
+    "lon": 120.874565,
+    "lat": 24.417121,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E540",
+    "name": "後龍",
+    "county": "苗栗縣",
+    "alt": 41.0,
+    "lon": 120.783749,
+    "lat": 24.606296,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E550",
+    "name": "明德",
+    "county": "苗栗縣",
+    "alt": 109.0,
+    "lon": 120.886796,
+    "lat": 24.584621,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E560",
+    "name": "和興",
+    "county": "苗栗縣",
+    "alt": 392.0,
+    "lon": 120.915128,
+    "lat": 24.514072,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E570",
+    "name": "公館",
+    "county": "苗栗縣",
+    "alt": 146.0,
+    "lon": 120.829017,
+    "lat": 24.495742,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E590",
+    "name": "土城",
+    "county": "苗栗縣",
+    "alt": 70.0,
+    "lon": 120.704291,
+    "lat": 24.471571,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E600",
+    "name": "南勢",
+    "county": "苗栗縣",
+    "alt": 150.0,
+    "lon": 120.734577,
+    "lat": 24.572679,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E601",
+    "name": "南勢",
+    "county": "苗栗縣",
+    "alt": 125.0,
+    "lon": 120.734842,
+    "lat": 24.572486,
+    "status": "existing"
+  },
+  {
+    "id": "C1E670",
+    "name": "南礦",
+    "county": "苗栗縣",
+    "alt": 1209.0,
+    "lon": 121.002836,
+    "lat": 24.538278,
+    "status": "existing"
+  },
+  {
+    "id": "C1E680",
+    "name": "南勢山",
+    "county": "苗栗縣",
+    "alt": 949.0,
+    "lon": 120.923735,
+    "lat": 24.421839,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E681",
+    "name": "南勢山",
+    "county": "苗栗縣",
+    "alt": 977.0,
+    "lon": 120.923831,
+    "lat": 24.421669,
+    "status": "existing"
+  },
+  {
+    "id": "C1E690",
+    "name": "南湖",
+    "county": "苗栗縣",
+    "alt": 770.0,
+    "lon": 120.837615,
+    "lat": 24.401013,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E691",
+    "name": "南湖",
+    "county": "苗栗縣",
+    "alt": 786.0,
+    "lon": 120.837533,
+    "lat": 24.40135,
+    "status": "existing"
+  },
+  {
+    "id": "C1E700",
+    "name": "八卦",
+    "county": "苗栗縣",
+    "alt": 749.0,
+    "lon": 120.92762,
+    "lat": 24.491839,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E701",
+    "name": "八卦",
+    "county": "苗栗縣",
+    "alt": 737.0,
+    "lon": 120.927619,
+    "lat": 24.491756,
+    "status": "existing"
+  },
+  {
+    "id": "C1E710",
+    "name": "馬拉邦山",
+    "county": "苗栗縣",
+    "alt": 959.0,
+    "lon": 120.901502,
+    "lat": 24.3674,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E711",
+    "name": "馬拉邦山",
+    "county": "苗栗縣",
+    "alt": 990.0,
+    "lon": 120.901656,
+    "lat": 24.367306,
+    "status": "existing"
+  },
+  {
+    "id": "C1E720",
+    "name": "泰安",
+    "county": "苗栗縣",
+    "alt": 1333.0,
+    "lon": 120.967619,
+    "lat": 24.488786,
+    "status": "revoked"
+  },
+  {
+    "id": "C1E721",
+    "name": "泰安",
+    "county": "苗栗縣",
+    "alt": 1409.0,
+    "lon": 120.968036,
+    "lat": 24.489017,
+    "status": "existing"
+  },
+  {
+    "id": "C1E770",
+    "name": "公館",
+    "county": "苗栗縣",
+    "alt": 83.0,
+    "lon": 120.830806,
+    "lat": 24.526914,
+    "status": "existing"
+  },
+  {
+    "id": "C1E890",
+    "name": "國三N149K",
+    "county": "苗栗縣",
+    "alt": 53.0,
+    "lon": 120.680019,
+    "lat": 24.463414,
+    "status": "existing"
+  },
+  {
+    "id": "C1E900",
+    "name": "國一N128K",
+    "county": "苗栗縣",
+    "alt": 80.0,
+    "lon": 120.844186,
+    "lat": 24.560997,
+    "status": "existing"
+  },
+  {
+    "id": "C1F000",
+    "name": "大肚",
+    "county": "臺中市",
+    "alt": 348.0,
+    "lon": 120.572603,
+    "lat": 24.152967,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F850",
+    "name": "東勢",
+    "county": "臺中市",
+    "alt": 320.0,
+    "lon": 120.833445,
+    "lat": 24.246294,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F870",
+    "name": "上谷關",
+    "county": "臺中市",
+    "alt": 1045.0,
+    "lon": 121.01899,
+    "lat": 24.203224,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F871",
+    "name": "上谷關",
+    "county": "臺中市",
+    "alt": 1000.0,
+    "lon": 121.018644,
+    "lat": 24.203483,
+    "status": "existing"
+  },
+  {
+    "id": "C1F880",
+    "name": "阿眉",
+    "county": "臺中市",
+    "alt": 1677.0,
+    "lon": 120.994265,
+    "lat": 24.126005,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F890",
+    "name": "稍來",
+    "county": "臺中市",
+    "alt": 2010.0,
+    "lon": 121.001224,
+    "lat": 24.265725,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F891",
+    "name": "稍來",
+    "county": "臺中市",
+    "alt": 2205.0,
+    "lon": 121.001142,
+    "lat": 24.265689,
+    "status": "existing"
+  },
+  {
+    "id": "C1F910",
+    "name": "新伯公",
+    "county": "臺中市",
+    "alt": 440.0,
+    "lon": 120.840943,
+    "lat": 24.221563,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F911",
+    "name": "新伯公",
+    "county": "臺中市",
+    "alt": 417.0,
+    "lon": 120.841069,
+    "lat": 24.221361,
+    "status": "existing"
+  },
+  {
+    "id": "C1F920",
+    "name": "石岡",
+    "county": "臺中市",
+    "alt": 280.0,
+    "lon": 120.770388,
+    "lat": 24.279627,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F930",
+    "name": "大甲",
+    "county": "臺中市",
+    "alt": 90.0,
+    "lon": 120.642064,
+    "lat": 24.351024,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F940",
+    "name": "雪嶺",
+    "county": "臺中市",
+    "alt": 2605.0,
+    "lon": 121.026775,
+    "lat": 24.280723,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F941",
+    "name": "雪嶺",
+    "county": "臺中市",
+    "alt": 2620.0,
+    "lon": 121.026642,
+    "lat": 24.280586,
+    "status": "existing"
+  },
+  {
+    "id": "C1F960",
+    "name": "水湳",
+    "county": "臺中市",
+    "alt": 125.0,
+    "lon": 120.652328,
+    "lat": 24.2213,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F970",
+    "name": "大坑",
+    "county": "臺中市",
+    "alt": 170.0,
+    "lon": 120.736222,
+    "lat": 24.171569,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F980",
+    "name": "炮子林",
+    "county": "臺中市",
+    "alt": 600.0,
+    "lon": 120.809542,
+    "lat": 24.088514,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F990",
+    "name": "橫山",
+    "county": "臺中市",
+    "alt": 253.0,
+    "lon": 120.607336,
+    "lat": 24.219076,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9A0",
+    "name": "中竹林",
+    "county": "臺中市",
+    "alt": 425.0,
+    "lon": 120.751487,
+    "lat": 24.103798,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9B0",
+    "name": "桐林",
+    "county": "臺中市",
+    "alt": 124.0,
+    "lon": 120.735375,
+    "lat": 24.066299,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9B1",
+    "name": "桐林",
+    "county": "臺中市",
+    "alt": 130.0,
+    "lon": 120.735194,
+    "lat": 24.066172,
+    "status": "existing"
+  },
+  {
+    "id": "C1F9C0",
+    "name": "白冷",
+    "county": "臺中市",
+    "alt": 619.0,
+    "lon": 120.92983,
+    "lat": 24.182668,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9C1",
+    "name": "白冷",
+    "county": "臺中市",
+    "alt": 610.0,
+    "lon": 120.929889,
+    "lat": 24.182844,
+    "status": "existing"
+  },
+  {
+    "id": "C1F9D0",
+    "name": "白毛台",
+    "county": "臺中市",
+    "alt": 613.0,
+    "lon": 120.887049,
+    "lat": 24.158231,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9D1",
+    "name": "白毛台",
+    "county": "臺中市",
+    "alt": 639.0,
+    "lon": 120.886933,
+    "lat": 24.158325,
+    "status": "existing"
+  },
+  {
+    "id": "C1F9E0",
+    "name": "龍安",
+    "county": "臺中市",
+    "alt": 537.0,
+    "lon": 120.83205,
+    "lat": 24.160174,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9E1",
+    "name": "龍安",
+    "county": "臺中市",
+    "alt": 563.0,
+    "lon": 120.831961,
+    "lat": 24.1605,
+    "status": "existing"
+  },
+  {
+    "id": "C1F9F0",
+    "name": "伯公龍",
+    "county": "臺中市",
+    "alt": 504.0,
+    "lon": 120.849277,
+    "lat": 24.272403,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9F1",
+    "name": "伯公龍",
+    "county": "臺中市",
+    "alt": 500.0,
+    "lon": 120.849047,
+    "lat": 24.272392,
+    "status": "existing"
+  },
+  {
+    "id": "C1F9G0",
+    "name": "慶福山",
+    "county": "臺中市",
+    "alt": 782.0,
+    "lon": 120.847881,
+    "lat": 24.181013,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9G1",
+    "name": "慶福山",
+    "county": "臺中市",
+    "alt": 810.0,
+    "lon": 120.848378,
+    "lat": 24.180853,
+    "status": "existing"
+  },
+  {
+    "id": "C1F9H0",
+    "name": "烏石坑",
+    "county": "臺中市",
+    "alt": 886.0,
+    "lon": 120.945666,
+    "lat": 24.279058,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9H1",
+    "name": "烏石坑",
+    "county": "臺中市",
+    "alt": 930.0,
+    "lon": 120.945811,
+    "lat": 24.279058,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9I0",
+    "name": "神岡",
+    "county": "臺中市",
+    "alt": 189.0,
+    "lon": 120.658729,
+    "lat": 24.272683,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9J0",
+    "name": "清水林",
+    "county": "臺中市",
+    "alt": 723.0,
+    "lon": 120.820374,
+    "lat": 24.071564,
+    "status": "revoked"
+  },
+  {
+    "id": "C1F9J1",
+    "name": "清水林",
+    "county": "臺中市",
+    "alt": 723.0,
+    "lon": 120.820419,
+    "lat": 24.071242,
+    "status": "existing"
+  },
+  {
+    "id": "C1F9W0",
+    "name": "德基",
+    "county": "臺中市",
+    "alt": 1970.0,
+    "lon": 121.190261,
+    "lat": 24.254783,
+    "status": "existing"
+  },
+  {
+    "id": "C1G620",
+    "name": "芬園",
+    "county": "彰化縣",
+    "alt": 133.0,
+    "lon": 120.621213,
+    "lat": 24.015465,
+    "status": "revoked"
+  },
+  {
+    "id": "C1G630",
+    "name": "彰化",
+    "county": "彰化縣",
+    "alt": 15.0,
+    "lon": 120.555098,
+    "lat": 24.078808,
+    "status": "revoked"
+  },
+  {
+    "id": "C1G631",
+    "name": "彰化",
+    "county": "彰化縣",
+    "alt": 98.0,
+    "lon": 120.554681,
+    "lat": 24.079131,
+    "status": "revoked"
+  },
+  {
+    "id": "C1G660",
+    "name": "溪湖",
+    "county": "彰化縣",
+    "alt": 121.0,
+    "lon": 120.478981,
+    "lat": 23.948252,
+    "status": "revoked"
+  },
+  {
+    "id": "C1G670",
+    "name": "溪州",
+    "county": "彰化縣",
+    "alt": 14.0,
+    "lon": 120.495911,
+    "lat": 23.848231,
+    "status": "revoked"
+  },
+  {
+    "id": "C1G680",
+    "name": "草湖",
+    "county": "彰化縣",
+    "alt": 10.0,
+    "lon": 120.378419,
+    "lat": 23.959642,
+    "status": "revoked"
+  },
+  {
+    "id": "C1G690",
+    "name": "下水埔",
+    "county": "彰化縣",
+    "alt": 61.0,
+    "lon": 120.57508,
+    "lat": 23.81769,
+    "status": "revoked"
+  },
+  {
+    "id": "C1G691",
+    "name": "下水埔",
+    "county": "彰化縣",
+    "alt": 110.0,
+    "lon": 120.5676,
+    "lat": 23.816114,
+    "status": "existing"
+  },
+  {
+    "id": "C1G700",
+    "name": "中西",
+    "county": "彰化縣",
+    "alt": 15.0,
+    "lon": 120.352189,
+    "lat": 23.882031,
+    "status": "revoked"
+  },
+  {
+    "id": "C1G9D0",
+    "name": "國一S218K",
+    "county": "彰化縣",
+    "alt": 30.0,
+    "lon": 120.493253,
+    "lat": 23.890641,
+    "status": "existing"
+  },
+  {
+    "id": "C1H000",
+    "name": "翠峰",
+    "county": "南投縣",
+    "alt": 2454.0,
+    "lon": 121.205211,
+    "lat": 24.109397,
+    "status": "existing"
+  },
+  {
+    "id": "C1H840",
+    "name": "國三N238K",
+    "county": "南投縣",
+    "alt": 231.0,
+    "lon": 120.707711,
+    "lat": 23.841008,
+    "status": "existing"
+  },
+  {
+    "id": "C1H850",
+    "name": "翠巒",
+    "county": "南投縣",
+    "alt": 2297.0,
+    "lon": 121.226581,
+    "lat": 24.192864,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H860",
+    "name": "瑞岩",
+    "county": "南投縣",
+    "alt": 1840.0,
+    "lon": 121.18345,
+    "lat": 24.123772,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H870",
+    "name": "仁愛",
+    "county": "南投縣",
+    "alt": 1113.0,
+    "lon": 121.130736,
+    "lat": 24.018611,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H880",
+    "name": "凌霄",
+    "county": "南投縣",
+    "alt": 1318.0,
+    "lon": 121.014883,
+    "lat": 24.016786,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H890",
+    "name": "大肚城",
+    "county": "南投縣",
+    "alt": 429.0,
+    "lon": 120.952272,
+    "lat": 23.970944,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H900",
+    "name": "清流",
+    "county": "南投縣",
+    "alt": 934.0,
+    "lon": 120.962997,
+    "lat": 24.080775,
+    "status": "existing"
+  },
+  {
+    "id": "C1H910",
+    "name": "魚池",
+    "county": "南投縣",
+    "alt": 724.0,
+    "lon": 120.92905,
+    "lat": 23.900897,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H920",
+    "name": "長豐",
+    "county": "南投縣",
+    "alt": 736.0,
+    "lon": 120.879897,
+    "lat": 24.102039,
+    "status": "existing"
+  },
+  {
+    "id": "C1H930",
+    "name": "北山",
+    "county": "南投縣",
+    "alt": 393.0,
+    "lon": 120.874758,
+    "lat": 23.985331,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H940",
+    "name": "雙冬",
+    "county": "南投縣",
+    "alt": 600.0,
+    "lon": 120.802318,
+    "lat": 23.967405,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H941",
+    "name": "雙冬",
+    "county": "南投縣",
+    "alt": 630.0,
+    "lon": 120.802189,
+    "lat": 23.967378,
+    "status": "existing"
+  },
+  {
+    "id": "C1H950",
+    "name": "中寮",
+    "county": "南投縣",
+    "alt": 180.0,
+    "lon": 120.766473,
+    "lat": 23.884347,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H960",
+    "name": "草屯",
+    "county": "南投縣",
+    "alt": 75.0,
+    "lon": 120.662872,
+    "lat": 23.997132,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H970",
+    "name": "六分寮",
+    "county": "南投縣",
+    "alt": 425.0,
+    "lon": 120.638147,
+    "lat": 23.925464,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H971",
+    "name": "六分寮",
+    "county": "南投縣",
+    "alt": 428.0,
+    "lon": 120.6378,
+    "lat": 23.92507,
+    "status": "existing"
+  },
+  {
+    "id": "C1H9B0",
+    "name": "阿眉",
+    "county": "南投縣",
+    "alt": 1677.0,
+    "lon": 120.994265,
+    "lat": 24.126005,
+    "status": "revoked"
+  },
+  {
+    "id": "C1H9B1",
+    "name": "阿眉",
+    "county": "南投縣",
+    "alt": 1710.0,
+    "lon": 120.994672,
+    "lat": 24.1263,
+    "status": "existing"
+  },
+  {
+    "id": "C1I020",
+    "name": "萬大",
+    "county": "南投縣",
+    "alt": 1120.0,
+    "lon": 121.132261,
+    "lat": 23.979817,
+    "status": "existing"
+  },
+  {
+    "id": "C1I030",
+    "name": "武界",
+    "county": "南投縣",
+    "alt": 948.0,
+    "lon": 121.052483,
+    "lat": 23.913225,
+    "status": "existing"
+  },
+  {
+    "id": "C1I040",
+    "name": "文文社",
+    "county": "南投縣",
+    "alt": 1693.0,
+    "lon": 120.993481,
+    "lat": 23.849386,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I050",
+    "name": "丹大",
+    "county": "南投縣",
+    "alt": 2568.0,
+    "lon": 121.141147,
+    "lat": 23.753747,
+    "status": "existing"
+  },
+  {
+    "id": "C1I060",
+    "name": "望鄉",
+    "county": "南投縣",
+    "alt": 2403.0,
+    "lon": 120.928178,
+    "lat": 23.619086,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I070",
+    "name": "和社",
+    "county": "南投縣",
+    "alt": 825.0,
+    "lon": 120.888861,
+    "lat": 23.591131,
+    "status": "existing"
+  },
+  {
+    "id": "C1I080",
+    "name": "信義",
+    "county": "南投縣",
+    "alt": 536.0,
+    "lon": 120.851036,
+    "lat": 23.689694,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I100",
+    "name": "溪頭",
+    "county": "南投縣",
+    "alt": 1771.0,
+    "lon": 120.807299,
+    "lat": 23.661295,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I101",
+    "name": "溪頭",
+    "county": "南投縣",
+    "alt": 1810.0,
+    "lon": 120.807647,
+    "lat": 23.661789,
+    "status": "existing"
+  },
+  {
+    "id": "C1I120",
+    "name": "大鞍",
+    "county": "南投縣",
+    "alt": 1528.0,
+    "lon": 120.7598,
+    "lat": 23.678517,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I121",
+    "name": "大鞍",
+    "county": "南投縣",
+    "alt": 1515.0,
+    "lon": 120.760017,
+    "lat": 23.678381,
+    "status": "existing"
+  },
+  {
+    "id": "C1I130",
+    "name": "桶頭",
+    "county": "南投縣",
+    "alt": 307.0,
+    "lon": 120.65369,
+    "lat": 23.642413,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I131",
+    "name": "桶頭",
+    "county": "南投縣",
+    "alt": 311.0,
+    "lon": 120.654117,
+    "lat": 23.641944,
+    "status": "existing"
+  },
+  {
+    "id": "C1I140",
+    "name": "卡奈托灣",
+    "county": "南投縣",
+    "alt": 1700.0,
+    "lon": 121.087872,
+    "lat": 23.754364,
+    "status": "existing"
+  },
+  {
+    "id": "C1I150",
+    "name": "青雲",
+    "county": "南投縣",
+    "alt": 393.0,
+    "lon": 120.949378,
+    "lat": 23.793361,
+    "status": "existing"
+  },
+  {
+    "id": "C1I160",
+    "name": "龍神橋",
+    "county": "南投縣",
+    "alt": 339.0,
+    "lon": 120.871547,
+    "lat": 23.779881,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I170",
+    "name": "集集",
+    "county": "南投縣",
+    "alt": 235.0,
+    "lon": 120.775006,
+    "lat": 23.826353,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I180",
+    "name": "清水林",
+    "county": "臺中市",
+    "alt": 723.0,
+    "lon": 120.820374,
+    "lat": 24.071564,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I190",
+    "name": "水長流",
+    "county": "南投縣",
+    "alt": 660.0,
+    "lon": 120.860464,
+    "lat": 24.061828,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I200",
+    "name": "中心崙",
+    "county": "南投縣",
+    "alt": 661.0,
+    "lon": 120.712304,
+    "lat": 23.72852,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I201",
+    "name": "中心崙",
+    "county": "南投縣",
+    "alt": 677.0,
+    "lon": 120.712097,
+    "lat": 23.728722,
+    "status": "existing"
+  },
+  {
+    "id": "C1I210",
+    "name": "蘆竹湳",
+    "county": "南投縣",
+    "alt": 566.0,
+    "lon": 120.812036,
+    "lat": 23.934065,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I211",
+    "name": "蘆竹湳",
+    "county": "南投縣",
+    "alt": 529.0,
+    "lon": 120.811994,
+    "lat": 23.934019,
+    "status": "existing"
+  },
+  {
+    "id": "C1I220",
+    "name": "樟湖",
+    "county": "南投縣",
+    "alt": 1098.0,
+    "lon": 120.846983,
+    "lat": 23.905333,
+    "status": "existing"
+  },
+  {
+    "id": "C1I230",
+    "name": "九份二山",
+    "county": "南投縣",
+    "alt": 837.0,
+    "lon": 120.845,
+    "lat": 23.961944,
+    "status": "existing"
+  },
+  {
+    "id": "C1I240",
+    "name": "外大坪",
+    "county": "南投縣",
+    "alt": 725.0,
+    "lon": 120.917931,
+    "lat": 23.958697,
+    "status": "existing"
+  },
+  {
+    "id": "C1I250",
+    "name": "鯉潭",
+    "county": "南投縣",
+    "alt": 732.0,
+    "lon": 120.991131,
+    "lat": 23.961922,
+    "status": "existing"
+  },
+  {
+    "id": "C1I260",
+    "name": "北坑",
+    "county": "南投縣",
+    "alt": 601.0,
+    "lon": 121.006903,
+    "lat": 23.9246,
+    "status": "existing"
+  },
+  {
+    "id": "C1I270",
+    "name": "水里",
+    "county": "南投縣",
+    "alt": 593.0,
+    "lon": 120.854092,
+    "lat": 23.831978,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I280",
+    "name": "埔中",
+    "county": "南投縣",
+    "alt": 439.0,
+    "lon": 120.642594,
+    "lat": 23.820778,
+    "status": "existing"
+  },
+  {
+    "id": "C1I290",
+    "name": "豐丘",
+    "county": "南投縣",
+    "alt": 1151.0,
+    "lon": 120.887417,
+    "lat": 23.668178,
+    "status": "existing"
+  },
+  {
+    "id": "C1I300",
+    "name": "上安橋",
+    "county": "南投縣",
+    "alt": 781.0,
+    "lon": 120.873836,
+    "lat": 23.728253,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I310",
+    "name": "西巒",
+    "county": "南投縣",
+    "alt": 1033.0,
+    "lon": 120.883956,
+    "lat": 23.754486,
+    "status": "existing"
+  },
+  {
+    "id": "C1I320",
+    "name": "奧萬大",
+    "county": "南投縣",
+    "alt": 1275.0,
+    "lon": 121.178556,
+    "lat": 23.952956,
+    "status": "existing"
+  },
+  {
+    "id": "C1I330",
+    "name": "楓樹林",
+    "county": "南投縣",
+    "alt": 1266.0,
+    "lon": 121.076117,
+    "lat": 23.986803,
+    "status": "existing"
+  },
+  {
+    "id": "C1I340",
+    "name": "新興橋",
+    "county": "南投縣",
+    "alt": 897.0,
+    "lon": 120.868728,
+    "lat": 23.563333,
+    "status": "existing"
+  },
+  {
+    "id": "C1I350",
+    "name": "東埔",
+    "county": "南投縣",
+    "alt": 887.0,
+    "lon": 120.925108,
+    "lat": 23.5563,
+    "status": "revoked"
+  },
+  {
+    "id": "C1I400",
+    "name": "凌霄",
+    "county": "南投縣",
+    "alt": 1399.0,
+    "lon": 121.004456,
+    "lat": 24.018778,
+    "status": "existing"
+  },
+  {
+    "id": "C1I430",
+    "name": "翠華",
+    "county": "南投縣",
+    "alt": 2415.0,
+    "lon": 121.224339,
+    "lat": 24.191961,
+    "status": "existing"
+  },
+  {
+    "id": "C1I440",
+    "name": "新高口",
+    "county": "南投縣",
+    "alt": 2540.0,
+    "lon": 120.878939,
+    "lat": 23.478744,
+    "status": "existing"
+  },
+  {
+    "id": "C1I450",
+    "name": "望鄉山",
+    "county": "南投縣",
+    "alt": 3025.0,
+    "lon": 120.944286,
+    "lat": 23.594153,
+    "status": "existing"
+  },
+  {
+    "id": "C1I470",
+    "name": "杉林溪",
+    "county": "南投縣",
+    "alt": 1680.0,
+    "lon": 120.786444,
+    "lat": 23.639517,
+    "status": "existing"
+  },
+  {
+    "id": "C1I500",
+    "name": "大尖山",
+    "county": "南投縣",
+    "alt": 2017.0,
+    "lon": 120.994889,
+    "lat": 23.858572,
+    "status": "existing"
+  },
+  {
+    "id": "C1I510",
+    "name": "線浸林道",
+    "county": "南投縣",
+    "alt": 1208.0,
+    "lon": 120.832956,
+    "lat": 23.761508,
+    "status": "existing"
+  },
+  {
+    "id": "C1I550",
+    "name": "國六W023K",
+    "county": "南投縣",
+    "alt": 373.0,
+    "lon": 120.867742,
+    "lat": 23.979067,
+    "status": "existing"
+  },
+  {
+    "id": "C1K230",
+    "name": "西螺",
+    "county": "雲林縣",
+    "alt": 79.0,
+    "lon": 120.452556,
+    "lat": 23.804439,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K250",
+    "name": "崙背",
+    "county": "雲林縣",
+    "alt": 59.0,
+    "lon": 120.318925,
+    "lat": 23.75555,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K260",
+    "name": "後安寮",
+    "county": "雲林縣",
+    "alt": 29.0,
+    "lon": 120.233236,
+    "lat": 23.789211,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K270",
+    "name": "褒忠",
+    "county": "雲林縣",
+    "alt": 21.0,
+    "lon": 120.308114,
+    "lat": 23.704936,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K310",
+    "name": "斗六",
+    "county": "雲林縣",
+    "alt": 40.0,
+    "lon": 120.516308,
+    "lat": 23.705547,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K320",
+    "name": "阿丹",
+    "county": "雲林縣",
+    "alt": 51.0,
+    "lon": 120.511894,
+    "lat": 23.657989,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K340",
+    "name": "土庫",
+    "county": "雲林縣",
+    "alt": 33.0,
+    "lon": 120.389883,
+    "lat": 23.688008,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K350",
+    "name": "北港",
+    "county": "雲林縣",
+    "alt": 24.0,
+    "lon": 120.295261,
+    "lat": 23.56895,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K380",
+    "name": "山豬湖",
+    "county": "雲林縣",
+    "alt": 649.0,
+    "lon": 120.601211,
+    "lat": 23.586711,
+    "status": "revoked"
+  },
+  {
+    "id": "C1K540",
+    "name": "口湖",
+    "county": "雲林縣",
+    "alt": 15.0,
+    "lon": 120.180517,
+    "lat": 23.585344,
+    "status": "existing"
+  },
+  {
+    "id": "C1M390",
+    "name": "龍美",
+    "county": "嘉義縣",
+    "alt": 1090.0,
+    "lon": 120.654417,
+    "lat": 23.406728,
+    "status": "existing"
+  },
+  {
+    "id": "C1M400",
+    "name": "菜瓜坪",
+    "county": "嘉義縣",
+    "alt": 369.0,
+    "lon": 120.576103,
+    "lat": 23.251928,
+    "status": "existing"
+  },
+  {
+    "id": "C1M450",
+    "name": "中坑",
+    "county": "嘉義縣",
+    "alt": 167.0,
+    "lon": 120.525597,
+    "lat": 23.561186,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M460",
+    "name": "溪口",
+    "county": "嘉義縣",
+    "alt": 14.0,
+    "lon": 120.404292,
+    "lat": 23.604006,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M470",
+    "name": "鰲鼓",
+    "county": "嘉義縣",
+    "alt": 23.0,
+    "lon": 120.148878,
+    "lat": 23.505225,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M480",
+    "name": "獨立山",
+    "county": "嘉義縣",
+    "alt": 840.0,
+    "lon": 120.607797,
+    "lat": 23.537022,
+    "status": "existing"
+  },
+  {
+    "id": "C1M490",
+    "name": "內埔",
+    "county": "嘉義縣",
+    "alt": 130.0,
+    "lon": 120.564236,
+    "lat": 23.485408,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M500",
+    "name": "魚寮",
+    "county": "嘉義縣",
+    "alt": 41.0,
+    "lon": 120.362269,
+    "lat": 23.478275,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M510",
+    "name": "朴子",
+    "county": "嘉義縣",
+    "alt": 8.0,
+    "lon": 120.257733,
+    "lat": 23.469764,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M520",
+    "name": "東後寮",
+    "county": "嘉義縣",
+    "alt": 6.0,
+    "lon": 120.248411,
+    "lat": 23.369708,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M540",
+    "name": "小公田",
+    "county": "嘉義縣",
+    "alt": 768.0,
+    "lon": 120.581031,
+    "lat": 23.361778,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M550",
+    "name": "中埔",
+    "county": "嘉義縣",
+    "alt": 110.0,
+    "lon": 120.520338,
+    "lat": 23.42353,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M551",
+    "name": "中埔",
+    "county": "嘉義縣",
+    "alt": 110.0,
+    "lon": 120.523753,
+    "lat": 23.421119,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M560",
+    "name": "南靖",
+    "county": "嘉義縣",
+    "alt": 43.0,
+    "lon": 120.384106,
+    "lat": 23.412433,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M570",
+    "name": "大湖",
+    "county": "嘉義縣",
+    "alt": 728.0,
+    "lon": 120.620216,
+    "lat": 23.474958,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M600",
+    "name": "頭凍",
+    "county": "嘉義縣",
+    "alt": 986.0,
+    "lon": 120.603339,
+    "lat": 23.406364,
+    "status": "existing"
+  },
+  {
+    "id": "C1M610",
+    "name": "石磐龍",
+    "county": "嘉義縣",
+    "alt": 1083.0,
+    "lon": 120.663506,
+    "lat": 23.496606,
+    "status": "existing"
+  },
+  {
+    "id": "C1M620",
+    "name": "瑞里",
+    "county": "嘉義縣",
+    "alt": 1252.0,
+    "lon": 120.675197,
+    "lat": 23.545133,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M630",
+    "name": "豐山",
+    "county": "嘉義縣",
+    "alt": 1052.0,
+    "lon": 120.748825,
+    "lat": 23.595089,
+    "status": "revoked"
+  },
+  {
+    "id": "C1M640",
+    "name": "十字",
+    "county": "嘉義縣",
+    "alt": 1567.0,
+    "lon": 120.753683,
+    "lat": 23.492153,
+    "status": "existing"
+  },
+  {
+    "id": "C1M870",
+    "name": "國三N285K",
+    "county": "嘉義縣",
+    "alt": 121.0,
+    "lon": 120.505833,
+    "lat": 23.550319,
+    "status": "existing"
+  },
+  {
+    "id": "C1N000",
+    "name": "沙崙",
+    "county": "臺南市",
+    "alt": 25.0,
+    "lon": 120.309201,
+    "lat": 22.93576,
+    "status": "revoked"
+  },
+  {
+    "id": "C1N001",
+    "name": "沙崙",
+    "county": "臺南市",
+    "alt": 24.0,
+    "lon": 120.309406,
+    "lat": 22.935472,
+    "status": "existing"
+  },
+  {
+    "id": "C1O820",
+    "name": "左鎮",
+    "county": "臺南市",
+    "alt": 30.0,
+    "lon": 120.404192,
+    "lat": 23.055114,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O830",
+    "name": "北寮",
+    "county": "臺南市",
+    "alt": 105.0,
+    "lon": 120.494487,
+    "lat": 23.079641,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O840",
+    "name": "王爺宮",
+    "county": "臺南市",
+    "alt": 144.0,
+    "lon": 120.399217,
+    "lat": 23.220756,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O850",
+    "name": "環湖",
+    "county": "臺南市",
+    "alt": 44.0,
+    "lon": 120.418633,
+    "lat": 23.148617,
+    "status": "existing"
+  },
+  {
+    "id": "C1O860",
+    "name": "大內",
+    "county": "臺南市",
+    "alt": 61.0,
+    "lon": 120.361431,
+    "lat": 23.120198,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O870",
+    "name": "大棟山",
+    "county": "臺南市",
+    "alt": 1249.0,
+    "lon": 120.52226,
+    "lat": 23.31157,
+    "status": "existing"
+  },
+  {
+    "id": "C1O880",
+    "name": "關山",
+    "county": "臺南市",
+    "alt": 223.0,
+    "lon": 120.594092,
+    "lat": 23.173397,
+    "status": "existing"
+  },
+  {
+    "id": "C1O920",
+    "name": "楠西",
+    "county": "臺南市",
+    "alt": 150.0,
+    "lon": 120.484494,
+    "lat": 23.183251,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O921",
+    "name": "楠西",
+    "county": "臺南市",
+    "alt": 115.0,
+    "lon": 120.484083,
+    "lat": 23.183511,
+    "status": "existing"
+  },
+  {
+    "id": "C1O940",
+    "name": "東山服務區",
+    "county": "臺南市",
+    "alt": 55.0,
+    "lon": 120.398472,
+    "lat": 23.286016,
+    "status": "existing"
+  },
+  {
+    "id": "C1O950",
+    "name": "和順",
+    "county": "臺南市",
+    "alt": 4.0,
+    "lon": 120.144771,
+    "lat": 23.076599,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O960",
+    "name": "崎頂",
+    "county": "臺南市",
+    "alt": 80.0,
+    "lon": 120.368922,
+    "lat": 22.959647,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O970",
+    "name": "虎頭埤",
+    "county": "臺南市",
+    "alt": 60.0,
+    "lon": 120.347816,
+    "lat": 23.021318,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O980",
+    "name": "新市",
+    "county": "臺南市",
+    "alt": 76.0,
+    "lon": 120.298659,
+    "lat": 23.062151,
+    "status": "revoked"
+  },
+  {
+    "id": "C1O990",
+    "name": "媽廟",
+    "county": "臺南市",
+    "alt": 23.0,
+    "lon": 120.293374,
+    "lat": 22.991591,
+    "status": "revoked"
+  },
+  {
+    "id": "C1P9A0",
+    "name": "三爺",
+    "county": "高雄市",
+    "alt": 35.0,
+    "lon": 120.279931,
+    "lat": 22.837064,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R090",
+    "name": "里港",
+    "county": "屏東縣",
+    "alt": 42.0,
+    "lon": 120.496642,
+    "lat": 22.800208,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R110",
+    "name": "口社",
+    "county": "屏東縣",
+    "alt": 110.0,
+    "lon": 120.645222,
+    "lat": 22.770111,
+    "status": "existing"
+  },
+  {
+    "id": "C1R120",
+    "name": "上德文",
+    "county": "屏東縣",
+    "alt": 820.0,
+    "lon": 120.704442,
+    "lat": 22.763272,
+    "status": "existing"
+  },
+  {
+    "id": "C1R130",
+    "name": "阿禮",
+    "county": "屏東縣",
+    "alt": 1040.0,
+    "lon": 120.743634,
+    "lat": 22.742678,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R140",
+    "name": "瑪家",
+    "county": "屏東縣",
+    "alt": 740.0,
+    "lon": 120.686961,
+    "lat": 22.682961,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R160",
+    "name": "新圍",
+    "county": "屏東縣",
+    "alt": 45.0,
+    "lon": 120.530778,
+    "lat": 22.739558,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R170",
+    "name": "屏東",
+    "county": "屏東縣",
+    "alt": 26.0,
+    "lon": 120.494072,
+    "lat": 22.660269,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R180",
+    "name": "三爺",
+    "county": "高雄市",
+    "alt": 35.0,
+    "lon": 120.280025,
+    "lat": 22.836591,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R190",
+    "name": "赤山",
+    "county": "屏東縣",
+    "alt": 48.0,
+    "lon": 120.616397,
+    "lat": 22.591024,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R200",
+    "name": "龍泉",
+    "county": "屏東縣",
+    "alt": 61.0,
+    "lon": 120.602242,
+    "lat": 22.667135,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R201",
+    "name": "龍泉",
+    "county": "屏東縣",
+    "alt": 63.0,
+    "lon": 120.602017,
+    "lat": 22.667097,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R210",
+    "name": "麟洛",
+    "county": "屏東縣",
+    "alt": 54.0,
+    "lon": 120.551758,
+    "lat": 22.657333,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R230",
+    "name": "南州",
+    "county": "屏東縣",
+    "alt": 20.0,
+    "lon": 120.516456,
+    "lat": 22.492611,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R240",
+    "name": "來義",
+    "county": "屏東縣",
+    "alt": 87.0,
+    "lon": 120.625111,
+    "lat": 22.527306,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R250",
+    "name": "力里",
+    "county": "屏東縣",
+    "alt": 92.0,
+    "lon": 120.629228,
+    "lat": 22.428117,
+    "status": "existing"
+  },
+  {
+    "id": "C1R260",
+    "name": "春日",
+    "county": "屏東縣",
+    "alt": 76.0,
+    "lon": 120.628306,
+    "lat": 22.370361,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R290",
+    "name": "石門山",
+    "county": "屏東縣",
+    "alt": 260.0,
+    "lon": 120.756597,
+    "lat": 22.112611,
+    "status": "existing"
+  },
+  {
+    "id": "C1R300",
+    "name": "旭海",
+    "county": "屏東縣",
+    "alt": 13.0,
+    "lon": 120.887671,
+    "lat": 22.194639,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R310",
+    "name": "壽卡",
+    "county": "屏東縣",
+    "alt": 489.0,
+    "lon": 120.858903,
+    "lat": 22.238911,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R320",
+    "name": "車城",
+    "county": "屏東縣",
+    "alt": 7.0,
+    "lon": 120.716247,
+    "lat": 22.0744,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R330",
+    "name": "枋山",
+    "county": "屏東縣",
+    "alt": 9.0,
+    "lon": 120.661078,
+    "lat": 22.246861,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R340",
+    "name": "牡丹",
+    "county": "屏東縣",
+    "alt": 230.0,
+    "lon": 120.792611,
+    "lat": 22.130014,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R440",
+    "name": "大漢山",
+    "county": "屏東縣",
+    "alt": 1654.0,
+    "lon": 120.753181,
+    "lat": 22.405264,
+    "status": "revoked"
+  },
+  {
+    "id": "C1R610",
+    "name": "西大武山",
+    "county": "屏東縣",
+    "alt": 1828.0,
+    "lon": 120.7322,
+    "lat": 22.617719,
+    "status": "existing"
+  },
+  {
+    "id": "C1R630",
+    "name": "龍泉",
+    "county": "屏東縣",
+    "alt": 60.0,
+    "lon": 120.59091,
+    "lat": 22.66701,
+    "status": "existing"
+  },
+  {
+    "id": "C1S620",
+    "name": "土阪",
+    "county": "臺東縣",
+    "alt": 122.0,
+    "lon": 120.887556,
+    "lat": 22.453108,
+    "status": "revoked"
+  },
+  {
+    "id": "C1S630",
+    "name": "都蘭",
+    "county": "臺東縣",
+    "alt": 23.0,
+    "lon": 121.227975,
+    "lat": 22.878397,
+    "status": "revoked"
+  },
+  {
+    "id": "C1S640",
+    "name": "東河",
+    "county": "臺東縣",
+    "alt": 65.0,
+    "lon": 121.30641,
+    "lat": 22.971819,
+    "status": "revoked"
+  },
+  {
+    "id": "C1S650",
+    "name": "長濱",
+    "county": "臺東縣",
+    "alt": 288.0,
+    "lon": 121.411975,
+    "lat": 23.286817,
+    "status": "revoked"
+  },
+  {
+    "id": "C1S660",
+    "name": "下馬",
+    "county": "臺東縣",
+    "alt": 794.0,
+    "lon": 121.070025,
+    "lat": 23.150194,
+    "status": "revoked"
+  },
+  {
+    "id": "C1S670",
+    "name": "摩天",
+    "county": "臺東縣",
+    "alt": 1580.0,
+    "lon": 121.027,
+    "lat": 23.199503,
+    "status": "existing"
+  },
+  {
+    "id": "C1S800",
+    "name": "華源",
+    "county": "臺東縣",
+    "alt": 80.0,
+    "lon": 121.02325,
+    "lat": 22.657883,
+    "status": "existing"
+  },
+  {
+    "id": "C1S820",
+    "name": "金峰",
+    "county": "臺東縣",
+    "alt": 177.0,
+    "lon": 120.933236,
+    "lat": 22.590969,
+    "status": "existing"
+  },
+  {
+    "id": "C1S850",
+    "name": "豐南",
+    "county": "花蓮縣",
+    "alt": 489.0,
+    "lon": 121.262389,
+    "lat": 23.122139,
+    "status": "existing"
+  },
+  {
+    "id": "C1S860",
+    "name": "利嘉",
+    "county": "臺東縣",
+    "alt": 516.0,
+    "lon": 121.050528,
+    "lat": 22.809417,
+    "status": "existing"
+  },
+  {
+    "id": "C1S870",
+    "name": "南美山",
+    "county": "臺東縣",
+    "alt": 222.0,
+    "lon": 121.382333,
+    "lat": 23.15025,
+    "status": "existing"
+  },
+  {
+    "id": "C1S880",
+    "name": "壽卡",
+    "county": "臺東縣",
+    "alt": 474.0,
+    "lon": 120.858903,
+    "lat": 22.238911,
+    "status": "existing"
+  },
+  {
+    "id": "C1SA50",
+    "name": "利嘉林道",
+    "county": "臺東縣",
+    "alt": 1235.0,
+    "lon": 121.009389,
+    "lat": 22.82325,
+    "status": "existing"
+  },
+  {
+    "id": "C1SA70",
+    "name": "都蘭",
+    "county": "臺東縣",
+    "alt": 62.0,
+    "lon": 121.226881,
+    "lat": 22.87794,
+    "status": "existing"
+  },
+  {
+    "id": "C1T800",
+    "name": "洛韶",
+    "county": "花蓮縣",
+    "alt": 1260.0,
+    "lon": 121.453956,
+    "lat": 24.204558,
+    "status": "existing"
+  },
+  {
+    "id": "C1T810",
+    "name": "慈恩",
+    "county": "花蓮縣",
+    "alt": 2049.0,
+    "lon": 121.388386,
+    "lat": 24.192044,
+    "status": "existing"
+  },
+  {
+    "id": "C1T830",
+    "name": "布洛灣",
+    "county": "花蓮縣",
+    "alt": 675.0,
+    "lon": 121.57127,
+    "lat": 24.17184,
+    "status": "existing"
+  },
+  {
+    "id": "C1T850",
+    "name": "吉安",
+    "county": "花蓮縣",
+    "alt": 50.0,
+    "lon": 121.562756,
+    "lat": 23.973325,
+    "status": "revoked"
+  },
+  {
+    "id": "C1T860",
+    "name": "銅門",
+    "county": "花蓮縣",
+    "alt": 168.0,
+    "lon": 121.492692,
+    "lat": 23.966031,
+    "status": "revoked"
+  },
+  {
+    "id": "C1T880",
+    "name": "吳全城",
+    "county": "花蓮縣",
+    "alt": 27.0,
+    "lon": 121.547933,
+    "lat": 23.886928,
+    "status": "revoked"
+  },
+  {
+    "id": "C1T890",
+    "name": "壽豐",
+    "county": "花蓮縣",
+    "alt": 40.0,
+    "lon": 121.507878,
+    "lat": 23.869097,
+    "status": "revoked"
+  },
+  {
+    "id": "C1T900",
+    "name": "西林",
+    "county": "花蓮縣",
+    "alt": 160.0,
+    "lon": 121.417849,
+    "lat": 23.806813,
+    "status": "revoked"
+  },
+  {
+    "id": "C1T910",
+    "name": "東壙",
+    "county": "花蓮縣",
+    "alt": 653.0,
+    "lon": 121.404706,
+    "lat": 23.853572,
+    "status": "revoked"
+  },
+  {
+    "id": "C1T920",
+    "name": "中興",
+    "county": "花蓮縣",
+    "alt": 68.0,
+    "lon": 121.498653,
+    "lat": 23.769503,
+    "status": "existing"
+  },
+  {
+    "id": "C1T930",
+    "name": "鳳林",
+    "county": "花蓮縣",
+    "alt": 130.0,
+    "lon": 121.445619,
+    "lat": 23.743603,
+    "status": "revoked"
+  },
+  {
+    "id": "C1T940",
+    "name": "大觀",
+    "county": "花蓮縣",
+    "alt": 539.0,
+    "lon": 121.373133,
+    "lat": 23.714206,
+    "status": "existing"
+  },
+  {
+    "id": "C1T950",
+    "name": "太安",
+    "county": "花蓮縣",
+    "alt": 1050.0,
+    "lon": 121.370128,
+    "lat": 23.666719,
+    "status": "existing"
+  },
+  {
+    "id": "C1T970",
+    "name": "大農",
+    "county": "花蓮縣",
+    "alt": 183.0,
+    "lon": 121.413331,
+    "lat": 23.615233,
+    "status": "existing"
+  },
+  {
+    "id": "C1T980",
+    "name": "龍澗",
+    "county": "花蓮縣",
+    "alt": 1306.0,
+    "lon": 121.411328,
+    "lat": 24.023289,
+    "status": "existing"
+  },
+  {
+    "id": "C1T990",
+    "name": "高寮",
+    "county": "花蓮縣",
+    "alt": 128.0,
+    "lon": 121.356808,
+    "lat": 23.394239,
+    "status": "existing"
+  },
+  {
+    "id": "C1TA00",
+    "name": "太魯閣",
+    "county": "花蓮縣",
+    "alt": 94.0,
+    "lon": 121.6236,
+    "lat": 24.15773,
+    "status": "existing"
+  },
+  {
+    "id": "C1U501",
+    "name": "牛鬥",
+    "county": "宜蘭縣",
+    "alt": 280.0,
+    "lon": 121.573656,
+    "lat": 24.637836,
+    "status": "existing"
+  },
+  {
+    "id": "C1U511",
+    "name": "古魯",
+    "county": "宜蘭縣",
+    "alt": 492.0,
+    "lon": 121.671639,
+    "lat": 24.571639,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U521",
+    "name": "雙連埤",
+    "county": "宜蘭縣",
+    "alt": 517.0,
+    "lon": 121.641246,
+    "lat": 24.75291,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U580",
+    "name": "北關",
+    "county": "宜蘭縣",
+    "alt": 8.0,
+    "lon": 121.873428,
+    "lat": 24.907222,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U590",
+    "name": "頭城",
+    "county": "宜蘭縣",
+    "alt": 6.0,
+    "lon": 121.814639,
+    "lat": 24.851928,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U610",
+    "name": "大礁溪",
+    "county": "宜蘭縣",
+    "alt": 268.0,
+    "lon": 121.678333,
+    "lat": 24.785958,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U620",
+    "name": "壯圍",
+    "county": "宜蘭縣",
+    "alt": 17.0,
+    "lon": 121.789573,
+    "lat": 24.743742,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U630",
+    "name": "再連",
+    "county": "宜蘭縣",
+    "alt": 140.0,
+    "lon": 121.679411,
+    "lat": 24.715053,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U660",
+    "name": "三星",
+    "county": "宜蘭縣",
+    "alt": 103.0,
+    "lon": 121.6544,
+    "lat": 24.670636,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U670",
+    "name": "寒溪",
+    "county": "宜蘭縣",
+    "alt": 105.0,
+    "lon": 121.71691,
+    "lat": 24.634,
+    "status": "existing"
+  },
+  {
+    "id": "C1U680",
+    "name": "冬山",
+    "county": "宜蘭縣",
+    "alt": 22.0,
+    "lon": 121.793456,
+    "lat": 24.632352,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U690",
+    "name": "新寮",
+    "county": "宜蘭縣",
+    "alt": 101.0,
+    "lon": 121.751267,
+    "lat": 24.625561,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U700",
+    "name": "土場",
+    "county": "宜蘭縣",
+    "alt": 370.0,
+    "lon": 121.497081,
+    "lat": 24.572378,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U720",
+    "name": "南山",
+    "county": "宜蘭縣",
+    "alt": 1260.0,
+    "lon": 121.381669,
+    "lat": 24.437419,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U830",
+    "name": "烏石鼻",
+    "county": "宜蘭縣",
+    "alt": 618.0,
+    "lon": 121.839383,
+    "lat": 24.482681,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U840",
+    "name": "東澳嶺",
+    "county": "宜蘭縣",
+    "alt": 750.0,
+    "lon": 121.8485,
+    "lat": 24.5378,
+    "status": "existing"
+  },
+  {
+    "id": "C1U850",
+    "name": "觀音海岸",
+    "county": "宜蘭縣",
+    "alt": 665.0,
+    "lon": 121.77856,
+    "lat": 24.38319,
+    "status": "existing"
+  },
+  {
+    "id": "C1U860",
+    "name": "頭城",
+    "county": "宜蘭縣",
+    "alt": 5.0,
+    "lon": 121.830797,
+    "lat": 24.853233,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U880",
+    "name": "北關",
+    "county": "宜蘭縣",
+    "alt": 8.0,
+    "lon": 121.87188,
+    "lat": 24.90651,
+    "status": "revoked"
+  },
+  {
+    "id": "C1U920",
+    "name": "思源",
+    "county": "宜蘭縣",
+    "alt": 2085.0,
+    "lon": 121.347214,
+    "lat": 24.393125,
+    "status": "existing"
+  },
+  {
+    "id": "C1U930",
+    "name": "粉鳥林",
+    "county": "宜蘭縣",
+    "alt": 5.0,
+    "lon": 121.842479,
+    "lat": 24.497088,
+    "status": "existing"
+  },
+  {
+    "id": "C1V160",
+    "name": "達卡努瓦",
+    "county": "高雄市",
+    "alt": 1040.0,
+    "lon": 120.705319,
+    "lat": 23.279811,
+    "status": "existing"
+  },
+  {
+    "id": "C1V170",
+    "name": "排雲",
+    "county": "高雄市",
+    "alt": 3690.0,
+    "lon": 120.954147,
+    "lat": 23.463619,
+    "status": "existing"
+  },
+  {
+    "id": "C1V180",
+    "name": "大寮",
+    "county": "高雄市",
+    "alt": 24.0,
+    "lon": 120.431958,
+    "lat": 22.610011,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V190",
+    "name": "南天池",
+    "county": "高雄市",
+    "alt": 2700.0,
+    "lon": 120.91176,
+    "lat": 23.27403,
+    "status": "existing"
+  },
+  {
+    "id": "C1V200",
+    "name": "梅山",
+    "county": "高雄市",
+    "alt": 870.0,
+    "lon": 120.823556,
+    "lat": 23.268447,
+    "status": "existing"
+  },
+  {
+    "id": "C1V210",
+    "name": "復興",
+    "county": "高雄市",
+    "alt": 700.0,
+    "lon": 120.805882,
+    "lat": 23.222405,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V220",
+    "name": "小關山",
+    "county": "高雄市",
+    "alt": 1781.0,
+    "lon": 120.813603,
+    "lat": 23.154217,
+    "status": "existing"
+  },
+  {
+    "id": "C1V230",
+    "name": "高中",
+    "county": "高雄市",
+    "alt": 731.0,
+    "lon": 120.716711,
+    "lat": 23.134911,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V231",
+    "name": "高中",
+    "county": "高雄市",
+    "alt": 731.0,
+    "lon": 120.716711,
+    "lat": 23.134911,
+    "status": "existing"
+  },
+  {
+    "id": "C1V240",
+    "name": "新發",
+    "county": "高雄市",
+    "alt": 470.0,
+    "lon": 120.660097,
+    "lat": 23.052147,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V260",
+    "name": "月眉",
+    "county": "高雄市",
+    "alt": 112.0,
+    "lon": 120.53976,
+    "lat": 22.971308,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V270",
+    "name": "溪南",
+    "county": "高雄市",
+    "alt": 1792.0,
+    "lon": 120.806417,
+    "lat": 23.075994,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V280",
+    "name": "藤枝",
+    "county": "高雄市",
+    "alt": 1533.0,
+    "lon": 120.754194,
+    "lat": 23.074883,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V290",
+    "name": "新集",
+    "county": "高雄市",
+    "alt": 1166.0,
+    "lon": 120.793914,
+    "lat": 23.035158,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V300",
+    "name": "御油山",
+    "county": "高雄市",
+    "alt": 1637.0,
+    "lon": 120.715364,
+    "lat": 23.001983,
+    "status": "existing"
+  },
+  {
+    "id": "C1V320",
+    "name": "吉東",
+    "county": "高雄市",
+    "alt": 95.0,
+    "lon": 120.557186,
+    "lat": 22.841178,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V330",
+    "name": "旗山",
+    "county": "高雄市",
+    "alt": 63.0,
+    "lon": 120.494281,
+    "lat": 22.877672,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V340",
+    "name": "大津",
+    "county": "高雄市",
+    "alt": 190.0,
+    "lon": 120.645986,
+    "lat": 22.888322,
+    "status": "existing"
+  },
+  {
+    "id": "C1V350",
+    "name": "溪埔",
+    "county": "高雄市",
+    "alt": 36.0,
+    "lon": 120.446797,
+    "lat": 22.738578,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V360",
+    "name": "木柵",
+    "county": "高雄市",
+    "alt": 94.0,
+    "lon": 120.466769,
+    "lat": 22.975481,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V380",
+    "name": "路竹",
+    "county": "高雄市",
+    "alt": 16.0,
+    "lon": 120.292233,
+    "lat": 22.879067,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V390",
+    "name": "尖山",
+    "county": "高雄市",
+    "alt": 60.0,
+    "lon": 120.367789,
+    "lat": 22.813153,
+    "status": "existing"
+  },
+  {
+    "id": "C1V400",
+    "name": "竹子腳",
+    "county": "高雄市",
+    "alt": 51.0,
+    "lon": 120.343363,
+    "lat": 22.812978,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V410",
+    "name": "岡山",
+    "county": "高雄市",
+    "alt": 31.0,
+    "lon": 120.297686,
+    "lat": 22.755153,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V420",
+    "name": "鳳雄",
+    "county": "高雄市",
+    "alt": 55.0,
+    "lon": 120.352558,
+    "lat": 22.750778,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V430",
+    "name": "左營",
+    "county": "高雄市",
+    "alt": 13.0,
+    "lon": 120.295296,
+    "lat": 22.677151,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V440",
+    "name": "鳳山",
+    "county": "高雄市",
+    "alt": 27.0,
+    "lon": 120.356122,
+    "lat": 22.646653,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V450",
+    "name": "鳳森",
+    "county": "高雄市",
+    "alt": 61.0,
+    "lon": 120.384457,
+    "lat": 22.537976,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V451",
+    "name": "鳳森",
+    "county": "高雄市",
+    "alt": 51.0,
+    "lon": 120.392567,
+    "lat": 22.545196,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V460",
+    "name": "楠溪",
+    "county": "高雄市",
+    "alt": 1857.0,
+    "lon": 120.892611,
+    "lat": 23.436444,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V530",
+    "name": "阿蓮",
+    "county": "高雄市",
+    "alt": 34.0,
+    "lon": 120.327618,
+    "lat": 22.883199,
+    "status": "revoked"
+  },
+  {
+    "id": "C1V570",
+    "name": "吉東",
+    "county": "高雄市",
+    "alt": 82.0,
+    "lon": 120.5454,
+    "lat": 22.85422,
+    "status": "existing"
+  },
+  {
+    "id": "C1V580",
+    "name": "溪南(特生中心)",
+    "county": "高雄市",
+    "alt": 1656.0,
+    "lon": 120.788475,
+    "lat": 23.084972,
+    "status": "existing"
+  },
+  {
+    "id": "C1V590",
+    "name": "新發",
+    "county": "高雄市",
+    "alt": 741.0,
+    "lon": 120.646064,
+    "lat": 23.057019,
+    "status": "existing"
+  },
+  {
+    "id": "C1V600",
+    "name": "藤枝",
+    "county": "高雄市",
+    "alt": 1561.0,
+    "lon": 120.757042,
+    "lat": 23.071961,
+    "status": "existing"
+  },
+  {
+    "id": "C1V780",
+    "name": "多納林道",
+    "county": "高雄市",
+    "alt": 1050.0,
+    "lon": 120.737917,
+    "lat": 22.888028,
+    "status": "existing"
+  },
+  {
+    "id": "C1V830",
+    "name": "國三S383K",
+    "county": "高雄市",
+    "alt": 114.0,
+    "lon": 120.426475,
+    "lat": 22.781967,
+    "status": "existing"
+  },
+  {
+    "id": "C1X010",
+    "name": "岸內",
+    "county": "臺南市",
+    "alt": 15.0,
+    "lon": 120.260506,
+    "lat": 23.329819,
+    "status": "revoked"
+  },
+  {
+    "id": "C1X030",
+    "name": "白河",
+    "county": "臺南市",
+    "alt": 33.0,
+    "lon": 120.429022,
+    "lat": 23.325181,
+    "status": "revoked"
+  },
+  {
+    "id": "C1X040",
+    "name": "東原",
+    "county": "臺南市",
+    "alt": 232.0,
+    "lon": 120.463822,
+    "lat": 23.291597,
+    "status": "existing"
+  },
+  {
+    "id": "C1X050",
+    "name": "東河",
+    "county": "臺南市",
+    "alt": 19.0,
+    "lon": 120.385317,
+    "lat": 23.29685,
+    "status": "revoked"
+  },
+  {
+    "id": "C1X060",
+    "name": "下營",
+    "county": "臺南市",
+    "alt": 19.0,
+    "lon": 120.256261,
+    "lat": 23.22695,
+    "status": "revoked"
+  },
+  {
+    "id": "C1X070",
+    "name": "北門",
+    "county": "臺南市",
+    "alt": 4.0,
+    "lon": 120.124872,
+    "lat": 23.268222,
+    "status": "revoked"
+  },
+  {
+    "id": "C1X090",
+    "name": "七股",
+    "county": "臺南市",
+    "alt": 6.0,
+    "lon": 120.14605,
+    "lat": 23.141803,
+    "status": "revoked"
+  },
+  {
+    "id": "C1Z010",
+    "name": "卓樂",
+    "county": "花蓮縣",
+    "alt": 198.0,
+    "lon": 121.271644,
+    "lat": 23.297017,
+    "status": "revoked"
+  },
+  {
+    "id": "C1Z020",
+    "name": "明里",
+    "county": "花蓮縣",
+    "alt": 211.0,
+    "lon": 121.262265,
+    "lat": 23.208771,
+    "status": "revoked"
+  },
+  {
+    "id": "C1Z030",
+    "name": "紅葉",
+    "county": "花蓮縣",
+    "alt": 218.0,
+    "lon": 121.338806,
+    "lat": 23.493119,
+    "status": "existing"
+  },
+  {
+    "id": "C1Z040",
+    "name": "立山",
+    "county": "花蓮縣",
+    "alt": 434.0,
+    "lon": 121.327375,
+    "lat": 23.443356,
+    "status": "existing"
+  },
+  {
+    "id": "C1Z090",
+    "name": "三棧",
+    "county": "花蓮縣",
+    "alt": 706.0,
+    "lon": 121.605119,
+    "lat": 24.116964,
+    "status": "revoked"
+  },
+  {
+    "id": "C1Z110",
+    "name": "三棧",
+    "county": "花蓮縣",
+    "alt": 680.0,
+    "lon": 121.60501,
+    "lat": 24.11557,
+    "status": "existing"
+  },
+  {
+    "id": "C1Z120",
+    "name": "壽豐",
+    "county": "花蓮縣",
+    "alt": 62.0,
+    "lon": 121.508081,
+    "lat": 23.870853,
+    "status": "existing"
+  },
+  {
+    "id": "C1Z130",
+    "name": "銅門",
+    "county": "花蓮縣",
+    "alt": 187.0,
+    "lon": 121.492842,
+    "lat": 23.965694,
+    "status": "existing"
+  },
+  {
+    "id": "C1Z140",
+    "name": "荖溪",
+    "county": "花蓮縣",
+    "alt": 950.0,
+    "lon": 121.45964,
+    "lat": 23.890575,
+    "status": "existing"
+  },
+  {
+    "id": "C1Z240",
+    "name": "中平林道",
+    "county": "花蓮縣",
+    "alt": 1163.0,
+    "lon": 121.26763,
+    "lat": 23.42115,
+    "status": "existing"
+  },
+  {
+    "id": "C2A540",
+    "name": "四堵",
+    "county": "新北市",
+    "alt": 401.0,
+    "lon": 121.745736,
+    "lat": 24.8926,
+    "status": "existing"
+  },
+  {
+    "id": "C2A560",
+    "name": "福山",
+    "county": "新北市",
+    "alt": 405.0,
+    "lon": 121.502811,
+    "lat": 24.776203,
+    "status": "existing"
+  },
+  {
+    "id": "C2A650",
+    "name": "火燒寮",
+    "county": "新北市",
+    "alt": 287.0,
+    "lon": 121.742892,
+    "lat": 25.002719,
+    "status": "existing"
+  },
+  {
+    "id": "C2A660",
+    "name": "瑞芳",
+    "county": "新北市",
+    "alt": 97.0,
+    "lon": 121.801147,
+    "lat": 25.113169,
+    "status": "existing"
+  },
+  {
+    "id": "C2A880",
+    "name": "福隆",
+    "county": "新北市",
+    "alt": 6.0,
+    "lon": 121.942083,
+    "lat": 25.017842,
+    "status": "existing"
+  },
+  {
+    "id": "C2A920",
+    "name": "富貴角",
+    "county": "新北市",
+    "alt": 196.0,
+    "lon": 121.565258,
+    "lat": 25.263783,
+    "status": "existing"
+  },
+  {
+    "id": "C2C410",
+    "name": "中央大學",
+    "county": "桃園市",
+    "alt": 129.0,
+    "lon": 121.185165,
+    "lat": 24.967652,
+    "status": "existing"
+  },
+  {
+    "id": "C2D720",
+    "name": "關西工作站",
+    "county": "新竹縣",
+    "alt": 164.0,
+    "lon": 121.184792,
+    "lat": 24.757275,
+    "status": "existing"
+  },
+  {
+    "id": "C2D730",
+    "name": "寶山農場",
+    "county": "新竹縣",
+    "alt": 78.0,
+    "lon": 120.976153,
+    "lat": 24.732444,
+    "status": "existing"
+  },
+  {
+    "id": "C2E520",
+    "name": "大湖",
+    "county": "苗栗縣",
+    "alt": 320.0,
+    "lon": 120.870872,
+    "lat": 24.414939,
+    "status": "existing"
+  },
+  {
+    "id": "C2E540",
+    "name": "龍溪",
+    "county": "苗栗縣",
+    "alt": 32.0,
+    "lon": 120.783933,
+    "lat": 24.606489,
+    "status": "existing"
+  },
+  {
+    "id": "C2E880",
+    "name": "三義",
+    "county": "苗栗縣",
+    "alt": 507.0,
+    "lon": 120.749819,
+    "lat": 24.405478,
+    "status": "existing"
+  },
+  {
+    "id": "C2E970",
+    "name": "八甲",
+    "county": "苗栗縣",
+    "alt": 175.0,
+    "lon": 120.795983,
+    "lat": 24.535811,
+    "status": "existing"
+  },
+  {
+    "id": "C2E980",
+    "name": "和興",
+    "county": "苗栗縣",
+    "alt": 640.0,
+    "lon": 120.923016,
+    "lat": 24.505319,
+    "status": "existing"
+  },
+  {
+    "id": "C2E990",
+    "name": "新坪頂",
+    "county": "苗栗縣",
+    "alt": 549.0,
+    "lon": 120.8574,
+    "lat": 24.30201,
+    "status": "existing"
+  },
+  {
+    "id": "C2F000",
+    "name": "大肚",
+    "county": "臺中市",
+    "alt": 273.0,
+    "lon": 120.572117,
+    "lat": 24.15295,
+    "status": "existing"
+  },
+  {
+    "id": "C2F860",
+    "name": "梨山",
+    "county": "臺中市",
+    "alt": 2215.0,
+    "lon": 121.243669,
+    "lat": 24.247522,
+    "status": "existing"
+  },
+  {
+    "id": "C2F930",
+    "name": "大甲",
+    "county": "臺中市",
+    "alt": 100.0,
+    "lon": 120.640403,
+    "lat": 24.347667,
+    "status": "existing"
+  },
+  {
+    "id": "C2F990",
+    "name": "摩天嶺",
+    "county": "臺中市",
+    "alt": 1018.0,
+    "lon": 120.936819,
+    "lat": 24.322458,
+    "status": "existing"
+  },
+  {
+    "id": "C2F9A0",
+    "name": "中竹林",
+    "county": "臺中市",
+    "alt": 425.0,
+    "lon": 120.751061,
+    "lat": 24.103556,
+    "status": "existing"
+  },
+  {
+    "id": "C2FA00",
+    "name": "烏石坑",
+    "county": "臺中市",
+    "alt": 983.0,
+    "lon": 120.947617,
+    "lat": 24.273503,
+    "status": "existing"
+  },
+  {
+    "id": "C2FB50",
+    "name": "出雲",
+    "county": "臺中市",
+    "alt": 1070.0,
+    "lon": 120.902794,
+    "lat": 24.206469,
+    "status": "existing"
+  },
+  {
+    "id": "C2FB60",
+    "name": "頭櫃山",
+    "county": "臺中市",
+    "alt": 1117.0,
+    "lon": 120.858925,
+    "lat": 24.129842,
+    "status": "existing"
+  },
+  {
+    "id": "C2G640",
+    "name": "鹿港",
+    "county": "彰化縣",
+    "alt": 17.0,
+    "lon": 120.430481,
+    "lat": 24.0753,
+    "status": "existing"
+  },
+  {
+    "id": "C2G840",
+    "name": "北斗",
+    "county": "彰化縣",
+    "alt": 32.0,
+    "lon": 120.514222,
+    "lat": 23.877586,
+    "status": "existing"
+  },
+  {
+    "id": "C2G870",
+    "name": "芳苑",
+    "county": "彰化縣",
+    "alt": 12.0,
+    "lon": 120.320025,
+    "lat": 23.922303,
+    "status": "existing"
+  },
+  {
+    "id": "C2G980",
+    "name": "田頭村",
+    "county": "彰化縣",
+    "alt": 27.0,
+    "lon": 120.444175,
+    "lat": 23.8263,
+    "status": "existing"
+  },
+  {
+    "id": "C2G9A0",
+    "name": "畜試所彰化",
+    "county": "彰化縣",
+    "alt": 51.0,
+    "lon": 120.557964,
+    "lat": 23.86045,
+    "status": "existing"
+  },
+  {
+    "id": "C2H950",
+    "name": "中寮",
+    "county": "南投縣",
+    "alt": 192.0,
+    "lon": 120.766406,
+    "lat": 23.884447,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9D0",
+    "name": "三隻寮",
+    "county": "南投縣",
+    "alt": 741.0,
+    "lon": 120.861578,
+    "lat": 24.093078,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9E0",
+    "name": "國姓南港",
+    "county": "南投縣",
+    "alt": 1166.0,
+    "lon": 120.846556,
+    "lat": 23.911108,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9F0",
+    "name": "柑林",
+    "county": "南投縣",
+    "alt": 281.0,
+    "lon": 120.847072,
+    "lat": 24.018658,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9G0",
+    "name": "百勝",
+    "county": "南投縣",
+    "alt": 502.0,
+    "lon": 120.909361,
+    "lat": 24.051142,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9H0",
+    "name": "苗改南投蜂場",
+    "county": "南投縣",
+    "alt": 158.0,
+    "lon": 120.693481,
+    "lat": 23.852589,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9J0",
+    "name": "中台",
+    "county": "南投縣",
+    "alt": 545.0,
+    "lon": 120.938739,
+    "lat": 23.9996,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9K0",
+    "name": "屯原",
+    "county": "南投縣",
+    "alt": 2047.0,
+    "lon": 121.209389,
+    "lat": 24.067969,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9L0",
+    "name": "馬烈霸",
+    "county": "南投縣",
+    "alt": 1999.0,
+    "lon": 121.201772,
+    "lat": 24.1512,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9M0",
+    "name": "發祥",
+    "county": "南投縣",
+    "alt": 1255.0,
+    "lon": 121.164517,
+    "lat": 24.154094,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9N0",
+    "name": "仁愛東眼",
+    "county": "南投縣",
+    "alt": 1439.0,
+    "lon": 121.1205,
+    "lat": 24.026875,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9P0",
+    "name": "伊拿谷",
+    "county": "南投縣",
+    "alt": 913.0,
+    "lon": 121.088264,
+    "lat": 23.963211,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9Q0",
+    "name": "北東眼山",
+    "county": "南投縣",
+    "alt": 2032.0,
+    "lon": 121.189303,
+    "lat": 24.120939,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9R0",
+    "name": "卓社",
+    "county": "南投縣",
+    "alt": 1301.0,
+    "lon": 121.000086,
+    "lat": 23.887894,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9S0",
+    "name": "龍南",
+    "county": "南投縣",
+    "alt": 1000.0,
+    "lon": 120.833183,
+    "lat": 23.953536,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9T0",
+    "name": "名間竹圍",
+    "county": "南投縣",
+    "alt": 317.0,
+    "lon": 120.637572,
+    "lat": 23.859914,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9U0",
+    "name": "鳳鵬",
+    "county": "南投縣",
+    "alt": 343.0,
+    "lon": 120.788061,
+    "lat": 23.763919,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9W0",
+    "name": "大坪頂農水",
+    "county": "南投縣",
+    "alt": 724.0,
+    "lon": 120.932781,
+    "lat": 24.043122,
+    "status": "existing"
+  },
+  {
+    "id": "C2H9Y0",
+    "name": "松茗",
+    "county": "南投縣",
+    "alt": 415.0,
+    "lon": 120.650765,
+    "lat": 23.8167,
+    "status": "existing"
+  },
+  {
+    "id": "C2I090",
+    "name": "鳳凰",
+    "county": "南投縣",
+    "alt": 910.0,
+    "lon": 120.787347,
+    "lat": 23.728081,
+    "status": "existing"
+  },
+  {
+    "id": "C2K240",
+    "name": "草嶺",
+    "county": "雲林縣",
+    "alt": 1132.0,
+    "lon": 120.693461,
+    "lat": 23.59555,
+    "status": "existing"
+  },
+  {
+    "id": "C2K250",
+    "name": "崙背",
+    "county": "雲林縣",
+    "alt": 8.0,
+    "lon": 120.31893,
+    "lat": 23.75553,
+    "status": "existing"
+  },
+  {
+    "id": "C2K280",
+    "name": "四湖",
+    "county": "雲林縣",
+    "alt": 3.0,
+    "lon": 120.22717,
+    "lat": 23.6304,
+    "status": "existing"
+  },
+  {
+    "id": "C2K290",
+    "name": "崙內",
+    "county": "雲林縣",
+    "alt": 14.0,
+    "lon": 120.35601,
+    "lat": 23.69525,
+    "status": "existing"
+  },
+  {
+    "id": "C2K300",
+    "name": "鹿南",
+    "county": "雲林縣",
+    "alt": 14.0,
+    "lon": 120.3636,
+    "lat": 23.63855,
+    "status": "existing"
+  },
+  {
+    "id": "C2K610",
+    "name": "草嶺石壁",
+    "county": "雲林縣",
+    "alt": 1143.0,
+    "lon": 120.707731,
+    "lat": 23.602469,
+    "status": "existing"
+  },
+  {
+    "id": "C2K620",
+    "name": "馬光農場",
+    "county": "雲林縣",
+    "alt": 24.0,
+    "lon": 120.378864,
+    "lat": 23.721453,
+    "status": "existing"
+  },
+  {
+    "id": "C2K630",
+    "name": "荷苞",
+    "county": "雲林縣",
+    "alt": 173.0,
+    "lon": 120.595144,
+    "lat": 23.657717,
+    "status": "existing"
+  },
+  {
+    "id": "C2M410",
+    "name": "馬頭山",
+    "county": "嘉義縣",
+    "alt": 245.0,
+    "lon": 120.582017,
+    "lat": 23.324361,
+    "status": "existing"
+  },
+  {
+    "id": "C2M620",
+    "name": "瑞里",
+    "county": "嘉義縣",
+    "alt": 1252.0,
+    "lon": 120.675197,
+    "lat": 23.545133,
+    "status": "existing"
+  },
+  {
+    "id": "C2M910",
+    "name": "嘉義大學",
+    "county": "嘉義市",
+    "alt": 68.0,
+    "lon": 120.485903,
+    "lat": 23.471325,
+    "status": "existing"
+  },
+  {
+    "id": "C2M920",
+    "name": "朴子農改",
+    "county": "嘉義縣",
+    "alt": 7.0,
+    "lon": 120.259383,
+    "lat": 23.469889,
+    "status": "existing"
+  },
+  {
+    "id": "C2M930",
+    "name": "石卓",
+    "county": "嘉義縣",
+    "alt": 1548.0,
+    "lon": 120.702264,
+    "lat": 23.478744,
+    "status": "existing"
+  },
+  {
+    "id": "C2M940",
+    "name": "日野賀",
+    "county": "嘉義縣",
+    "alt": 1112.0,
+    "lon": 120.727169,
+    "lat": 23.434056,
+    "status": "existing"
+  },
+  {
+    "id": "C2M950",
+    "name": "太和",
+    "county": "嘉義縣",
+    "alt": 1367.0,
+    "lon": 120.702961,
+    "lat": 23.538372,
+    "status": "existing"
+  },
+  {
+    "id": "C2M960",
+    "name": "外寮",
+    "county": "嘉義縣",
+    "alt": 1126.0,
+    "lon": 120.665688,
+    "lat": 23.562643,
+    "status": "existing"
+  },
+  {
+    "id": "C2M970",
+    "name": "碧湖",
+    "county": "嘉義縣",
+    "alt": 1019.0,
+    "lon": 120.624165,
+    "lat": 23.568632,
+    "status": "existing"
+  },
+  {
+    "id": "C2M980",
+    "name": "安和",
+    "county": "嘉義縣",
+    "alt": 42.0,
+    "lon": 120.31593,
+    "lat": 23.51377,
+    "status": "existing"
+  },
+  {
+    "id": "C2M990",
+    "name": "大巃頂",
+    "county": "嘉義縣",
+    "alt": 988.0,
+    "lon": 120.61439,
+    "lat": 23.5547,
+    "status": "existing"
+  },
+  {
+    "id": "C2N160",
+    "name": "西拉雅風管處",
+    "county": "臺南市",
+    "alt": 43.0,
+    "lon": 120.335297,
+    "lat": 23.189481,
+    "status": "existing"
+  },
+  {
+    "id": "C2N170",
+    "name": "茅港尾",
+    "county": "臺南市",
+    "alt": 69.0,
+    "lon": 120.2624,
+    "lat": 23.2061,
+    "status": "existing"
+  },
+  {
+    "id": "C2O810",
+    "name": "曾文",
+    "county": "臺南市",
+    "alt": 161.0,
+    "lon": 120.497328,
+    "lat": 23.219681,
+    "status": "existing"
+  },
+  {
+    "id": "C2O930",
+    "name": "玉井",
+    "county": "臺南市",
+    "alt": 69.0,
+    "lon": 120.46055,
+    "lat": 23.126042,
+    "status": "existing"
+  },
+  {
+    "id": "C2O950",
+    "name": "安南",
+    "county": "臺南市",
+    "alt": 4.0,
+    "lon": 120.144861,
+    "lat": 23.076694,
+    "status": "existing"
+  },
+  {
+    "id": "C2R170",
+    "name": "屏東",
+    "county": "屏東縣",
+    "alt": 35.0,
+    "lon": 120.49403,
+    "lat": 22.66027,
+    "status": "existing"
+  },
+  {
+    "id": "C2R970",
+    "name": "屏科大",
+    "county": "屏東縣",
+    "alt": 128.0,
+    "lon": 120.619247,
+    "lat": 22.648275,
+    "status": "existing"
+  },
+  {
+    "id": "C2R980",
+    "name": "竹田國中",
+    "county": "屏東縣",
+    "alt": 18.0,
+    "lon": 120.52412,
+    "lat": 22.61532,
+    "status": "existing"
+  },
+  {
+    "id": "C2R990",
+    "name": "泰武",
+    "county": "屏東縣",
+    "alt": 952.0,
+    "lon": 120.69765,
+    "lat": 22.60686,
+    "status": "existing"
+  },
+  {
+    "id": "C2RA10",
+    "name": "大新",
+    "county": "屏東縣",
+    "alt": 51.0,
+    "lon": 120.57788,
+    "lat": 22.67558,
+    "status": "existing"
+  },
+  {
+    "id": "C2TA60",
+    "name": "六十石",
+    "county": "花蓮縣",
+    "alt": 919.0,
+    "lon": 121.31861,
+    "lat": 23.22477,
+    "status": "existing"
+  },
+  {
+    "id": "C2TA70",
+    "name": "赤科坪",
+    "county": "花蓮縣",
+    "alt": 872.0,
+    "lon": 121.39168,
+    "lat": 23.39885,
+    "status": "existing"
+  },
+  {
+    "id": "C2TA90",
+    "name": "加納納",
+    "county": "花蓮縣",
+    "alt": 216.0,
+    "lon": 121.359867,
+    "lat": 23.466421,
+    "status": "existing"
+  },
+  {
+    "id": "C2TB30",
+    "name": "吉安",
+    "county": "花蓮縣",
+    "alt": 75.0,
+    "lon": 121.54803,
+    "lat": 23.94538,
+    "status": "existing"
+  },
+  {
+    "id": "C2UC10",
+    "name": "出水溪",
+    "county": "宜蘭縣",
+    "alt": 556.0,
+    "lon": 121.652253,
+    "lat": 24.615822,
+    "status": "existing"
+  },
+  {
+    "id": "C2UC20",
+    "name": "長嶺",
+    "county": "宜蘭縣",
+    "alt": 465.0,
+    "lon": 121.61162,
+    "lat": 24.70894,
+    "status": "existing"
+  },
+  {
+    "id": "C2V250",
+    "name": "甲仙",
+    "county": "高雄市",
+    "alt": 298.0,
+    "lon": 120.591758,
+    "lat": 23.080106,
+    "status": "existing"
+  },
+  {
+    "id": "C2V260",
+    "name": "月眉",
+    "county": "高雄市",
+    "alt": 126.0,
+    "lon": 120.539853,
+    "lat": 22.971003,
+    "status": "existing"
+  },
+  {
+    "id": "C2V310",
+    "name": "美濃",
+    "county": "高雄市",
+    "alt": 51.0,
+    "lon": 120.51907,
+    "lat": 22.898792,
+    "status": "existing"
+  },
+  {
+    "id": "C2W030",
+    "name": "金門農試所",
+    "county": "金門縣",
+    "alt": 24.0,
+    "lon": 118.451786,
+    "lat": 24.448431,
+    "status": "existing"
+  },
+  {
+    "id": "C2W230",
+    "name": "畜試所澎湖",
+    "county": "澎湖縣",
+    "alt": 35.0,
+    "lon": 119.513206,
+    "lat": 23.628342,
+    "status": "existing"
+  },
+  {
+    "id": "C2X060",
+    "name": "下營",
+    "county": "臺南市",
+    "alt": 3.0,
+    "lon": 120.256291,
+    "lat": 23.226806,
+    "status": "existing"
+  },
+  {
+    "id": "CAG100",
+    "name": "王功漁港",
+    "county": "彰化縣",
+    "alt": 7.0,
+    "lon": 120.32586,
+    "lat": 23.96824,
+    "status": "existing"
+  },
+  {
+    "id": "CAH030",
+    "name": "茶改場竹圍站",
+    "county": "南投縣",
+    "alt": 300.0,
+    "lon": 120.637528,
+    "lat": 23.860083,
+    "status": "existing"
+  },
+  {
+    "id": "CAJ050",
+    "name": "海口故事園區",
+    "county": "雲林縣",
+    "alt": 4.0,
+    "lon": 120.14121,
+    "lat": 23.57543,
+    "status": "existing"
+  },
+  {
+    "id": "CAL110",
+    "name": "布袋國中",
+    "county": "嘉義縣",
+    "alt": 1.1,
+    "lon": 120.18026,
+    "lat": 23.35893,
+    "status": "existing"
+  },
+  {
+    "id": "CAN130",
+    "name": "水試所海水繁養殖中心",
+    "county": "臺南市",
+    "alt": 2.3,
+    "lon": 120.07968,
+    "lat": 23.120802,
+    "status": "existing"
+  },
+  {
+    "id": "CAN140",
+    "name": "六官養殖協會",
+    "county": "臺南市",
+    "alt": 24.0,
+    "lon": 120.29962,
+    "lat": 23.22881,
+    "status": "existing"
+  },
+  {
+    "id": "CAQ030",
+    "name": "崎峰國小",
+    "county": "屏東縣",
+    "alt": 10.0,
+    "lon": 120.49521,
+    "lat": 22.42565,
+    "status": "existing"
+  },
+  {
+    "id": "CAW010",
+    "name": "東引",
+    "county": "連江縣",
+    "alt": 42.0,
+    "lon": 120.4836,
+    "lat": 26.3588,
+    "status": "existing"
+  },
+  {
+    "id": "E2H360",
+    "name": "蓮華池",
+    "county": "南投縣",
+    "alt": 681.0,
+    "lon": 120.885278,
+    "lat": 23.918333,
+    "status": "existing"
+  },
+  {
+    "id": "E2HA20",
+    "name": "林試畢祿溪站",
+    "county": "南投縣",
+    "alt": 2188.0,
+    "lon": 121.308522,
+    "lat": 24.226944,
+    "status": "existing"
+  },
+  {
+    "id": "E2K600",
+    "name": "四湖植物園",
+    "county": "雲林縣",
+    "alt": 11.0,
+    "lon": 120.163433,
+    "lat": 23.676986,
+    "status": "existing"
+  },
+  {
+    "id": "E2P980",
+    "name": "林試六龜中心",
+    "county": "高雄市",
+    "alt": 272.0,
+    "lon": 120.645722,
+    "lat": 22.991703,
+    "status": "existing"
+  },
+  {
+    "id": "E2P990",
+    "name": "林試扇平站",
+    "county": "高雄市",
+    "alt": 677.0,
+    "lon": 120.6857,
+    "lat": 22.9677,
+    "status": "existing"
+  },
+  {
+    "id": "E2S390",
+    "name": "太麻里分所",
+    "county": "臺東縣",
+    "alt": 90.0,
+    "lon": 120.9811,
+    "lat": 22.5988,
+    "status": "revoked"
+  },
+  {
+    "id": "E2S960",
+    "name": "林試太麻里2",
+    "county": "臺東縣",
+    "alt": 26.0,
+    "lon": 120.99775,
+    "lat": 22.598,
+    "status": "existing"
+  },
+  {
+    "id": "E2S980",
+    "name": "林試太麻里1",
+    "county": "臺東縣",
+    "alt": 100.0,
+    "lon": 120.980044,
+    "lat": 22.598922,
+    "status": "existing"
+  },
+  {
+    "id": "G2AI50",
+    "name": "關渡",
+    "county": "臺北市",
+    "alt": 9.0,
+    "lon": 121.492,
+    "lat": 25.11575,
+    "status": "existing"
+  },
+  {
+    "id": "G2F820",
+    "name": "農試所(霧峰)",
+    "county": "臺中市",
+    "alt": 90.0,
+    "lon": 120.688133,
+    "lat": 24.031261,
+    "status": "existing"
+  },
+  {
+    "id": "G2L020",
+    "name": "農試嘉義分所",
+    "county": "嘉義市",
+    "alt": 79.0,
+    "lon": 120.473806,
+    "lat": 23.485028,
+    "status": "existing"
+  },
+  {
+    "id": "G2M350",
+    "name": "農試溪口農場",
+    "county": "嘉義縣",
+    "alt": 26.0,
+    "lon": 120.408111,
+    "lat": 23.58565,
+    "status": "existing"
+  },
+  {
+    "id": "G2P820",
+    "name": "農試鳳山分所",
+    "county": "高雄市",
+    "alt": 37.0,
+    "lon": 120.356083,
+    "lat": 22.646611,
+    "status": "existing"
+  },
+  {
+    "id": "K2E360",
+    "name": "苗栗農改場",
+    "county": "苗栗縣",
+    "alt": 100.0,
+    "lon": 120.829111,
+    "lat": 24.495722,
+    "status": "existing"
+  },
+  {
+    "id": "K2E710",
+    "name": "苗改生物防治研究中心",
+    "county": "苗栗縣",
+    "alt": 286.0,
+    "lon": 120.871833,
+    "lat": 24.422861,
+    "status": "existing"
+  },
+  {
+    "id": "K2F750",
+    "name": "種苗改良場",
+    "county": "臺中市",
+    "alt": 470.0,
+    "lon": 120.800917,
+    "lat": 24.225972,
+    "status": "existing"
+  },
+  {
+    "id": "U2H480",
+    "name": "溪頭",
+    "county": "南投縣",
+    "alt": 1150.0,
+    "lon": 120.798194,
+    "lat": 23.670306,
+    "status": "existing"
+  },
+  {
+    "id": "U2HA30",
+    "name": "臺大和社",
+    "county": "南投縣",
+    "alt": 772.0,
+    "lon": 120.888864,
+    "lat": 23.590856,
+    "status": "existing"
+  },
+  {
+    "id": "U2HA40",
+    "name": "臺大內茅埔",
+    "county": "南投縣",
+    "alt": 507.0,
+    "lon": 120.851117,
+    "lat": 23.689722,
+    "status": "existing"
+  },
+  {
+    "id": "U2HA50",
+    "name": "臺大竹山",
+    "county": "南投縣",
+    "alt": 156.0,
+    "lon": 120.681556,
+    "lat": 23.756972,
+    "status": "existing"
+  },
+  {
+    "id": "V2C250",
+    "name": "八德合作社",
+    "county": "桃園市",
+    "alt": 150.0,
+    "lon": 121.266389,
+    "lat": 24.93775,
+    "status": "existing"
+  },
+  {
+    "id": "V2C260",
+    "name": "八德蔬果",
+    "county": "桃園市",
+    "alt": 103.0,
+    "lon": 121.281819,
+    "lat": 24.978508,
+    "status": "existing"
+  },
+  {
+    "id": "V2K610",
+    "name": "大庄合作社",
+    "county": "雲林縣",
+    "alt": 23.0,
+    "lon": 120.367939,
+    "lat": 23.8068,
+    "status": "existing"
+  },
+  {
+    "id": "V2K620",
+    "name": "麥寮合作社",
+    "county": "雲林縣",
+    "alt": 9.0,
+    "lon": 120.294783,
+    "lat": 23.753836,
+    "status": "existing"
+  }
+]

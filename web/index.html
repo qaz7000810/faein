@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>氣象觀測與颱風放假視覺化</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+  <header class="header">
+    <div>
+      <p class="eyebrow">1987 - 2025 | 臺灣氣象站歷史數據</p>
+      <h1>臺灣氣象探索板</h1>
+      <p class="subtitle">切換分頁可查看歷史氣象趨勢，或是各路徑颱風的放假機率與軌跡。</p>
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab-target="historical">歷史氣象數據</button>
+    <button class="tab-btn" data-tab-target="typhoon">颱風放假機率</button>
+  </nav>
+
+  <main class="tab-panel active" data-tab="historical">
+    <section class="panel">
+      <div class="controls">
+        <div class="control">
+          <label for="countySelect">縣市</label>
+          <select id="countySelect"></select>
+        </div>
+        <div class="control">
+          <label for="stationSelect">測站</label>
+          <select id="stationSelect"></select>
+        </div>
+        <div class="control">
+          <label>指標</label>
+          <div class="pill">一次載入 5 個指標：氣溫、雨量、濕度、風速、日照</div>
+        </div>
+        <div class="control">
+          <label for="rollupSelect">時間尺度</label>
+          <select id="rollupSelect">
+            <option value="day">日尺度（如有日彙整檔優先）</option>
+            <option value="hour">小時尺度</option>
+          </select>
+        </div>
+        <div class="control buttons">
+          <button id="loadBtn" class="primary">重新載入</button>
+          <button id="clearBtn" class="ghost">清空圖表</button>
+        </div>
+        <div class="control">
+          <label>狀態</label>
+          <div class="status" id="status">尚未載入</div>
+        </div>
+      </div>
+
+      <div class="timeline">
+        <div class="timeline-row">
+          <label>起迄月份</label>
+          <span id="rangeLabel"></span>
+        </div>
+        <div class="slider">
+          <input type="range" id="rangeStart" min="0" max="0" step="1" value="0" />
+          <input type="range" id="rangeEnd" min="0" max="0" step="1" value="0" />
+        </div>
+      </div>
+    </section>
+
+    <section class="panel chart-panel">
+      <div class="chart-header">
+        <div>
+          <p class="eyebrow">互動折線圖</p>
+          <h2 id="chartTitle">尚未載入資料</h2>
+        </div>
+      </div>
+      <div class="chart-grid">
+        <div class="chart-card">
+          <div class="chart-card-header">氣溫 (°C)</div>
+          <div class="chart-shell"><canvas id="chart-TX01"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-card-header">降雨量 (mm)</div>
+          <div class="chart-shell"><canvas id="chart-PP01"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-card-header">相對濕度 (%)</div>
+          <div class="chart-shell"><canvas id="chart-RH01"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-card-header">風速 (m/s)</div>
+          <div class="chart-shell"><canvas id="chart-WD01"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-card-header">日照時數 (hr)</div>
+          <div class="chart-shell"><canvas id="chart-SS01"></canvas></div>
+        </div>
+      </div>
+      <div class="hint">
+        <p>提示：若有日彙整檔（<code>web/data/daily/*.daily.json</code>）會優先採用，載入較快；若需逐小時則改用原始 <code>*.auto_hr.txt</code>。</p>
+        <p>若看到 404，請在專案根目錄啟動本機伺服器（例：<code>python -m http.server 8000</code>），並確認 <code>Package_19460/Package_19460/*.auto_hr.txt</code> 可被讀取。</p>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="meta">
+        <div>
+          <p class="eyebrow">檔案索引</p>
+          <p>資料來源：<code>Package_19460/Package_19460/*.auto_hr.txt</code></p>
+          <p>索引檔：<code>web/data/fileIndex.json</code>（由 <code>scripts/build_file_index.js</code> 產生）</p>
+        </div>
+        <div>
+          <p class="eyebrow">測站清單</p>
+          <p>官方測站清單（含縣市欄位）來源 <code>web/data/stations_meta.json</code></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <main class="tab-panel" data-tab="typhoon">
+    <section class="panel">
+      <div class="typhoon-controls">
+        <div>
+          <p class="eyebrow">颱風路徑 + 放假機率</p>
+          <h2>各路徑歷史軌跡與縣市放假機率</h2>
+        </div>
+        <div class="control">
+          <label for="typhoonPathSelect">選擇路徑</label>
+          <select id="typhoonPathSelect"></select>
+        </div>
+        <div class="control">
+          <label for="typhoonNameSelect">選擇颱風名稱</label>
+          <select id="typhoonNameSelect" disabled>
+            <option value="">請先選擇路徑</option>
+          </select>
+        </div>
+        <div class="status" id="typhoonStatus">載入中...</div>
+      </div>
+
+      <div class="typhoon-layout">
+        <div id="typhoonMap" class="map-shell"></div>
+        <div class="typhoon-side">
+          <div class="legend" id="typhoonLegend">
+            <div class="legend-title">放假機率色階</div>
+            <div class="legend-row"><span class="swatch" style="background:#1E90FF"></span>1-20% (極低)</div>
+            <div class="legend-row"><span class="swatch" style="background:#32CD32"></span>21-40% (低)</div>
+            <div class="legend-row"><span class="swatch" style="background:#FFFF00"></span>41-60% (中低)</div>
+            <div class="legend-row"><span class="swatch" style="background:#FF8C00"></span>61-80% (中高)</div>
+            <div class="legend-row"><span class="swatch" style="background:#FF0000"></span>81-100% (高)</div>
+          </div>
+          <div class="table-card">
+            <div class="table-header">縣市放假機率</div>
+            <table>
+              <thead>
+                <tr><th>縣市</th><th>機率 (%)</th></tr>
+              </thead>
+              <tbody id="typhoonTable"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="./app.js" type="module"></script>
+</body>
+</html>

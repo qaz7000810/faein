@@ -1,0 +1,894 @@
+{
+  "paths": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9
+  ],
+  "records": [
+    {
+      "county": "基隆市",
+      "path": 1,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "臺北市",
+      "path": 1,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "新北市",
+      "path": 1,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "桃園市",
+      "path": 1,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "新竹市",
+      "path": 1,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "新竹縣",
+      "path": 1,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "苗栗縣",
+      "path": 1,
+      "probability": 85.71428571428571
+    },
+    {
+      "county": "臺中市",
+      "path": 1,
+      "probability": 42.857142857142854
+    },
+    {
+      "county": "彰化縣",
+      "path": 1,
+      "probability": 28.57142857142857
+    },
+    {
+      "county": "雲林縣",
+      "path": 1,
+      "probability": 0.0
+    },
+    {
+      "county": "南投縣",
+      "path": 1,
+      "probability": 42.857142857142854
+    },
+    {
+      "county": "嘉義市",
+      "path": 1,
+      "probability": 0.0
+    },
+    {
+      "county": "嘉義縣",
+      "path": 1,
+      "probability": 28.57142857142857
+    },
+    {
+      "county": "臺南市",
+      "path": 1,
+      "probability": 0.0
+    },
+    {
+      "county": "高雄市",
+      "path": 1,
+      "probability": 14.285714285714285
+    },
+    {
+      "county": "屏東縣",
+      "path": 1,
+      "probability": 14.285714285714285
+    },
+    {
+      "county": "宜蘭縣",
+      "path": 1,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "花蓮縣",
+      "path": 1,
+      "probability": 14.285714285714285
+    },
+    {
+      "county": "臺東縣",
+      "path": 1,
+      "probability": 0.0
+    },
+    {
+      "county": "澎湖縣",
+      "path": 1,
+      "probability": 0.0
+    },
+    {
+      "county": "連江縣",
+      "path": 1,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "金門縣",
+      "path": 1,
+      "probability": 28.57142857142857
+    },
+    {
+      "county": "基隆市",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "臺北市",
+      "path": 2,
+      "probability": 80.0
+    },
+    {
+      "county": "新北市",
+      "path": 2,
+      "probability": 80.0
+    },
+    {
+      "county": "桃園市",
+      "path": 2,
+      "probability": 80.0
+    },
+    {
+      "county": "新竹市",
+      "path": 2,
+      "probability": 80.0
+    },
+    {
+      "county": "新竹縣",
+      "path": 2,
+      "probability": 80.0
+    },
+    {
+      "county": "苗栗縣",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "臺中市",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "彰化縣",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "雲林縣",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "南投縣",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "嘉義市",
+      "path": 2,
+      "probability": 80.0
+    },
+    {
+      "county": "嘉義縣",
+      "path": 2,
+      "probability": 100.0
+    },
+    {
+      "county": "臺南市",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "高雄市",
+      "path": 2,
+      "probability": 80.0
+    },
+    {
+      "county": "屏東縣",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "宜蘭縣",
+      "path": 2,
+      "probability": 100.0
+    },
+    {
+      "county": "花蓮縣",
+      "path": 2,
+      "probability": 90.0
+    },
+    {
+      "county": "臺東縣",
+      "path": 2,
+      "probability": 80.0
+    },
+    {
+      "county": "澎湖縣",
+      "path": 2,
+      "probability": 70.0
+    },
+    {
+      "county": "連江縣",
+      "path": 2,
+      "probability": 60.0
+    },
+    {
+      "county": "金門縣",
+      "path": 2,
+      "probability": 40.0
+    },
+    {
+      "county": "基隆市",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "臺北市",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "新北市",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "桃園市",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "新竹市",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "新竹縣",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "苗栗縣",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "臺中市",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "彰化縣",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "雲林縣",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "南投縣",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "嘉義市",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "嘉義縣",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "臺南市",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "高雄市",
+      "path": 3,
+      "probability": 83.33333333333334
+    },
+    {
+      "county": "屏東縣",
+      "path": 3,
+      "probability": 83.33333333333334
+    },
+    {
+      "county": "宜蘭縣",
+      "path": 3,
+      "probability": 83.33333333333334
+    },
+    {
+      "county": "花蓮縣",
+      "path": 3,
+      "probability": 91.66666666666666
+    },
+    {
+      "county": "臺東縣",
+      "path": 3,
+      "probability": 91.66666666666666
+    },
+    {
+      "county": "澎湖縣",
+      "path": 3,
+      "probability": 83.33333333333334
+    },
+    {
+      "county": "連江縣",
+      "path": 3,
+      "probability": 75.0
+    },
+    {
+      "county": "金門縣",
+      "path": 3,
+      "probability": 66.66666666666666
+    },
+    {
+      "county": "基隆市",
+      "path": 4,
+      "probability": 25.0
+    },
+    {
+      "county": "臺北市",
+      "path": 4,
+      "probability": 25.0
+    },
+    {
+      "county": "新北市",
+      "path": 4,
+      "probability": 25.0
+    },
+    {
+      "county": "桃園市",
+      "path": 4,
+      "probability": 25.0
+    },
+    {
+      "county": "新竹市",
+      "path": 4,
+      "probability": 37.5
+    },
+    {
+      "county": "新竹縣",
+      "path": 4,
+      "probability": 37.5
+    },
+    {
+      "county": "苗栗縣",
+      "path": 4,
+      "probability": 37.5
+    },
+    {
+      "county": "臺中市",
+      "path": 4,
+      "probability": 50.0
+    },
+    {
+      "county": "彰化縣",
+      "path": 4,
+      "probability": 50.0
+    },
+    {
+      "county": "雲林縣",
+      "path": 4,
+      "probability": 50.0
+    },
+    {
+      "county": "南投縣",
+      "path": 4,
+      "probability": 62.5
+    },
+    {
+      "county": "嘉義市",
+      "path": 4,
+      "probability": 50.0
+    },
+    {
+      "county": "嘉義縣",
+      "path": 4,
+      "probability": 50.0
+    },
+    {
+      "county": "臺南市",
+      "path": 4,
+      "probability": 75.0
+    },
+    {
+      "county": "高雄市",
+      "path": 4,
+      "probability": 75.0
+    },
+    {
+      "county": "屏東縣",
+      "path": 4,
+      "probability": 100.0
+    },
+    {
+      "county": "宜蘭縣",
+      "path": 4,
+      "probability": 62.5
+    },
+    {
+      "county": "花蓮縣",
+      "path": 4,
+      "probability": 87.5
+    },
+    {
+      "county": "臺東縣",
+      "path": 4,
+      "probability": 87.5
+    },
+    {
+      "county": "澎湖縣",
+      "path": 4,
+      "probability": 75.0
+    },
+    {
+      "county": "連江縣",
+      "path": 4,
+      "probability": 37.5
+    },
+    {
+      "county": "金門縣",
+      "path": 4,
+      "probability": 62.5
+    },
+    {
+      "county": "基隆市",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "臺北市",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "新北市",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "桃園市",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "新竹市",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "新竹縣",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "苗栗縣",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "臺中市",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "彰化縣",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "雲林縣",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "南投縣",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "嘉義市",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "嘉義縣",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "臺南市",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "高雄市",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "屏東縣",
+      "path": 5,
+      "probability": 100.0
+    },
+    {
+      "county": "宜蘭縣",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "花蓮縣",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "臺東縣",
+      "path": 5,
+      "probability": 100.0
+    },
+    {
+      "county": "澎湖縣",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "連江縣",
+      "path": 5,
+      "probability": 0.0
+    },
+    {
+      "county": "金門縣",
+      "path": 5,
+      "probability": 50.0
+    },
+    {
+      "county": "基隆市",
+      "path": 6,
+      "probability": 42.857142857142854
+    },
+    {
+      "county": "臺北市",
+      "path": 6,
+      "probability": 42.857142857142854
+    },
+    {
+      "county": "新北市",
+      "path": 6,
+      "probability": 57.14285714285714
+    },
+    {
+      "county": "桃園市",
+      "path": 6,
+      "probability": 42.857142857142854
+    },
+    {
+      "county": "新竹市",
+      "path": 6,
+      "probability": 28.57142857142857
+    },
+    {
+      "county": "新竹縣",
+      "path": 6,
+      "probability": 57.14285714285714
+    },
+    {
+      "county": "苗栗縣",
+      "path": 6,
+      "probability": 14.285714285714285
+    },
+    {
+      "county": "臺中市",
+      "path": 6,
+      "probability": 28.57142857142857
+    },
+    {
+      "county": "彰化縣",
+      "path": 6,
+      "probability": 0.0
+    },
+    {
+      "county": "雲林縣",
+      "path": 6,
+      "probability": 14.285714285714285
+    },
+    {
+      "county": "南投縣",
+      "path": 6,
+      "probability": 0.0
+    },
+    {
+      "county": "嘉義市",
+      "path": 6,
+      "probability": 14.285714285714285
+    },
+    {
+      "county": "嘉義縣",
+      "path": 6,
+      "probability": 28.57142857142857
+    },
+    {
+      "county": "臺南市",
+      "path": 6,
+      "probability": 14.285714285714285
+    },
+    {
+      "county": "高雄市",
+      "path": 6,
+      "probability": 28.57142857142857
+    },
+    {
+      "county": "屏東縣",
+      "path": 6,
+      "probability": 42.857142857142854
+    },
+    {
+      "county": "宜蘭縣",
+      "path": 6,
+      "probability": 57.14285714285714
+    },
+    {
+      "county": "花蓮縣",
+      "path": 6,
+      "probability": 71.42857142857143
+    },
+    {
+      "county": "臺東縣",
+      "path": 6,
+      "probability": 85.71428571428571
+    },
+    {
+      "county": "澎湖縣",
+      "path": 6,
+      "probability": 0.0
+    },
+    {
+      "county": "連江縣",
+      "path": 6,
+      "probability": 14.285714285714285
+    },
+    {
+      "county": "金門縣",
+      "path": 6,
+      "probability": 0.0
+    },
+    {
+      "county": "基隆市",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "臺北市",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "新北市",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "桃園市",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "新竹市",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "新竹縣",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "苗栗縣",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "臺中市",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "彰化縣",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "雲林縣",
+      "path": 7,
+      "probability": 75.0
+    },
+    {
+      "county": "南投縣",
+      "path": 7,
+      "probability": 75.0
+    },
+    {
+      "county": "嘉義市",
+      "path": 7,
+      "probability": 75.0
+    },
+    {
+      "county": "嘉義縣",
+      "path": 7,
+      "probability": 75.0
+    },
+    {
+      "county": "臺南市",
+      "path": 7,
+      "probability": 100.0
+    },
+    {
+      "county": "高雄市",
+      "path": 7,
+      "probability": 100.0
+    },
+    {
+      "county": "屏東縣",
+      "path": 7,
+      "probability": 100.0
+    },
+    {
+      "county": "宜蘭縣",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "花蓮縣",
+      "path": 7,
+      "probability": 100.0
+    },
+    {
+      "county": "臺東縣",
+      "path": 7,
+      "probability": 100.0
+    },
+    {
+      "county": "澎湖縣",
+      "path": 7,
+      "probability": 100.0
+    },
+    {
+      "county": "連江縣",
+      "path": 7,
+      "probability": 50.0
+    },
+    {
+      "county": "金門縣",
+      "path": 7,
+      "probability": 100.0
+    },
+    {
+      "county": "基隆市",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "臺北市",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "新北市",
+      "path": 9,
+      "probability": 33.33333333333333
+    },
+    {
+      "county": "桃園市",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "新竹市",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "新竹縣",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "苗栗縣",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "臺中市",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "彰化縣",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "雲林縣",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "南投縣",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "嘉義市",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "嘉義縣",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "臺南市",
+      "path": 9,
+      "probability": 50.0
+    },
+    {
+      "county": "高雄市",
+      "path": 9,
+      "probability": 50.0
+    },
+    {
+      "county": "屏東縣",
+      "path": 9,
+      "probability": 66.66666666666666
+    },
+    {
+      "county": "宜蘭縣",
+      "path": 9,
+      "probability": 33.33333333333333
+    },
+    {
+      "county": "花蓮縣",
+      "path": 9,
+      "probability": 16.666666666666664
+    },
+    {
+      "county": "臺東縣",
+      "path": 9,
+      "probability": 66.66666666666666
+    },
+    {
+      "county": "澎湖縣",
+      "path": 9,
+      "probability": 83.33333333333334
+    },
+    {
+      "county": "連江縣",
+      "path": 9,
+      "probability": 33.33333333333333
+    },
+    {
+      "county": "金門縣",
+      "path": 9,
+      "probability": 66.66666666666666
+    }
+  ]
+}
