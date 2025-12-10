@@ -520,7 +520,7 @@ async function initTyphoonView() {
     await loadTyphoonAssets();
     buildTyphoonPathOptions();
     renderTyphoonPath("all");
-    setTyphoonStatus("已載入雅涵分業資料");
+    setTyphoonStatus("已載入颱風資料");
   } catch (err) {
     console.error(err);
     setTyphoonStatus("載入颱風資料失敗，請檢查 web/data/typhoon");
