@@ -501,7 +501,7 @@ function hexToRgba(hex, alpha) {
 
 function colorByValue(value) {
   const v = Number(value);
-  if (!Number.isFinite(v) || v <= 0) return "#ffffff";
+  if (!Number.isFinite(v) || v <= 0) return "#ffffffff"; // 無資料或 0
   if (v <= 20) return "#1E90FF";
   if (v <= 40) return "#32CD32";
   if (v <= 60) return "#FFFF00";
