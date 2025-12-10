@@ -23,6 +23,17 @@ const dom = {
   typhoonStatus: document.getElementById("typhoonStatus"),
   typhoonTable: document.getElementById("typhoonTable"),
   typhoonNameSelect: document.getElementById("typhoonNameSelect"),
+  realtimeStatus: document.getElementById("realtimeStatus"),
+  realtimeCounty: document.getElementById("realtimeCounty"),
+  alertList: document.getElementById("alertList"),
+  forecastSlots: document.getElementById("forecastSlots"),
+  refreshRealtimeBtn: document.getElementById("refreshRealtimeBtn"),
+  reloadAlertsBtn: document.getElementById("reloadAlertsBtn"),
+  reloadForecastBtn: document.getElementById("reloadForecastBtn"),
+  reloadLiveTyphoonBtn: document.getElementById("reloadLiveTyphoonBtn"),
+  clearRealtimeBtn: document.getElementById("clearRealtimeBtn"),
+  liveTyphoonMap: document.getElementById("liveTyphoonMap"),
+  typhoonLiveList: document.getElementById("typhoonLiveList"),
 };
 
 let fileIndex = [];
@@ -43,6 +54,40 @@ const typhoonState = {
   selectedPath: null,
 };
 
+const realtimeState = {
+  forecastCache: new Map(),
+  alertCache: null,
+  typhoonMap: null,
+  typhoonLayer: null,
+  countiesGeo: null,
+};
+
+const CWA_BASE = "https://faein.climate-quiz-yuchen.workers.dev/api/v1/rest/datastore";
+const CWA_COUNTIES = [
+  "基隆市",
+  "臺北市",
+  "新北市",
+  "桃園市",
+  "新竹縣",
+  "新竹市",
+  "苗栗縣",
+  "臺中市",
+  "彰化縣",
+  "南投縣",
+  "雲林縣",
+  "嘉義縣",
+  "嘉義市",
+  "臺南市",
+  "高雄市",
+  "屏東縣",
+  "宜蘭縣",
+  "花蓮縣",
+  "臺東縣",
+  "澎湖縣",
+  "金門縣",
+  "連江縣",
+];
+
 document.addEventListener("DOMContentLoaded", init);
 
 async function init() {
@@ -55,6 +100,7 @@ async function init() {
   updateLoadButtonState();
   setStatus("請先選測站或縣市與時間區間，再點重新載入。");
   initTyphoonView();
+  initRealtimeView();
 }
 
 function bindTabs() {
@@ -67,6 +113,10 @@ function bindTabs() {
         // Leaflet needs a size refresh when container switches from display:none
         requestAnimationFrame(() => {
           ensureTyphoonMapSized();
+        });
+      } else if (target === "realtime") {
+        requestAnimationFrame(() => {
+          ensureRealtimeMapSized();
         });
       }
     });
@@ -94,6 +144,18 @@ function bindEvents() {
     const pathVal = dom.typhoonPathSelect.value;
     renderTyphoonPath(pathVal, dom.typhoonNameSelect.value || null);
   });
+  dom.realtimeCounty?.addEventListener("change", () => {
+    loadForecast(dom.realtimeCounty.value);
+  });
+  dom.refreshRealtimeBtn?.addEventListener("click", refreshRealtimeAll);
+  dom.reloadAlertsBtn?.addEventListener("click", loadWeatherAlerts);
+  dom.reloadForecastBtn?.addEventListener("click", () => {
+    if (dom.realtimeCounty?.value) {
+      loadForecast(dom.realtimeCounty.value);
+    }
+  });
+  dom.reloadLiveTyphoonBtn?.addEventListener("click", loadLiveTyphoon);
+  dom.clearRealtimeBtn?.addEventListener("click", clearRealtimeDisplay);
 }
 
 async function loadIndex() {
@@ -738,4 +800,475 @@ function ensureTyphoonMapSized() {
       typhoonState.map.fitBounds(bounds, { padding: [20, 20] });
     }
   }
+}
+
+// ----------------- 定位並自動套用縣市 -----------------
+
+function requestUserLocation() {
+  if (!navigator.geolocation) {
+    setRealtimeStatus("瀏覽器不支援定位，請手動選縣市。");
+    return;
+  }
+  navigator.geolocation.getCurrentPosition(
+    async (pos) => {
+      const { latitude, longitude } = pos.coords;
+      setRealtimeStatus("定位成功，判斷所屬縣市中…");
+      try {
+        const county = await resolveCountyByPoint(longitude, latitude);
+        if (county && dom.realtimeCounty) {
+          dom.realtimeCounty.value = county;
+          setRealtimeStatus(`已定位到 ${county}，自動載入資料。`);
+          refreshRealtimeAll();
+        } else {
+          setRealtimeStatus("定位完成，但無法對應縣市，請手動選擇。");
+        }
+      } catch (err) {
+        console.error(err);
+        setRealtimeStatus("定位成功但對應縣市失敗，請手動選擇。");
+      }
+    },
+    (err) => {
+      console.warn("Geolocation error", err);
+      setRealtimeStatus("無法取得定位，請手動選縣市。");
+    },
+    { enableHighAccuracy: false, timeout: 8000, maximumAge: 300000 }
+  );
+}
+
+async function ensureCountiesGeo() {
+  if (realtimeState.countiesGeo) return realtimeState.countiesGeo;
+  if (typhoonState.countiesGeo) {
+    realtimeState.countiesGeo = typhoonState.countiesGeo;
+    return realtimeState.countiesGeo;
+  }
+  const res = await fetch("./data/typhoon/counties.geojson");
+  if (!res.ok) throw new Error("無法載入縣市邊界資料");
+  realtimeState.countiesGeo = await res.json();
+  return realtimeState.countiesGeo;
+}
+
+async function resolveCountyByPoint(lon, lat) {
+  const geo = await ensureCountiesGeo();
+  const features = geo.features || [];
+  const pt = [Number(lon), Number(lat)];
+  for (const f of features) {
+    if (!f.geometry) continue;
+    if (geometryContainsPoint(f.geometry, pt)) {
+      const name = f.properties?.COUNTYNAME || f.properties?.name;
+      if (name) return normalizeCountyName(name);
+    }
+  }
+  return null;
+}
+
+function geometryContainsPoint(geom, pt) {
+  if (!geom || !geom.type) return false;
+  if (geom.type === "Polygon") {
+    return polygonContainsPoint(geom.coordinates, pt);
+  }
+  if (geom.type === "MultiPolygon") {
+    return geom.coordinates.some((poly) => polygonContainsPoint(poly, pt));
+  }
+  return false;
+}
+
+function polygonContainsPoint(rings, pt) {
+  if (!rings || !rings.length) return false;
+  const [x, y] = pt;
+  const ring = rings[0];
+  let inside = false;
+  for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+    const xi = ring[i][0], yi = ring[i][1];
+    const xj = ring[j][0], yj = ring[j][1];
+    const intersect = yi > y !== yj > y && x < ((xj - xi) * (y - yi)) / (yj - yi) + xi;
+    if (intersect) inside = !inside;
+  }
+  return inside;
+}
+
+// ----------------- 即時資料 -----------------
+
+function initRealtimeView() {
+  if (!dom.realtimeCounty) return;
+  buildRealtimeCountyOptions();
+  setRealtimeStatus("已使用 Cloudflare Proxy，直接點「更新全部」即可。");
+  initRealtimeMap();
+  requestUserLocation();
+}
+
+function buildRealtimeCountyOptions() {
+  if (!dom.realtimeCounty) return;
+  const opts = CWA_COUNTIES.map((c) => `<option value="${c}">${c}</option>`);
+  dom.realtimeCounty.innerHTML = opts.join("");
+  dom.realtimeCounty.value = "臺北市";
+}
+
+function setRealtimeStatus(text) {
+  if (dom.realtimeStatus) {
+    dom.realtimeStatus.textContent = text;
+  }
+}
+
+function initRealtimeMap() {
+  if (!dom.liveTyphoonMap || realtimeState.typhoonMap) return;
+  realtimeState.typhoonMap = L.map("liveTyphoonMap", { zoomControl: true }).setView([23.5, 121], 6);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 10,
+    attribution: "&copy; OpenStreetMap contributors",
+  }).addTo(realtimeState.typhoonMap);
+}
+
+function ensureRealtimeMapSized() {
+  if (!realtimeState.typhoonMap) return;
+  realtimeState.typhoonMap.invalidateSize();
+  if (realtimeState.typhoonLayer) {
+    const bounds = realtimeState.typhoonLayer.getBounds();
+    if (bounds && bounds.isValid()) {
+      realtimeState.typhoonMap.fitBounds(bounds, { padding: [20, 20] });
+    }
+  }
+}
+
+async function refreshRealtimeAll() {
+  setRealtimeStatus("更新中...");
+  const county = dom.realtimeCounty?.value || CWA_COUNTIES[0];
+  try {
+    await Promise.all([loadWeatherAlerts(), loadForecast(county), loadLiveTyphoon()]);
+    setRealtimeStatus("已完成最新一次更新。");
+  } catch (err) {
+    console.error(err);
+    setRealtimeStatus(err.message || "更新即時資料失敗");
+  }
+}
+
+function clearRealtimeDisplay() {
+  if (dom.alertList) dom.alertList.innerHTML = "";
+  if (dom.forecastSlots) dom.forecastSlots.innerHTML = "";
+  if (dom.typhoonLiveList) dom.typhoonLiveList.innerHTML = "";
+  if (realtimeState.typhoonLayer && realtimeState.typhoonMap) {
+    realtimeState.typhoonMap.removeLayer(realtimeState.typhoonLayer);
+    realtimeState.typhoonLayer = null;
+  }
+  setRealtimeStatus("已清空資料。");
+}
+
+async function fetchCwaDataset(datasetId, params = {}) {
+  const search = new URLSearchParams({ format: "JSON", ...params });
+  const url = `${CWA_BASE}/${datasetId}?${search.toString()}`;
+  const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error(`無法取得 ${datasetId}（${res.status}）`);
+  }
+  const data = await res.json();
+  if (data?.success === "false") {
+    const msg = data?.result?.message || "CWA 回應錯誤";
+    throw new Error(msg);
+  }
+  return data;
+}
+
+async function loadWeatherAlerts() {
+  setRealtimeStatus("讀取天氣警特報...");
+  try {
+    const data = await fetchCwaDataset("W-C0033-001");
+    const list = normalizeAlerts(data);
+    renderAlerts(list);
+    realtimeState.alertCache = list;
+    setRealtimeStatus(list.length ? `已更新 ${list.length} 則警特報` : "目前無警特報。");
+  } catch (err) {
+    console.error(err);
+    renderAlerts([]);
+    setRealtimeStatus(err.message || "讀取警特報失敗");
+  }
+}
+
+function normalizeAlerts(payload) {
+  const records = payload?.records || payload?.Records || {};
+  const list = [];
+  const locs = records.location || records.locations || [];
+  locs.forEach((loc) => {
+    const hazards = loc.hazardConditions?.hazardCondition || loc.hazardCondition || loc.conditions || [];
+    hazards.forEach((h) => {
+      list.push({
+        area: loc.locationName || loc.county || h.locationName || h.areaName || "全區",
+        title: h.event || h.hazardDesc || h.hazardType || h.headline || "警特報",
+        desc: h.description || h.hazardDesc || h.info || h.content || "",
+        start: h.startTime || h.start || h.publishTime || h.time?.start,
+        end: h.endTime || h.end || h.time?.end,
+        severity: h.severity || h.significance || h.alertLevel,
+      });
+    });
+  });
+  const direct = records.alert || records.alerts;
+  if (Array.isArray(direct)) {
+    direct.forEach((h) => {
+      list.push({
+        area: h.areaName || h.locationName || "全區",
+        title: h.title || h.headline || h.event || "警特報",
+        desc: h.description || h.summary || "",
+        start: h.startTime || h.publishTime,
+        end: h.endTime,
+        severity: h.severity || h.significance,
+      });
+    });
+  }
+  return list;
+}
+
+function renderAlerts(list) {
+  if (!dom.alertList) return;
+  if (!list.length) {
+    dom.alertList.innerHTML = '<div class="alert-item">目前沒有警特報。</div>';
+    dom.alertList.classList.add("ghost-status");
+    return;
+  }
+  dom.alertList.classList.remove("ghost-status");
+  dom.alertList.innerHTML = list
+    .map((a) => {
+      const range = formatTimeRange(a.start, a.end);
+      return `<div class="alert-item">
+        <h4 class="alert-title">${sanitizeText(a.title || "警特報")}</h4>
+        <div class="alert-meta">
+          ${a.area ? `<span class="badge">影響區：${sanitizeText(a.area)}</span>` : ""}
+          ${a.severity ? `<span class="badge">${sanitizeText(a.severity)}</span>` : ""}
+          ${range ? `<span>${sanitizeText(range)}</span>` : ""}
+        </div>
+        ${a.desc ? `<p class="alert-desc">${sanitizeText(a.desc)}</p>` : ""}
+      </div>`;
+    })
+    .join("");
+}
+
+async function loadForecast(county) {
+  if (!county) return;
+  setRealtimeStatus(`讀取 ${county} 36 小時預報...`);
+  try {
+    const data = await fetchCwaDataset("F-C0032-001", { locationName: county });
+    const slots = normalizeForecast(data, county);
+    realtimeState.forecastCache.set(county, slots);
+    renderForecast(slots, county);
+    setRealtimeStatus(`已更新 ${county} 預報。`);
+  } catch (err) {
+    console.error(err);
+    renderForecast([], county);
+    setRealtimeStatus(err.message || `讀取 ${county} 預報失敗`);
+  }
+}
+
+function normalizeForecast(payload, county) {
+  const records = payload?.records || {};
+  const locs = records.location || records.locations || [];
+  const loc = locs.find((l) => l.locationName === county) || locs[0];
+  if (!loc) return [];
+  const elementMap = new Map();
+  (loc.weatherElement || []).forEach((el) => {
+    elementMap.set(el.elementName, el.time || []);
+  });
+  const lengths = Array.from(elementMap.values()).map((v) => v.length);
+  const slotCount = lengths.length ? Math.max(...lengths) : 0;
+  const slots = [];
+  for (let i = 0; i < slotCount; i += 1) {
+    slots.push({
+      start: readElementTime(elementMap, i, "start"),
+      end: readElementTime(elementMap, i, "end"),
+      wx: readElementValue(elementMap, "Wx", i),
+      pop: readElementValue(elementMap, "PoP12h", i) ?? readElementValue(elementMap, "PoP", i),
+      minT: readElementValue(elementMap, "MinT", i) ?? readElementValue(elementMap, "T", i),
+      maxT: readElementValue(elementMap, "MaxT", i),
+      ci: readElementValue(elementMap, "CI", i),
+      rh: readElementValue(elementMap, "RH", i),
+      location: loc.locationName || county,
+    });
+  }
+  return slots.filter((s) => s.start || s.wx || s.pop || s.minT || s.maxT);
+}
+
+function readElementTime(map, idx, key) {
+  for (const arr of map.values()) {
+    const slot = arr[idx];
+    if (slot && (slot[`${key}Time`] || slot[`${key}time`] || slot[key] || slot.dataTime || slot.time)) {
+      return slot[`${key}Time`] || slot[`${key}time`] || slot[key] || slot.dataTime || slot.time;
+    }
+  }
+  return null;
+}
+
+function readElementValue(map, key, idx) {
+  const arr = map.get(key);
+  if (!arr || !arr[idx]) return null;
+  const node = arr[idx];
+  if (node.parameter) {
+    return node.parameter.parameterName || node.parameter.parameterValue || node.parameter.value || null;
+  }
+  if (Array.isArray(node.elementValue) && node.elementValue.length) {
+    const ev = node.elementValue[0];
+    return ev.value ?? ev.elementValue ?? ev.measures ?? ev.parameterName ?? null;
+  }
+  if (node.value != null) return node.value;
+  if (node.text) return node.text;
+  return node.parameterName || null;
+}
+
+function renderForecast(slots, county) {
+  if (!dom.forecastSlots) return;
+  if (!slots.length) {
+    dom.forecastSlots.innerHTML = '<div class="alert-item">找不到預報資料。</div>';
+    dom.forecastSlots.classList.add("ghost-status");
+    return;
+  }
+  dom.forecastSlots.classList.remove("ghost-status");
+  dom.forecastSlots.innerHTML = slots
+    .slice(0, 4)
+    .map((s, idx) => {
+      const range = formatTimeRange(s.start, s.end);
+      return `<div class="forecast-card">
+        <div class="forecast-header">
+          <div>
+            <div class="eyebrow">${sanitizeText(s.location || county)}</div>
+            <div class="forecast-range">${sanitizeText(range || `時段 ${idx + 1}`)}</div>
+          </div>
+          ${s.wx ? `<span class="badge">${sanitizeText(s.wx)}</span>` : ""}
+        </div>
+        <div class="forecast-row"><span>降雨機率</span><span>${s.pop != null ? `${s.pop}%` : "—"}</span></div>
+        <div class="forecast-row"><span>最高溫</span><span>${s.maxT != null ? `${s.maxT}°C` : "—"}</span></div>
+        <div class="forecast-row"><span>最低溫</span><span>${s.minT != null ? `${s.minT}°C` : "—"}</span></div>
+        <div class="forecast-row"><span>舒適度</span><span>${s.ci ?? "—"}</span></div>
+        <div class="forecast-row"><span>相對濕度</span><span>${s.rh != null ? `${s.rh}%` : "—"}</span></div>
+      </div>`;
+    })
+    .join("");
+}
+
+async function loadLiveTyphoon() {
+  setRealtimeStatus("讀取即時颱風消息...");
+  try {
+    const data = await fetchCwaDataset("W-C0034-005");
+    const typhoons = normalizeTyphoon(data);
+    renderLiveTyphoon(typhoons);
+    setRealtimeStatus(typhoons.length ? "已更新即時颱風資訊。" : "目前沒有最新颱風消息。");
+  } catch (err) {
+    console.error(err);
+    renderLiveTyphoon([]);
+    setRealtimeStatus(err.message || "讀取颱風資料失敗");
+  }
+}
+
+function normalizeTyphoon(payload) {
+  const records = payload?.records || {};
+  const list = [];
+  const arr = records.typhoon || records.typhoons || records.tropicalCyclone || records.cyclone || [];
+  if (Array.isArray(arr)) {
+    arr.forEach((item) => {
+      const track = extractTrackPoints(item);
+      list.push({
+        name: item.cwaTyphoonName || item.typhoonName || item.name || item.title || item.id,
+        id: item.typhoonId || item.no || item.serial || item.id,
+        status: item.status || item.alertLevel || item.typhoonStatus,
+        time: item.issueTime || item.publishTime || item.time || item.dataTime,
+        text: item.description || item.summary || item.remark || item.text,
+        track,
+      });
+    });
+  }
+  if (!list.length && Array.isArray(records.typhoonInfos)) {
+    records.typhoonInfos.forEach((item) => {
+      list.push({
+        name: item.name || item.title || item.id,
+        id: item.id,
+        status: item.status,
+        time: item.issueTime || item.publishTime,
+        text: item.remark || item.description,
+        track: extractTrackPoints(item),
+      });
+    });
+  }
+  return list;
+}
+
+function renderLiveTyphoon(list) {
+  if (!dom.typhoonLiveList) return;
+  if (realtimeState.typhoonLayer && realtimeState.typhoonMap) {
+    realtimeState.typhoonMap.removeLayer(realtimeState.typhoonLayer);
+    realtimeState.typhoonLayer = null;
+  }
+  if (!list.length) {
+    dom.typhoonLiveList.innerHTML = '<div class="typhoon-live-item">目前沒有颱風警報或資料尚未提供。</div>';
+    dom.typhoonLiveList.classList.add("ghost-status");
+    return;
+  }
+  dom.typhoonLiveList.classList.remove("ghost-status");
+  dom.typhoonLiveList.innerHTML = list
+    .map((t) => {
+      return `<div class="typhoon-live-item">
+        <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <strong>${sanitizeText(t.name || "未命名")}</strong>
+          ${t.status ? `<span class="badge">${sanitizeText(t.status)}</span>` : ""}
+          ${t.id ? `<span class="badge">#${sanitizeText(t.id)}</span>` : ""}
+        </div>
+        ${t.time ? `<div class="forecast-range">發布時間：${sanitizeText(t.time)}</div>` : ""}
+        ${t.text ? `<p class="alert-desc">${sanitizeText(t.text)}</p>` : ""}
+      </div>`;
+    })
+    .join("");
+
+  // 繪製第一筆可用的路徑
+  const track = list.find((t) => t.track && t.track.length)?.track;
+  if (track && realtimeState.typhoonMap) {
+    realtimeState.typhoonLayer = L.polyline(
+      track.map((p) => [p.lat, p.lon]),
+      { color: "#2563eb", weight: 4, opacity: 0.9 }
+    ).addTo(realtimeState.typhoonMap);
+    try {
+      const bounds = realtimeState.typhoonLayer.getBounds();
+      if (bounds.isValid()) {
+        realtimeState.typhoonMap.fitBounds(bounds, { padding: [20, 20] });
+      }
+    } catch (_) {
+      // ignore
+    }
+  }
+}
+
+function extractTrackPoints(obj) {
+  if (!obj || typeof obj !== "object") return [];
+  let found = null;
+  function walk(node) {
+    if (found) return;
+    if (Array.isArray(node)) {
+      const pts = node.map(parseTrackPoint).filter(Boolean);
+      if (pts.length >= 2) {
+        found = pts;
+        return;
+      }
+      node.forEach(walk);
+    } else if (node && typeof node === "object") {
+      Object.values(node).forEach(walk);
+    }
+  }
+  walk(obj);
+  return found || [];
+}
+
+function parseTrackPoint(p) {
+  if (!p || typeof p !== "object") return null;
+  const lat =
+    Number(p.lat ?? p.latitude ?? p.Latitude ?? p.LAT ?? p.latitute ?? p.Lat ?? p.緯度);
+  const lon =
+    Number(p.lon ?? p.longitude ?? p.Longitude ?? p.LON ?? p.lonitude ?? p.Lon ?? p.經度);
+  if (!Number.isFinite(lat) || !Number.isFinite(lon)) return null;
+  return {
+    lat,
+    lon,
+    time: p.time || p.dateTime || p.DateTime || p.datetime,
+  };
+}
+
+function sanitizeText(text) {
+  return String(text ?? "").replace(/[<>]/g, "");
+}
+
+function formatTimeRange(start, end) {
+  if (!start && !end) return "";
+  if (start && end) return `${start} ~ ${end}`;
+  return start || end || "";
 }

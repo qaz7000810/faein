@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>氣象觀測與颱風放假視覺化</title>
+  <title>氣象觀測與颱風視覺化</title>
   <link rel="stylesheet" href="./styles.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
@@ -12,19 +12,121 @@
 <body>
   <header class="header">
     <div>
-      <p class="eyebrow">1987 - 2025 | 臺灣氣象站歷史數據</p>
-      <p class="eyebrow">2004 - 2024 | 臺灣放假機率與軌跡</p>
-      <h1>臺灣氣象探索板</h1>
-      <p class="subtitle">切換分頁可查看歷史氣象趨勢，或是各路徑颱風的放假機率與軌跡。</p>
+      <p class="eyebrow">1987 - 2025 | 台灣氣象站歷史數據</p>
+      <p class="eyebrow">2004 - 2024 | 台灣颱風放假機率</p>
+      <p class="eyebrow">CWA opendata | 即時天氣與警特報</p>
+      <h1>小氣的相反</h1>
+      <p class="subtitle">即時天氣與預報、颱風路徑與放假機率、歷史氣象數據查詢。</p>
     </div>
   </header>
 
   <nav class="tabs">
-    <button class="tab-btn active" data-tab-target="historical">歷史氣象數據</button>
+    <button class="tab-btn active" data-tab-target="realtime">即時天氣</button>
     <button class="tab-btn" data-tab-target="typhoon">颱風放假機率</button>
+    <button class="tab-btn" data-tab-target="historical">歷史氣象數據</button>
   </nav>
 
-  <main class="tab-panel active" data-tab="historical">
+  <main class="tab-panel active" data-tab="realtime">
+    <section class="panel">
+      <div class="controls">
+        <div class="control">
+          <label for="realtimeCounty">縣市</label>
+          <select id="realtimeCounty"></select>
+        </div>
+        <div class="control buttons">
+          <button id="refreshRealtimeBtn" class="primary">更新全部</button>
+          <button id="clearRealtimeBtn" class="ghost">清空</button>
+        </div>
+        <div class="control">
+          <label>狀態</label>
+          <div class="status" id="realtimeStatus">尚未請求</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel realtime-grid">
+      <div class="realtime-card">
+        <div class="realtime-card-header">
+          <div>
+            <p class="eyebrow">W-C0033-001</p>
+            <h3>天氣警特報</h3>
+          </div>
+          <button id="reloadAlertsBtn" class="ghost">重新整理</button>
+        </div>
+        <div id="alertList" class="alert-list ghost-status">尚未載入</div>
+      </div>
+
+      <div class="realtime-card">
+        <div class="realtime-card-header">
+          <div>
+            <p class="eyebrow">F-C0032-001</p>
+            <h3>未來 36 小時預報</h3>
+          </div>
+          <button id="reloadForecastBtn" class="ghost">重新整理</button>
+        </div>
+        <div id="forecastSlots" class="forecast-cards"></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="realtime-card-header">
+        <div>
+          <p class="eyebrow">W-C0034-005</p>
+          <h3>即時颱風消息與路徑</h3>
+        </div>
+        <button id="reloadLiveTyphoonBtn" class="ghost">重新整理</button>
+      </div>
+      <div id="liveTyphoonMap" class="map-shell small-map"></div>
+      <div id="typhoonLiveList" class="typhoon-live-list ghost-status">尚未載入</div>
+    </section>
+  </main>
+
+  <main class="tab-panel" data-tab="typhoon">
+    <section class="panel">
+      <div class="typhoon-controls">
+        <div>
+          <p class="eyebrow">颱風路徑 + 放假機率</p>
+          <h2>各路徑歷史軌跡與縣市放假機率</h2>
+        </div>
+        <div class="control">
+          <label for="typhoonPathSelect">選擇路徑</label>
+          <select id="typhoonPathSelect"></select>
+        </div>
+        <div class="control">
+          <label for="typhoonNameSelect">選擇颱風名稱</label>
+          <select id="typhoonNameSelect" disabled>
+            <option value="">請先選擇路徑</option>
+          </select>
+        </div>
+        <div class="status" id="typhoonStatus">載入中...</div>
+      </div>
+
+      <div class="typhoon-layout">
+        <div id="typhoonMap" class="map-shell"></div>
+        <div class="typhoon-side">
+          <div class="legend" id="typhoonLegend">
+            <div class="legend-title">放假機率色階</div>
+            <div class="legend-row"><span class="swatch" style="background:#1E90FF"></span>1-20% (極低)</div>
+            <div class="legend-row"><span class="swatch" style="background:#32CD32"></span>21-40% (低)</div>
+            <div class="legend-row"><span class="swatch" style="background:#FFFF00"></span>41-60% (中低)</div>
+            <div class="legend-row"><span class="swatch" style="background:#FF8C00"></span>61-80% (中高)</div>
+            <div class="legend-row"><span class="swatch" style="background:#FF0000"></span>81-100% (高)</div>
+          </div>
+          <div class="table-card">
+            <div class="table-header">縣市放假機率</div>
+            <table>
+              <thead>
+                <tr><th>縣市</th><th>機率 (%)</th></tr>
+              </thead>
+              <tbody id="typhoonTable"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <main class="tab-panel" data-tab="historical">
     <section class="panel">
       <div class="controls">
         <div class="control">
@@ -37,12 +139,12 @@
         </div>
         <div class="control">
           <label>指標</label>
-          <div class="pill">一次載入 5 個指標：氣溫、雨量、濕度、風速、日照</div>
+          <div class="pill">一次載入 5 個指標：氣溫、降雨量、濕度、風速、日照</div>
         </div>
         <div class="control">
-          <label for="rollupSelect">時間尺度</label>
+          <label for="rollupSelect">彙整尺度</label>
           <select id="rollupSelect">
-            <option value="day">日尺度（如有日彙整檔優先）</option>
+            <option value="day">日尺度（如需日均溫/總雨量）</option>
             <option value="hour">小時尺度</option>
           </select>
         </div>
@@ -99,66 +201,6 @@
       </div>
       <div class="hint">
         <p>提示：若有日彙整檔（<code>web/data/daily/*.daily.json</code>）會優先採用，載入較快；若需逐小時則改用原始 <code>*.auto_hr.txt</code>。</p>
-        <p>若看到 404，請在專案根目錄啟動本機伺服器（例：<code>python -m http.server 8000</code>），並確認 <code>Package_19460/Package_19460/*.auto_hr.txt</code> 可被讀取。</p>
-      </div>
-    </section>
-
-    <section class="panel">
-      <div class="meta">
-        <div>
-          <p class="eyebrow">檔案索引</p>
-          <p>資料來源：<code>Package_19460/Package_19460/*.auto_hr.txt</code></p>
-          <p>索引檔：<code>web/data/fileIndex.json</code>（由 <code>scripts/build_file_index.js</code> 產生）</p>
-        </div>
-        <div>
-          <p class="eyebrow">測站清單</p>
-          <p>官方測站清單（含縣市欄位）來源 <code>web/data/stations_meta.json</code></p>
-        </div>
-      </div>
-    </section>
-  </main>
-
-  <main class="tab-panel" data-tab="typhoon">
-    <section class="panel">
-      <div class="typhoon-controls">
-        <div>
-          <p class="eyebrow">颱風路徑 + 放假機率</p>
-          <h2>各路徑歷史軌跡與縣市放假機率</h2>
-        </div>
-        <div class="control">
-          <label for="typhoonPathSelect">選擇路徑</label>
-          <select id="typhoonPathSelect"></select>
-        </div>
-        <div class="control">
-          <label for="typhoonNameSelect">選擇颱風名稱</label>
-          <select id="typhoonNameSelect" disabled>
-            <option value="">請先選擇路徑</option>
-          </select>
-        </div>
-        <div class="status" id="typhoonStatus">載入中...</div>
-      </div>
-
-      <div class="typhoon-layout">
-        <div id="typhoonMap" class="map-shell"></div>
-        <div class="typhoon-side">
-          <div class="legend" id="typhoonLegend">
-            <div class="legend-title">放假機率色階</div>
-            <div class="legend-row"><span class="swatch" style="background:#1E90FF"></span>1-20% (極低)</div>
-            <div class="legend-row"><span class="swatch" style="background:#32CD32"></span>21-40% (低)</div>
-            <div class="legend-row"><span class="swatch" style="background:#FFFF00"></span>41-60% (中低)</div>
-            <div class="legend-row"><span class="swatch" style="background:#FF8C00"></span>61-80% (中高)</div>
-            <div class="legend-row"><span class="swatch" style="background:#FF0000"></span>81-100% (高)</div>
-          </div>
-          <div class="table-card">
-            <div class="table-header">縣市放假機率</div>
-            <table>
-              <thead>
-                <tr><th>縣市</th><th>機率 (%)</th></tr>
-              </thead>
-              <tbody id="typhoonTable"></tbody>
-            </table>
-          </div>
-        </div>
       </div>
     </section>
   </main>
