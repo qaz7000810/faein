@@ -3,7 +3,6 @@ const metricConfigs = {
   PP01: { label: "降雨量 (mm)", mode: "sum", color: "#4ea3ff", index: 7 },
   RH01: { label: "相對濕度 (%)", mode: "mean", color: "#fcb97d", index: 4 },
   WD01: { label: "風速 (m/s)", mode: "mean", color: "#ff7eb6", index: 5 },
-  SS01: { label: "日照時數 (hr)", mode: "sum", color: "#ffe066", index: 8 },
 };
 
 const dom = {
@@ -689,14 +688,28 @@ function renderTyphoonTable(path, typhoonName = null) {
   let rows = [];
 
   if (typhoonName && typhoonState.cityFlags.length) {
-    rows = typhoonState.cityFlags
-      .filter((r) => (isAll || r.path === pathNum) && r.typhoon === typhoonName)
-      .sort((a, b) => b.flag - a.flag)
-      .map((r) => `<tr><td>${r.county}</td><td>${Number(r.flag).toFixed(1)}</td></tr>`);
+    const counties = getAllCountiesList();
+    const valueMap = new Map(counties.map((c) => [normalizeCountyName(c), 0]));
+    typhoonState.cityFlags.forEach((r) => {
+      if (!isAll && r.path !== pathNum) return;
+      if (r.typhoon !== typhoonName) return;
+      if (Number(r.flag) > 0) {
+        valueMap.set(normalizeCountyName(r.county), 100);
+      }
+    });
+    rows = counties
+      .filter((c) => normalizeCountyName(c) !== "總計")
+      .map((c) => {
+        const val = valueMap.get(normalizeCountyName(c)) ?? 0;
+        return { county: c, val };
+      })
+      .sort((a, b) => b.val - a.val)
+      .map((r) => `<tr><td>${r.county}</td><td>${Number(r.val).toFixed(1)}</td></tr>`);
   } else {
     if (isAll) {
       const byCounty = new Map();
       typhoonState.holiday.records.forEach((r) => {
+        if (normalizeCountyName(r.county) === "總計") return;
         const prev = byCounty.get(r.county) || -Infinity;
         byCounty.set(r.county, Math.max(prev, Number(r.probability)));
       });
@@ -706,7 +719,7 @@ function renderTyphoonTable(path, typhoonName = null) {
         .map(([county, prob]) => `<tr><td>${county}</td><td>${prob.toFixed(1)}</td></tr>`);
     } else {
       rows = typhoonState.holiday.records
-        .filter((r) => r.path === pathNum)
+        .filter((r) => r.path === pathNum && normalizeCountyName(r.county) !== "總計")
         .sort((a, b) => b.probability - a.probability)
         .slice(0, 20)
         .map(
@@ -717,6 +730,22 @@ function renderTyphoonTable(path, typhoonName = null) {
   }
 
   dom.typhoonTable.innerHTML = rows.join("") || '<tr><td colspan="2">無資料</td></tr>';
+}
+
+function getAllCountiesList() {
+  if (typhoonState.countiesGeo?.features) {
+    return typhoonState.countiesGeo.features
+      .map((f) => f.properties?.COUNTYNAME || f.properties?.name)
+      .filter(Boolean);
+  }
+  if (typhoonState.holiday?.records) {
+    const set = new Set();
+    typhoonState.holiday.records.forEach((r) => {
+      if (r.county) set.add(r.county);
+    });
+    return Array.from(set);
+  }
+  return [];
 }
 
 function updateCountyLayer(path, typhoonName) {
@@ -986,16 +1015,51 @@ function normalizeAlerts(payload) {
   const records = payload?.records || payload?.Records || {};
   const list = [];
   const locs = records.location || records.locations || [];
+  const ensureArr = (val) => (Array.isArray(val) ? val : val != null ? [val] : []);
+  const collectHazards = (loc) => {
+    const collected = [];
+    const hc = loc.hazardConditions;
+    if (hc) {
+      if (Array.isArray(hc)) {
+        hc.forEach((h) => {
+          collected.push(...ensureArr(h?.hazardCondition));
+          collected.push(...ensureArr(h?.hazards));
+        });
+      } else {
+        collected.push(...ensureArr(hc.hazardCondition));
+        collected.push(...ensureArr(hc.hazards));
+      }
+    }
+    collected.push(...ensureArr(loc.hazardCondition));
+    collected.push(...ensureArr(loc.conditions));
+    return collected;
+  };
+
   locs.forEach((loc) => {
-    const hazards = loc.hazardConditions?.hazardCondition || loc.hazardCondition || loc.conditions || [];
+    const locNameNorm = normalizeCountyName(loc.locationName || loc.county || "");
+    const hazards = collectHazards(loc);
     hazards.forEach((h) => {
+      const info = h.info || {};
+      const valid = h.validTime || h.time || {};
+      const areaRaw = loc.locationName || loc.county || h.locationName || h.areaName || info.areaName || "全區";
       list.push({
-        area: loc.locationName || loc.county || h.locationName || h.areaName || "全區",
-        title: h.event || h.hazardDesc || h.hazardType || h.headline || "警特報",
-        desc: h.description || h.hazardDesc || h.info || h.content || "",
-        start: h.startTime || h.start || h.publishTime || h.time?.start,
-        end: h.endTime || h.end || h.time?.end,
-        severity: h.severity || h.significance || h.alertLevel,
+        area: normalizeCountyName(areaRaw),
+        locArea: locNameNorm,
+        areaRaw,
+        title:
+          h.event ||
+          h.hazardDesc ||
+          h.hazardType ||
+          h.headline ||
+          info.phenomena ||
+          info.event ||
+          "警特報",
+        desc: h.description || h.hazardDesc || h.info || h.content || info.description || "",
+        start: h.startTime || h.start || h.publishTime || valid.startTime || valid.start,
+        end: h.endTime || h.end || valid.endTime || valid.end,
+        severity: h.severity || h.significance || h.alertLevel || info.significance,
+        raw: h,
+        info,
       });
     });
   });
@@ -1017,23 +1081,37 @@ function normalizeAlerts(payload) {
 
 function renderAlerts(list) {
   if (!dom.alertList) return;
-  if (!list.length) {
-    dom.alertList.innerHTML = '<div class="alert-item">目前沒有警特報。</div>';
+  const county = dom.realtimeCounty?.value ? normalizeCountyName(dom.realtimeCounty.value) : "";
+  let filtered = list;
+  if (county) {
+    filtered = list.filter((a) => {
+      const aArea = normalizeCountyName(a.area);
+      const aAreaRaw = normalizeCountyName(a.areaRaw);
+      const locArea = normalizeCountyName(a.locArea);
+      return aArea === county || aAreaRaw === county || locArea === county;
+    });
+  }
+
+  // 嚴格依縣市過濾；若該縣市沒有特報，就顯示「目前沒有警特報」而不是全部資料
+  const useList = county ? filtered : list;
+
+  if (!useList.length) {
+    dom.alertList.innerHTML = `<div class="alert-item">${county ? `目前 ${county} 沒有警特報。` : "目前沒有警特報。"}</div>`;
     dom.alertList.classList.add("ghost-status");
     return;
   }
   dom.alertList.classList.remove("ghost-status");
-  dom.alertList.innerHTML = list
+  dom.alertList.innerHTML = useList
     .map((a) => {
       const range = formatTimeRange(a.start, a.end);
+      const descText = range ? `持續時間：${range}` : formatAlertDesc(a.desc, a.raw);
       return `<div class="alert-item">
         <h4 class="alert-title">${sanitizeText(a.title || "警特報")}</h4>
         <div class="alert-meta">
           ${a.area ? `<span class="badge">影響區：${sanitizeText(a.area)}</span>` : ""}
           ${a.severity ? `<span class="badge">${sanitizeText(a.severity)}</span>` : ""}
-          ${range ? `<span>${sanitizeText(range)}</span>` : ""}
         </div>
-        ${a.desc ? `<p class="alert-desc">${sanitizeText(a.desc)}</p>` : ""}
+        ${descText ? `<p class="alert-desc">${sanitizeText(descText)}</p>` : ""}
       </div>`;
     })
     .join("");
@@ -1271,4 +1349,22 @@ function formatTimeRange(start, end) {
   if (!start && !end) return "";
   if (start && end) return `${start} ~ ${end}`;
   return start || end || "";
+}
+
+
+function formatAlertDesc(desc, raw) {
+  if (desc == null) return "";
+  if (typeof desc === "string") return desc;
+  if (typeof desc === "object") {
+    // 常見格式： { language, phenomena, significance } or nested info
+    const parts = [];
+    const tryKeys = ["description", "phenomena", "significance", "event", "headline", "info"];
+    tryKeys.forEach((k) => {
+      const v = desc[k] ?? raw?.[k];
+      if (typeof v === "string") parts.push(v);
+    });
+    if (parts.length) return parts.join(" / ");
+    return JSON.stringify(desc);
+  }
+  return String(desc);
 }
